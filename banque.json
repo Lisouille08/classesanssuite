@@ -1,0 +1,33 @@
+[
+  {
+    "nom": "jayro",
+    "compte_courant": 3200,
+    "livret_a": 5500,
+    "credits": ["Maison", "Consommation"],
+    "carte_cb": "4976 8412 3344 0092",
+    "operations": [
+      {
+        "mois": "Mars 2025",
+        "depenses": [
+          {"date": "04/03", "libelle": "Zara", "montant": 117.45, "categorie": "Shopping"},
+          {"date": "20/03", "libelle": "Orange", "montant": 92.99, "categorie": "Abonnement"},
+          {"date": "07/03", "libelle": "Netflix", "montant": 52.18, "categorie": "Loisirs"}
+        ]
+      },
+      {
+        "mois": "Avril 2025",
+        "depenses": [
+          {"date": "02/04", "libelle": "Carrefour", "montant": 45.23, "categorie": "Alimentation"},
+          {"date": "14/04", "libelle": "Uber", "montant": 25.78, "categorie": "Transport"}
+        ]
+      },
+      {
+        "mois": "Mai 2025",
+        "depenses": [
+          {"date": "06/05", "libelle": "Blablacar", "montant": 18.60, "categorie": "Transport"},
+          {"date": "09/05", "libelle": "SNCF", "montant": 84.50, "categorie": "Transport"}
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "nom": "jayro",
+    "profil_picture": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/jayro_pp.png",
+    "bio": "Rappeur. Studio addict. 🔥🎤",
+    "publications": [
+      {
+        "id": "jayro_001",
+        "image": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/jayro_post1.jpg",
+        "description": "Dernier enregistrement 🎶 #StudioVibes",
+        "date": "11 août 2023",
+        "commentaires": [
+          {
+            "auteur": "naila",
+            "texte": "🔥🔥🔥"
+          },
+          {
+            "auteur": "tyke",
+            "texte": "Toujours aussi lourd !"
+          }
+        ]
+      },
+      {
+        "id": "jayro_002",
+        "image": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/jayro_post2.jpg",
+        "description": "Pas besoin de filtre.",
+        "date": "8 août 2023",
+        "commentaires": []
+      }
+    ]
+  },
+  {
+    "nom": "naila",
+    "profil_picture": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/naila_pp.png",
+    "bio": "Make-up 💄 | Vibes | Trop de pensées à minuit 🌙",
+    "publications": [
+      {
+        "id": "naila_001",
+        "image": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/naila_post1.jpg",
+        "description": "Souvenirs...",
+        "date": "10 août 2023",
+        "commentaires": [
+          {
+            "auteur": "jayro",
+            "texte": "T'étais belle là."
+          }
+        ]
+      }
+    ]
+  }
+]

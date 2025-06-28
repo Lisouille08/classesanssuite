@@ -1,0 +1,42 @@
+[
+  {
+    "person": "Jayro",
+    "messagesGroup": [
+      {
+        "name": "Maman",
+        "messages": [
+          {
+            "from": "me",
+            "text": "Tu passes me voir ce soir ?",
+            "date": "12/08/2023",
+            "heure": "18:00"
+          },
+          {
+            "from": "them",
+            "text": "Oui, vers 20h !",
+            "date": "12/08/2023",
+            "heure": "18:01"
+          }
+        ]
+      },
+      {
+        "name": "Ex",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Pourquoi t’as reposté cette photo ?",
+            "date": "12/08/2023",
+            "heure": "19:40"
+          },
+          {
+            "from": "me",
+            "text": "Je fais ce que je veux.",
+            "date": "12/08/2023",
+            "heure": "19:42"
+          }
+        ]
+      }
+    ]
+  }
+]
+

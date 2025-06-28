@@ -1,0 +1,82 @@
+[
+  {
+    "nom": "naila",
+    "lieu": "Commissariat du 18e, Paris",
+    "date": "13 août 2023",
+    "heure": "14h42",
+    "policier": "Capitaine Roland Dumesnil",
+    "dossier": "CSS-PAR-231208-N",
+    "dialogue": [
+      {
+        "question": "Pouvez-vous nous expliquer ce que vous faisiez au studio le 12 août au soir ?",
+        "reponse": "Oui… je suis passée voir Jayro. On ne s’était pas parlé la veille. Il me manque parfois, alors... voilà. J’y vais de temps en temps, quand je sais qu’il est là."
+      },
+      {
+        "question": "Vous aviez rendez-vous avec lui ?",
+        "reponse": "Non, pas vraiment. Je savais juste qu’il était au studio ce soir-là, alors j’ai débarqué un peu à l’improviste. Il m’a laissée monter."
+      },
+      {
+        "question": "À quelle heure êtes-vous arrivée ?",
+        "reponse": "Vers 19h50… peut-être un peu avant 20h. Je ne regardais pas trop l’heure."
+      },
+      {
+        "question": "Qui était présent sur place ?",
+        "reponse": "Il y avait RICO quand je suis arrivée. Il est reparti avant moi, genre dix minutes avant que je parte."
+      },
+      {
+        "question": "De quoi avez-vous parlé avec Jayro ?",
+        "reponse": "De tout et de rien. De ses projets, de la musique… et un peu de nous. Rien de spécial. On est restés dans la salle principale. Et... je suis gênée de devoir dire ça mais on a couché ensemble."
+      },
+      {
+        "question": "Êtes-vous revenue au studio après 21h ?",
+        "reponse": "Non. Je suis rentrée chez moi. J’habite à deux stations de là."
+      },
+      {
+        "question": "Quelle est votre main dominante ?",
+        "reponse": "Je suis droitière."
+      },
+      {
+        "question": "Vous avez laissé des affaires au studio ce soir-là ?",
+        "reponse": "Euh… oui j’ai oublié ma trousse de toilette. Je l’avais dans mon sac, et j’ai dû la poser quelque part. J’ai pas réalisé sur le moment."
+      },
+      {
+        "question": "Avez-vous quelque chose à ajouter ?",
+        "reponse": "Non… c’est juste choquant tout ça. Je ne m’attendais pas à... à ce genre de nouvelles. Il avait l’air bien, ce soir-là. Normal. Il était même encore plus joyeux que d’habitude. Je le rendais heureux."
+      }
+    ]
+  },
+  {
+    "nom": "tyke",
+    "lieu": "Brigade financière, Lyon",
+    "date": "14 août 2023",
+    "heure": "10h15",
+    "policier": "Lieutenant Sophie Marot",
+    "dossier": "CSS-LYO-231208-T",
+    "dialogue": [
+      {
+        "question": "Avez-vous eu récemment des échanges avec Jayro ?",
+        "reponse": "Oui, nous avions eu un désaccord sur son contrat. Il voulait changer de maison d’édition, ce que je trouvais prématuré."
+      },
+      {
+        "question": "Quand l’avez-vous vu pour la dernière fois ?",
+        "reponse": "Cela doit remonter à une semaine, à notre dernier rendez-vous à son studio. Je n’y suis pas retourné depuis."
+      },
+      {
+        "question": "Une caméra vous a filmé le soir du 12 août devant le studio. Que faisiez-vous là ?",
+        "reponse": "... Je... j’ai déposé une lettre de résiliation. C’est vrai. Mais je ne voulais pas le déranger, je suis reparti aussitôt."
+      },
+      {
+        "question": "Pourquoi ne pas avoir mentionné cette visite plus tôt ?",
+        "reponse": "Je ne pensais pas que c’était pertinent. Et... j’étais nerveux. J’ai paniqué."
+      },
+      {
+        "question": "Quelle est votre main dominante ?",
+        "reponse": "Je suis droitier."
+      },
+      {
+        "question": "Avez-vous des témoins pouvant confirmer votre emploi du temps ce soir-là ?",
+        "reponse": "Je suis rentré chez moi vers 20h30. Ma compagne était là. Vous pouvez lui demander."
+      }
+    ]
+  }
+]
