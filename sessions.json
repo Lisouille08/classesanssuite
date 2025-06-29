@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ID7394",
+    "mdp": "CSS",
+    "role": "maitre",
+    "active": false
+  },
+  {
+    "id": "INV001",
+    "mdp": "INVITE",
+    "role": "invite",
+    "linked_to": "ID7394"
+  },
+  {
+    "id": "INV002",
+    "mdp": "INVITE",
+    "role": "invite",
+    "linked_to": "ID7394"
+  }
+]
