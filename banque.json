@@ -11,6 +11,7 @@
         "depenses": [
           {"date": "04/03", "libelle": "Zara", "montant": 117.45, "categorie": "Shopping"},
           {"date": "20/03", "libelle": "Orange", "montant": 92.99, "categorie": "Abonnement"},
+          {"date": "20/03", "libelle": "SFR", "montant": 82.99, "categorie": "Abonnement"},
           {"date": "07/03", "libelle": "Netflix", "montant": 52.18, "categorie": "Loisirs"}
         ]
       },
