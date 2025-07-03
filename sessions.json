@@ -16,5 +16,17 @@
     "mdp": "INVITE",
     "role": "invite",
     "linked_to": "ID7394"
+  },
+  {
+    "id": "ID8492",
+    "mdp": "ZENITH",
+    "role": "maitre",
+    "active": false
+  },
+  {
+    "id": "INV8492",
+    "mdp": "INVITE",
+    "role": "invite",
+    "linked_to": "ID8492"
   }
 ]
