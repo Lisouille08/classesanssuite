@@ -1,0 +1,19 @@
+[
+  {
+    "person": "Jayro",
+    "events": [
+      {
+        "date": "2023-08-10",
+        "hour": "14:00",
+        "title": "Répétition studio",
+        "description": "Session avec Rico et Tyke"
+      },
+      {
+        "date": "2023-08-11",
+        "hour": "10:30",
+        "title": "Brunch avec Maëlle",
+        "description": "Café Or Noir, 10e"
+      }
+    ]
+  }
+]
