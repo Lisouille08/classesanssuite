@@ -1,14 +1,29 @@
 [
   {
     "src": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Naila_Domicile_de_Jayro_12_aout.jpg?v=1749919225",
-    "tags": ["Naila", "Domicile", "Jayro", "12 août"]
+    "tags": ["Naila", "Domicile", "Jayro", "12 août"],
+    "lieu": "Domicile de Jayro",
+    "date": "12/08/2023",
+    "heure": "20:05",
+    "suspect": "Naila",
+    "description": "Caméra de l’entrée principale. Naila est aperçue arrivant au domicile de Jayro avec un sac à la main."
   },
   {
     "src": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Jayro-Studio-12_aout.jpg?v=1749919225",
-    "tags": ["Jayro", "Studio", "12 août"]
+    "tags": ["Jayro", "Studio", "12 août"],
+    "lieu": "Studio d’enregistrement",
+    "date": "12/08/2023",
+    "heure": "21:42",
+    "suspect": "Jayro",
+    "description": "Jayro est filmé dans le couloir du studio, semblant en pleine discussion au téléphone."
   },
   {
     "src": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Tyke_studio_12_aout.jpg?v=1749919224",
-    "tags": ["Tyke", "Studio", "12 août"]
+    "tags": ["Tyke", "Studio", "12 août"],
+    "lieu": "Studio d’enregistrement",
+    "date": "12/08/2023",
+    "heure": "20:17",
+    "suspect": "Tyke",
+    "description": "Tyke est aperçu discrètement entrant dans le studio avec une enveloppe visible dans sa poche."
   }
 ]
