@@ -23,16 +23,6 @@
           { "from": "me",   "text": "J’y suis. Je sors 5 min.", "date": "2023-08-12", "heure": "21:03" },
           { "from": "them", "text": "Pas de retard. Et coupe ton tel pendant la prise.", "date": "2023-08-12", "heure": "21:04" }
         ]
-      },
-      {
-        "thread_id": "jayro_femme_rico",
-        "name": "L.",
-        "number": "+33 7 66 77 88 99",
-        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_L.png",
-        "messages": [
-          { "from": "me",   "text": "Tu passes après ?", "date": "2023-08-12", "heure": "19:18" },
-          { "from": "them", "text": "Pas sûre… on en parle demain.", "date": "2023-08-12", "heure": "19:20" }
-        ]
       }
     ]
   },
@@ -48,16 +38,6 @@
           { "from": "me",   "text": "Je suis passée, j’ai oublié la trousse.", "date": "2023-08-12", "heure": "20:06" },
           { "from": "them", "text": "Ok je la garde, repasse demain.", "date": "2023-08-12", "heure": "20:12" }
         ]
-      },
-      {
-        "thread_id": "naila_amie",
-        "name": "Maya",
-        "number": "+33 6 55 44 33 22",
-        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_maya.png",
-        "messages": [
-          { "from": "them", "text": "Toujours au studio ?", "date": "2023-08-12", "heure": "20:30" },
-          { "from": "me",   "text": "Non, je suis partie à 20:17.", "date": "2023-08-12", "heure": "20:31" }
-        ]
       }
     ]
   },
@@ -72,16 +52,6 @@
         "messages": [
           { "from": "me",   "text": "Prises à 21:00. Sois prêt.", "date": "2023-08-12", "heure": "18:41" },
           { "from": "them", "text": "J’y suis.", "date": "2023-08-12", "heure": "21:03" }
-        ]
-      },
-      {
-        "thread_id": "rico_tykesec",
-        "name": "Tyke",
-        "number": "+33 6 99 88 77 66",
-        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_tyke.png",
-        "messages": [
-          { "from": "them", "text": "Tu l’as vu ce soir ?", "date": "2023-08-12", "heure": "20:20" },
-          { "from": "me",   "text": "Rapidement. Rien à signaler.", "date": "2023-08-12", "heure": "20:23" }
         ]
       }
     ]
