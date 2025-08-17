@@ -1,0 +1,88 @@
+{
+  "suspects": [
+    {
+      "name": "RICO",
+      "aka": ["Ricardo M."],
+      "adresse": "3 Impasse des Tilleuls, 69004 Lyon",
+      "nationalite": "Française",
+      "naissance": { "date": "1992-01-14", "lieu": "Lyon (69)" },
+      "casier": [
+        {
+          "qualification": "Violences volontaires aggravées (ITT < 8 jours)",
+          "resume": "Altercation à la sortie d'un club. Témoins concordants, vidéos partielles.",
+          "date_infraction": "2020-03-12",
+          "date_decision": "2021-01-18",
+          "lieu": "Lyon 2e",
+          "juridiction": "TGI Lyon, 10e chambre correctionnelle",
+          "reference": "RG 20/04513",
+          "statut": "Condamnation",
+          "peine": { "emprisonnement": "6 mois avec sursis", "amende": "1 500 €", "sursis": "2 ans" }
+        },
+        {
+          "qualification": "Conduite sous l'empire d'un état alcoolique",
+          "resume": "Contrôle routier, taux 0,42 mg/l d'air expiré.",
+          "date_infraction": "2019-11-04",
+          "date_decision": "2020-02-10",
+          "lieu": "Villeurbanne",
+          "juridiction": "TI Villeurbanne",
+          "reference": "PV 19/77321",
+          "statut": "Condamnation",
+          "peine": { "amende": "450 €", "suspension_permis": "3 mois" }
+        }
+      ],
+      "auditions": [
+        {
+          "date": "2023-08-13 10:30",
+          "lieu": "Commissariat Paris 11",
+          "officier": "Brig. Leclerc",
+          "dossier": "JAY/2023/0812",
+          "dialogue": [
+            { "question": "Où étiez-vous le 12 août entre 20h et 22h ?", "reponse": "Au studio d’enregistrement, couloir A puis salle de mixage." },
+            { "question": "Avez-vous croisé la victime ?", "reponse": "Oui, vers 21h40. Il téléphonait." },
+            { "question": "Motif de votre présence ?", "reponse": "Récupérer un disque dur confié à Tyke." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NAILA",
+      "aka": [],
+      "adresse": "12 Rue des Écoles, 75005 Paris",
+      "nationalite": "Française",
+      "naissance": { "date": "1996-04-22", "lieu": "Paris (75)" },
+      "casier": [],
+      "auditions": [
+        {
+          "date": "2023-08-13 19:00",
+          "lieu": "Commissariat Paris 11",
+          "officier": "Lt. Bréhal",
+          "dossier": "JAY/2023/0812",
+          "dialogue": [
+            { "question": "Pourquoi êtes-vous passée au studio ?", "reponse": "J'avais oublié ma trousse de toilette." },
+            { "question": "Avez-vous manipulé les caméras ?", "reponse": "Non. Je n’ai touché à rien." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TYKE",
+      "aka": ["T.K."],
+      "adresse": "Rés. des Terrasses, 13008 Marseille",
+      "nationalite": "Française",
+      "naissance": { "date": "1998-09-03", "lieu": "Marseille (13)" },
+      "casier": [
+        {
+          "qualification": "Dégradation légère (graff)",
+          "resume": "Plainte classée faute d'éléments suffisants.",
+          "date_infraction": "2017-05-02",
+          "date_decision": "2017-06-15",
+          "lieu": "Marseille 10e",
+          "juridiction": "Parquet Marseille",
+          "reference": "CS/2017/5542",
+          "statut": "Classé sans suite"
+        }
+      ],
+      "auditions": []
+    }
+  ]
+}
