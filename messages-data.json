@@ -3,40 +3,87 @@
     "person": "Jayro",
     "messagesGroup": [
       {
-        "name": "Maman",
+        "thread_id": "jayro_naila",
+        "name": "Naila",
+        "number": "+33 6 11 22 33 44",
+        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_naila.png",
         "messages": [
-          {
-            "from": "me",
-            "text": "Tu passes me voir ce soir ?",
-            "date": "12/08/2023",
-            "heure": "18:00"
-          },
-          {
-            "from": "them",
-            "text": "Oui, vers 20h !",
-            "date": "12/08/2023",
-            "heure": "18:01"
-          }
+          { "from": "them", "text": "Je suis passée au studio, j’ai oublié ma trousse…", "date": "2023-08-12", "heure": "20:07" },
+          { "from": "me",   "text": "Reviens demain, t’inquiète je l’ai mise de côté.", "date": "2023-08-12", "heure": "20:12" },
+          { "from": "them", "text": "Ok. Et fais gaffe avec R— il devient chelou.", "date": "2023-08-12", "heure": "20:15" }
         ]
       },
       {
-        "name": "Ex",
+        "thread_id": "jayro_rico",
+        "name": "RICO",
+        "number": "+33 6 22 33 44 55",
+        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_rico.png",
         "messages": [
-          {
-            "from": "them",
-            "text": "Pourquoi t’as reposté cette photo ?",
-            "date": "12/08/2023",
-            "heure": "19:40"
-          },
-          {
-            "from": "me",
-            "text": "Je fais ce que je veux.",
-            "date": "12/08/2023",
-            "heure": "19:42"
-          }
+          { "from": "them", "text": "On finalise les prises ce soir. Sois à l’heure.", "date": "2023-08-12", "heure": "18:41" },
+          { "from": "me",   "text": "J’y suis. Je sors 5 min.", "date": "2023-08-12", "heure": "21:03" },
+          { "from": "them", "text": "Pas de retard. Et coupe ton tel pendant la prise.", "date": "2023-08-12", "heure": "21:04" }
+        ]
+      },
+      {
+        "thread_id": "jayro_femme_rico",
+        "name": "L.",
+        "number": "+33 7 66 77 88 99",
+        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_L.png",
+        "messages": [
+          { "from": "me",   "text": "Tu passes après ?", "date": "2023-08-12", "heure": "19:18" },
+          { "from": "them", "text": "Pas sûre… on en parle demain.", "date": "2023-08-12", "heure": "19:20" }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "Naila",
+    "messagesGroup": [
+      {
+        "thread_id": "naila_jayro",
+        "name": "Jayro",
+        "number": "+33 6 00 11 22 33",
+        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_jayro.png",
+        "messages": [
+          { "from": "me",   "text": "Je suis passée, j’ai oublié la trousse.", "date": "2023-08-12", "heure": "20:06" },
+          { "from": "them", "text": "Ok je la garde, repasse demain.", "date": "2023-08-12", "heure": "20:12" }
+        ]
+      },
+      {
+        "thread_id": "naila_amie",
+        "name": "Maya",
+        "number": "+33 6 55 44 33 22",
+        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_maya.png",
+        "messages": [
+          { "from": "them", "text": "Toujours au studio ?", "date": "2023-08-12", "heure": "20:30" },
+          { "from": "me",   "text": "Non, je suis partie à 20:17.", "date": "2023-08-12", "heure": "20:31" }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "RICO",
+    "messagesGroup": [
+      {
+        "thread_id": "rico_jayro",
+        "name": "Jayro",
+        "number": "+33 6 00 11 22 33",
+        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_jayro.png",
+        "messages": [
+          { "from": "me",   "text": "Prises à 21:00. Sois prêt.", "date": "2023-08-12", "heure": "18:41" },
+          { "from": "them", "text": "J’y suis.", "date": "2023-08-12", "heure": "21:03" }
+        ]
+      },
+      {
+        "thread_id": "rico_tykesec",
+        "name": "Tyke",
+        "number": "+33 6 99 88 77 66",
+        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_tyke.png",
+        "messages": [
+          { "from": "them", "text": "Tu l’as vu ce soir ?", "date": "2023-08-12", "heure": "20:20" },
+          { "from": "me",   "text": "Rapidement. Rien à signaler.", "date": "2023-08-12", "heure": "20:23" }
         ]
       }
     ]
   }
 ]
-
