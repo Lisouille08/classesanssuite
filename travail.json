@@ -59,8 +59,9 @@
         "adresse": "8 rue du Président Krüger, 69006 Lyon",
         "poste": "Assistante Marketing",
         "debut": "2023-02",
-        "fin": "2025-03",
+        "fin": "Présent",
         "contrat": "CDI",
+        "horaires": "Lun–Ven 9h00–17h30 (télétravail mar/jeu, astreinte 1 week-end/6)",
         "remuneration": { "net_mensuel": 1800 },
         "avantages": ["Télétravail 2j/sem", "CE"],
         "equipements": {
