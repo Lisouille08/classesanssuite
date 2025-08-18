@@ -1,57 +1,40 @@
 [
   {
-    "person": "Jayro",
-    "messagesGroup": [
+    "person": "jayro",
+    "avatar": "https://…/jayro.png",
+    "contacts": [
       {
-        "thread_id": "jayro_naila",
+        "id": "naila",
         "name": "Naila",
-        "number": "+33 6 11 22 33 44",
-        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_naila.png",
+        "avatar": "https://…/naila.png",
         "messages": [
-          { "from": "them", "text": "Je suis passée au studio, j’ai oublié ma trousse…", "date": "2023-08-12", "heure": "20:07" },
-          { "from": "me",   "text": "Reviens demain, t’inquiète je l’ai mise de côté.", "date": "2023-08-12", "heure": "20:12" },
-          { "from": "them", "text": "Ok. Et fais gaffe avec R— il devient chelou.", "date": "2023-08-12", "heure": "20:15" }
+          { "from": "me",   "text": "Tu pars quand ?",                     "timestamp": "2025-03-02T14:11:00+01:00" },
+          { "from": "them", "text": "Dans 10 minutes. Je prends la 208.", "timestamp": "2025-03-02T14:12:10+01:00" }
         ]
       },
       {
-        "thread_id": "jayro_rico",
-        "name": "RICO",
-        "number": "+33 6 22 33 44 55",
-        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_rico.png",
+        "id": "rico",
+        "name": "Rico",
+        "avatar": "https://…/rico.png",
         "messages": [
-          { "from": "them", "text": "On finalise les prises ce soir. Sois à l’heure.", "date": "2023-08-12", "heure": "18:41" },
-          { "from": "me",   "text": "J’y suis. Je sors 5 min.", "date": "2023-08-12", "heure": "21:03" },
-          { "from": "them", "text": "Pas de retard. Et coupe ton tel pendant la prise.", "date": "2023-08-12", "heure": "21:04" }
+          { "from": "them", "text": "On se voit ce soir ?", "timestamp": "2025-03-05T18:03:00+01:00" },
+          { "from": "me",   "text": "Pas sûr. J'ai un truc.", "timestamp": "2025-03-05T18:05:22+01:00" }
         ]
       }
     ]
   },
+
   {
-    "person": "Naila",
-    "messagesGroup": [
+    "person": "naila",
+    "avatar": "https://…/naila.png",
+    "contacts": [
       {
-        "thread_id": "naila_jayro",
+        "id": "jayro",
         "name": "Jayro",
-        "number": "+33 6 00 11 22 33",
-        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_jayro.png",
+        "avatar": "https://…/jayro.png",
         "messages": [
-          { "from": "me",   "text": "Je suis passée, j’ai oublié la trousse.", "date": "2023-08-12", "heure": "20:06" },
-          { "from": "them", "text": "Ok je la garde, repasse demain.", "date": "2023-08-12", "heure": "20:12" }
-        ]
-      }
-    ]
-  },
-  {
-    "person": "RICO",
-    "messagesGroup": [
-      {
-        "thread_id": "rico_jayro",
-        "name": "Jayro",
-        "number": "+33 6 00 11 22 33",
-        "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_jayro.png",
-        "messages": [
-          { "from": "me",   "text": "Prises à 21:00. Sois prêt.", "date": "2023-08-12", "heure": "18:41" },
-          { "from": "them", "text": "J’y suis.", "date": "2023-08-12", "heure": "21:03" }
+          { "from": "them", "text": "Tu peux passer récupérer la clé ?", "timestamp": "2025-03-02T10:01:00+01:00" },
+          { "from": "me",   "text": "Oui, 11h chez toi.",                "timestamp": "2025-03-02T10:03:00+01:00" }
         ]
       }
     ]
