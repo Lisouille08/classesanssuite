@@ -11,24 +11,58 @@
       {
         "mois": "Mai 2025",
         "depenses": [
-          {"date": "06/05", "libelle": "Blablacar", "montant": 18.60, "categorie": "Transport"},
-          {"date": "09/05", "libelle": "SNCF", "montant": 84.50, "categorie": "Transport"}
+          { "date": "06/05", "libelle": "Blablacar", "montant": 18.60, "categorie": "Transport" },
+          { "date": "09/05", "libelle": "SNCF", "montant": 84.50, "categorie": "Transport" }
         ]
       },
       {
         "mois": "Avril 2025",
         "depenses": [
-          {"date": "02/04", "libelle": "Carrefour", "montant": 45.23, "categorie": "Alimentation"},
-          {"date": "14/04", "libelle": "Uber", "montant": 25.78, "categorie": "Transport"}
+          { "date": "02/04", "libelle": "Carrefour", "montant": 45.23, "categorie": "Alimentation" },
+          { "date": "14/04", "libelle": "Uber", "montant": 25.78, "categorie": "Transport" }
         ]
       },
       {
         "mois": "Mars 2025",
         "depenses": [
-          {"date": "04/03", "libelle": "Zara", "montant": 117.45, "categorie": "Shopping"},
-          {"date": "07/03", "libelle": "Netflix", "montant": 52.18, "categorie": "Loisirs"},
-          {"date": "20/03", "libelle": "Orange", "montant": 92.99, "categorie": "Abonnement"},
-          {"date": "20/03", "libelle": "SFR", "montant": 82.99, "categorie": "Abonnement"}
+          { "date": "04/03", "libelle": "Zara", "montant": 117.45, "categorie": "Shopping" },
+          { "date": "07/03", "libelle": "Netflix", "montant": 52.18, "categorie": "Loisirs" },
+          { "date": "20/03", "libelle": "Orange", "montant": 92.99, "categorie": "Abonnement" },
+          { "date": "20/03", "libelle": "SFR", "montant": 82.99, "categorie": "Abonnement" }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "naila",
+    "banque": "CSS Bank",
+    "iban": "FR76 **** **** **** **** **987",
+    "compte_courant": 1780.35,
+    "livret_a": 2300,
+    "credits": ["Etudiant"],
+    "carte_cb": "5187 4400 9900 1123",
+    "operations": [
+      {
+        "mois": "Juin 2025",
+        "depenses": [
+          { "date": "03/06", "libelle": "Pharmacie du Centre", "montant": 14.90, "categorie": "Santé" },
+          { "date": "09/06", "libelle": "Deliveroo", "montant": 23.40, "categorie": "Restauration" },
+          { "date": "21/06", "libelle": "Spotify", "montant": 9.99, "categorie": "Abonnement" }
+        ]
+      },
+      {
+        "mois": "Mai 2025",
+        "depenses": [
+          { "date": "02/05", "libelle": "Franprix", "montant": 28.70, "categorie": "Alimentation" },
+          { "date": "12/05", "libelle": "Uber", "montant": 12.80, "categorie": "Transport" },
+          { "date": "28/05", "libelle": "Cinéma", "montant": 19.50, "categorie": "Loisirs" }
+        ]
+      },
+      {
+        "mois": "Avril 2025",
+        "depenses": [
+          { "date": "04/04", "libelle": "Zara", "montant": 59.90, "categorie": "Shopping" },
+          { "date": "18/04", "libelle": "SNCF", "montant": 46.00, "categorie": "Transport" }
         ]
       }
     ]
