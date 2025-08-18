@@ -6,21 +6,19 @@
     "ville": "Lyon",
     "jobs": [
       {
-        {
-  "employeur": "DigiCom",
-  "adresse": "8 rue du Président Krüger, 69006 Lyon",
-  "poste": "Assistante Marketing",
-  "debut": "2023-02",
-  "fin": "Présent",               // ← au lieu de "2025-03"
-  "contrat": "CDI",
-  "horaires": "Lun–Ven 9h00–17h30 (télétravail mar/jeu, astreinte 1 week-end/6)",
-  "remuneration": { "net_mensuel": 1800 },
-  "avantages": ["Télétravail 2j/sem", "CE"],
-  "equipements": {
-    "vehicule": { "marque": "Peugeot", "modele": "208", "couleur": "Rouge", "plaque": "AM-231-VD" }
-  }
-}
-
+        "employeur": "TransLogix",
+        "adresse": "12 rue des Frères Lumière, 69008 Lyon",
+        "poste": "Chauffeur-livreur",
+        "departement": "Exploitation",
+        "hierarchie": "Chef d'équipe: M. Lemoine",
+        "manager": { "nom": "Paul Lemoine", "poste": "Chef d'équipe" },
+        "debut": "2024-01",
+        "fin": "2025-05",
+        "contrat": "CDI",
+        "remuneration": { "brut_mensuel": 2100, "net_mensuel": 1650 },
+        "avantages": ["Tickets resto", "Primes de trajet"],
+        "equipements": {
+          "vehicule": { "marque": "Renault", "modele": "Kangoo", "couleur": "Blanc", "plaque": "FG-912-PQ" }
         },
         "commentaires": [
           { "auteur": "Paul Lemoine", "date": "2025-05-20", "texte": "Ponctuel. S'est plaint des plannings." }
@@ -95,4 +93,3 @@
     ]
   }
 ]
-
