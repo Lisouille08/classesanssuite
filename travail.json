@@ -1,0 +1,94 @@
+[
+  {
+    "nom": "jayro",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/jayro.jpg?v=1",
+    "age": 29,
+    "ville": "Lyon",
+    "jobs": [
+      {
+        "employeur": "TransLogix",
+        "adresse": "12 rue des Frères Lumière, 69008 Lyon",
+        "poste": "Chauffeur-livreur",
+        "departement": "Exploitation",
+        "hierarchie": "Chef d'équipe: M. Lemoine",
+        "manager": { "nom": "Paul Lemoine", "poste": "Chef d'équipe" },
+        "debut": "2024-01",
+        "fin": "2025-05",
+        "contrat": "CDI",
+        "remuneration": { "brut_mensuel": 2100, "net_mensuel": 1650 },
+        "avantages": ["Tickets resto", "Primes de trajet"],
+        "equipements": {
+          "vehicule": { "marque": "Renault", "modele": "Kangoo", "couleur": "Blanc", "plaque": "FG-912-PQ" }
+        },
+        "commentaires": [
+          { "auteur": "Paul Lemoine", "date": "2025-05-20", "texte": "Ponctuel. S'est plaint des plannings." }
+        ]
+      },
+      {
+        "employeur": "AquaCity Piscines",
+        "adresse": "45 av. du Général Leclerc, 69100 Villeurbanne",
+        "poste": "Technicien SAV",
+        "debut": "2022-04",
+        "fin": "2023-12",
+        "contrat": "CDD",
+        "remuneration": { "brut_mensuel": 1900 },
+        "avantages": ["Mutuelle", "Tenue fournie"],
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "Lycée Professionnel Ampère",
+        "adresse": "Rue Ampère, 69100 Villeurbanne",
+        "diplome": "Bac Pro Maintenance",
+        "debut": "2019-09",
+        "fin": "2022-06",
+        "commentaire": "Option équipements industriels"
+      }
+    ]
+  },
+  {
+    "nom": "naila",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/naila.jpg?v=1",
+    "age": 26,
+    "ville": "Villeurbanne",
+    "jobs": [
+      {
+        "employeur": "DigiCom",
+        "adresse": "8 rue du Président Krüger, 69006 Lyon",
+        "poste": "Assistante Marketing",
+        "debut": "2023-02",
+        "fin": "2025-03",
+        "contrat": "CDI",
+        "remuneration": { "net_mensuel": 1800 },
+        "avantages": ["Télétravail 2j/sem", "CE"],
+        "equipements": {
+          "vehicule": { "marque": "Peugeot", "modele": "208", "couleur": "Rouge", "plaque": "AM-231-VD" }
+        },
+        "commentaires": [
+          { "auteur": "HR", "date": "2025-03-07", "texte": "R.A.S., bonne intégration." }
+        ]
+      },
+      {
+        "employeur": "MarketOne",
+        "adresse": "Cours Emile Zola, 69100 Villeurbanne",
+        "poste": "Stagiaire Communication",
+        "debut": "2022-04",
+        "fin": "2022-09",
+        "contrat": "Stage",
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "Université Lyon 2",
+        "adresse": "18 Quai Claude Bernard, 69007 Lyon",
+        "diplome": "Licence Info-Com",
+        "debut": "2019-09",
+        "fin": "2022-06"
+      }
+    ]
+  }
+]
