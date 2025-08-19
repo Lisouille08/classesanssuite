@@ -1,14 +1,19 @@
 {
-  "groups": [
+  "sessions": [
     {
-      "name": "Batch_2025-08-20_20h",
-      "startAt": "2025-08-20T18:00:00Z",   // UTC (Z) pour être synchro pour tout le monde
-      "durationSec": 7200,                // 2h
-      "emailTo": "tonmail@classesanssuite.fr",
-      "sessions": [
-        { "code": "ABCD1234", "password": "morpion" },
-        { "code": "EFGH5678", "password": "perceval" }
-      ]
+      "code": "ABCD1234",
+      "password": "morpion",
+      "startAt": "2025-08-20T18:00:00Z",
+      "durationSec": 7200,
+      "emailTo": "lisa.garcia1t4@gmail.com"
+    },
+    {
+      "code": "EFGH5678",
+      "password": "perceval",
+      "startAt": "2025-08-21T18:00:00Z",
+      "durationSec": 7200,
+      "emailTo": "lisa.garcia1t4@gmail.com"
     }
   ]
 }
+
