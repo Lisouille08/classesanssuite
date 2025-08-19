@@ -1,19 +1,60 @@
-[
-  {
-    "person": "Jayro",
-    "events": [
-      {
-        "date": "2023-08-10",
-        "hour": "14:00",
-        "title": "Répétition studio",
-        "description": "Session avec Rico et Tyke"
-      },
-      {
-        "date": "2023-08-11",
-        "hour": "10:30",
-        "title": "Brunch avec Maëlle",
-        "description": "Café Or Noir, 10e"
-      }
-    ]
-  }
-]
+{
+  "suspects": [
+    {
+      "name": "RICO",
+      "events": [
+        {
+          "start": "2025-05-28T14:00:00+02:00",
+          "end":   "2025-05-28T15:00:00+02:00",
+          "title": "RDV logistique",
+          "location": "Studio B",
+          "notes": "Prépa matos — possible diversion.",
+          "tags": ["alibi", "logistique"],
+          "url": ""
+        },
+        {
+          "start": "2025-06-02T09:30:00+02:00",
+          "end":   "2025-06-02T10:00:00+02:00",
+          "title": "Café avec T.",
+          "location": "Bellecour",
+          "notes": "Message chiffré attendu.",
+          "tags": ["contact"]
+        }
+      ]
+    },
+    {
+      "name": "NAILA",
+      "events": [
+        {
+          "start": "2025-05-30T18:00:00+02:00",
+          "end":   "2025-05-30T20:15:00+02:00",
+          "title": "Répétition",
+          "location": "Salle 3",
+          "notes": "Présence incertaine de R.",
+          "tags": ["couverture"]
+        },
+        {
+          "start": "2025-06-04T12:00:00+02:00",
+          "end":   "2025-06-04T12:30:00+02:00",
+          "title": "Déj express",
+          "location": "Quai du Rhône",
+          "notes": "",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "name": "TYKE",
+      "events": [
+        {
+          "start": "2025-06-01T22:00:00+02:00",
+          "end":   "2025-06-01T23:59:00+02:00",
+          "title": "Surveillance parking",
+          "location": "Part-Dieu P3",
+          "notes": "Plaques à relever.",
+          "tags": ["surveillance", "nuit"]
+        }
+      ]
+    }
+  ]
+}
