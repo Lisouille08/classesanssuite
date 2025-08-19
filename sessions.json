@@ -1,32 +1,14 @@
-[
-  {
-    "id": "ID7394",
-    "mdp": "CSS",
-    "role": "maitre",
-    "active": true
-  },
-  {
-    "id": "INV001",
-    "mdp": "INVITE",
-    "role": "invite",
-    "linked_to": "ID7394"
-  },
-  {
-    "id": "INV002",
-    "mdp": "INVITE",
-    "role": "invite",
-    "linked_to": "ID7394"
-  },
-  {
-    "id": "ID8492",
-    "mdp": "ZENITH",
-    "role": "maitre",
-    "active": true
-  },
-  {
-    "id": "INV8492",
-    "mdp": "INVITE",
-    "role": "invite",
-    "linked_to": "ID8492"
-  }
-]
+{
+  "groups": [
+    {
+      "name": "Batch_2025-08-20_20h",
+      "startAt": "2025-08-20T18:00:00Z",   // UTC (Z) pour être synchro pour tout le monde
+      "durationSec": 7200,                // 2h
+      "emailTo": "tonmail@classesanssuite.fr",
+      "sessions": [
+        { "code": "ABCD1234", "password": "morpion" },
+        { "code": "EFGH5678", "password": "perceval" }
+      ]
+    }
+  ]
+}
