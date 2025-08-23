@@ -84,46 +84,7 @@
         ]
       }
     ]
-  },
-  {
-    "person": "jayro",
-    "avatar": "https://…/jayro.png",
-    "contacts": [
-      {
-        "id": "naila",
-        "name": "Naila",
-        "avatar": "https://…/naila.png",
-        "messages": [
-          { "from": "me",   "text": "Tu pars quand ?",                     "timestamp": "2025-03-02T14:11:00+01:00" },
-          { "from": "them", "text": "Dans 10 minutes. Je prends la 208.", "timestamp": "2025-03-02T14:12:10+01:00" }
-        ]
-      },
-      {
-        "id": "rico",
-        "name": "Rico",
-        "avatar": "https://…/rico.png",
-        "messages": [
-          { "from": "them", "text": "On se voit ce soir ?", "timestamp": "2025-03-05T18:03:00+01:00" },
-          { "from": "me",   "text": "Pas sûr. J'ai un truc.", "timestamp": "2025-03-05T18:05:22+01:00" }
-        ]
-      }
-    ]
-  },
-
-  {
-    "person": "naila",
-    "avatar": "https://…/naila.png",
-    "contacts": [
-      {
-        "id": "jayro",
-        "name": "Jayro",
-        "avatar": "https://…/jayro.png",
-        "messages": [
-          { "from": "them", "text": "Tu peux passer récupérer la clé ?", "timestamp": "2025-03-02T10:01:00+01:00" },
-          { "from": "me",   "text": "Oui, 11h chez toi.",                "timestamp": "2025-03-02T10:03:00+01:00" }
-        ]
-      }
-    ]
   }
 ]
+
 
