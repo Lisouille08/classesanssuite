@@ -1,88 +1,187 @@
 {
+  "victime": {
+    "name": "Alexio MASSENZIO",
+    "aka": ["Alexio M."],
+    "adresse": "48 Avenue Montaigne, 75008 Paris",
+    "nationalite": "Franco-italienne",
+    "naissance": { "date": "1973-05-18", "lieu": "Milan (Italie)" },
+    "entreprise": "ENGICA (énergie & infrastructures)",
+    "procedure_en_cours": [
+      {
+        "partie_adverse": "Marc DELVAL",
+        "objet": "Gouvernance et détournement présumé d'actifs au sein d’ENGICA",
+        "juridiction": "TJ Paris (pôle économique)",
+        "reference": "RG 2024/31845",
+        "statut": "Instance en cours"
+      }
+    ],
+    "auditions": []
+  },
+
   "suspects": [
     {
-      "name": "RICO",
-      "aka": ["Ricardo M."],
-      "adresse": "3 Impasse des Tilleuls, 69004 Lyon",
+      "name": "Marc DELVAL",
+      "aka": ["M. Delval"],
+      "adresse": "12 Rue de la République, 92800 Puteaux",
       "nationalite": "Française",
-      "naissance": { "date": "1992-01-14", "lieu": "Lyon (69)" },
-      "casier": [
-        {
-          "qualification": "Violences volontaires aggravées (ITT < 8 jours)",
-          "resume": "Altercation à la sortie d'un club. Témoins concordants, vidéos partielles.",
-          "date_infraction": "2020-03-12",
-          "date_decision": "2021-01-18",
-          "lieu": "Lyon 2e",
-          "juridiction": "TGI Lyon, 10e chambre correctionnelle",
-          "reference": "RG 20/04513",
-          "statut": "Condamnation",
-          "peine": { "emprisonnement": "6 mois avec sursis", "amende": "1 500 €", "sursis": "2 ans" }
-        },
-        {
-          "qualification": "Conduite sous l'empire d'un état alcoolique",
-          "resume": "Contrôle routier, taux 0,42 mg/l d'air expiré.",
-          "date_infraction": "2019-11-04",
-          "date_decision": "2020-02-10",
-          "lieu": "Villeurbanne",
-          "juridiction": "TI Villeurbanne",
-          "reference": "PV 19/77321",
-          "statut": "Condamnation",
-          "peine": { "amende": "450 €", "suspension_permis": "3 mois" }
-        }
-      ],
-      "auditions": [
-        {
-          "date": "2023-08-13 10:30",
-          "lieu": "Commissariat Paris 11",
-          "officier": "Brig. Leclerc",
-          "dossier": "JAY/2023/0812",
-          "dialogue": [
-            { "question": "Où étiez-vous le 12 août entre 20h et 22h ?", "reponse": "Au studio d’enregistrement, couloir A puis salle de mixage." },
-            { "question": "Avez-vous croisé la victime ?", "reponse": "Oui, vers 21h40. Il téléphonait." },
-            { "question": "Motif de votre présence ?", "reponse": "Récupérer un disque dur confié à Tyke." }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "NAILA",
-      "aka": [],
-      "adresse": "12 Rue des Écoles, 75005 Paris",
-      "nationalite": "Française",
-      "naissance": { "date": "1996-04-22", "lieu": "Paris (75)" },
+      "naissance": { "date": "1972-02-14", "lieu": "Marseille (13)" },
+      "profession": "Cofondateur d’ENGICA (évincé du CA)",
       "casier": [],
       "auditions": [
         {
-          "date": "2023-08-13 19:00",
-          "lieu": "Commissariat Paris 11",
-          "officier": "Lt. Bréhal",
-          "dossier": "JAY/2023/0812",
+          "date": "2024-09-15 09:10",
+          "lieu": "Commissariat Gare de Lyon",
+          "officier": "Brig. Leclerc",
+          "dossier": "TRAIN/421/2024",
           "dialogue": [
-            { "question": "Pourquoi êtes-vous passée au studio ?", "reponse": "J'avais oublié ma trousse de toilette." },
-            { "question": "Avez-vous manipulé les caméras ?", "reponse": "Non. Je n’ai touché à rien." }
+            { "question": "Motif de votre présence à bord ?", "reponse": "Rendez-vous d'affaires à Milan. Je devais aussi croiser mon avocat." },
+            { "question": "Vos relations avec la victime ?", "reponse": "Tendues. Contentieux sur la gouvernance d’ENGICA. Mais je n’allais pas régler ça dans un train." },
+            { "question": "Où étiez-vous entre 23h30 et 00h45 ?", "reponse": "Dans ma cabine 15 dès 23h40… Je suis repassé au bar à 00h30 pour régler une consommation." },
+            { "question": "Avez-vous croisé M. Massenzio après 23h30 ?", "reponse": "Non. Je l’ai vu au bar vers 23h15. Ensuite, chacun sa cabine." }
+          ],
+          "notes_verification": [
+            "Caméras wagon-bar actives à 00:30 confirment sa présence.",
+            "Relevé bancaire: paiement CB 00:30:01 au bar.",
+            "Image 23:15:29: Marc assis au fond, observe Alexio/Luc."
           ]
         }
       ]
     },
+
     {
-      "name": "TYKE",
-      "aka": ["T.K."],
-      "adresse": "Rés. des Terrasses, 13008 Marseille",
+      "name": "Elena ROSSI",
+      "aka": ["E. Rossi"],
+      "adresse": "Via Roma 22, 10123 Torino (Italie)",
+      "nationalite": "Italienne",
+      "naissance": { "date": "1985-09-05", "lieu": "Turin (Italie)" },
+      "profession": "Femme au foyer (épouse d’un industriel du textile)",
+      "casier": [],
+      "auditions": [
+        {
+          "date": "2024-09-15 11:20",
+          "lieu": "Commissariat Lyon-Part-Dieu (PV à distance)",
+          "officier": "Lt. Moreau",
+          "dossier": "TRAIN/421/2024",
+          "dialogue": [
+            { "question": "Vous êtes montée à bord à quelle heure ?", "reponse": "À 23h05 à Lyon-Part-Dieu. J’ai une place en cabine 18." },
+            { "question": "Avez-vous parlé à la victime ?", "reponse": "Seulement croisée dans le couloir en montant. Aucun échange." },
+            { "question": "Où étiez-vous entre 00h20 et 00h45 ?", "reponse": "Dans ma cabine. J’ai envoyé un message à ma sœur vers 00h28 et je me suis couchée." },
+            { "question": "Gant taché retrouvé dans vos affaires ?", "reponse": "C’est du sang de viande, j’avais transporté des spécialités pour ma famille." }
+          ],
+          "notes_verification": [
+            "Image 23:05:12: Elena sur le quai/couloir en montée.",
+            "Rapport labo: première lecture ambiguë, contre-analyse = sang animal."
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Luc MOREL",
+      "aka": ["L. Morel"],
+      "adresse": "14 Rue des Vignes, 75016 Paris",
       "nationalite": "Française",
-      "naissance": { "date": "1998-09-03", "lieu": "Marseille (13)" },
+      "naissance": { "date": "1978-11-03", "lieu": "Dijon (21)" },
+      "profession": "Contrôleur SNCF (train de nuit 421)",
       "casier": [
         {
-          "qualification": "Dégradation légère (graff)",
-          "resume": "Plainte classée faute d'éléments suffisants.",
-          "date_infraction": "2017-05-02",
-          "date_decision": "2017-06-15",
-          "lieu": "Marseille 10e",
-          "juridiction": "Parquet Marseille",
-          "reference": "CS/2017/5542",
-          "statut": "Classé sans suite"
+          "qualification": "Injonction de payer (contentieux de loyers impayés)",
+          "resume": "Arriérés de loyers sur 6 mois. Difficultés financières chroniques.",
+          "date_infraction": "2022-05-10",
+          "date_decision": "2022-09-02",
+          "lieu": "Paris 16e",
+          "juridiction": "Juge des contentieux de la protection – TJ Paris",
+          "reference": "IP 2022/45119",
+          "statut": "Décision civile exécutoire",
+          "peine": { "dettes": "7 480 € + intérêts", "mesure": "Échelonnement ordonné" }
+        },
+        {
+          "qualification": "Interdiction bancaire / chèque sans provision",
+          "resume": "Plusieurs rejets, inscription FICP/chex.",
+          "date_infraction": "2023-03-14",
+          "date_decision": "2023-04-05",
+          "lieu": "Paris",
+          "juridiction": "Mesure bancaire (Banque de France)",
+          "reference": "FICP-2023-44721",
+          "statut": "Inscription active",
+          "peine": { "mesure": "Interdiction d’émettre des chèques" }
         }
       ],
-      "auditions": []
+      "auditions": [
+        {
+          "date": "2024-09-15 07:55",
+          "lieu": "Poste SNCF à bord (prise de plainte)",
+          "officier": "Adjt. Perrin",
+          "dossier": "TRAIN/421/2024",
+          "dialogue": [
+            { "question": "Quel était votre service cette nuit ?", "reponse": "Ronde de 23h à 01h. Contrôles et sécurité." },
+            { "question": "Avez-vous échangé avec la victime ?", "reponse": "Oui au bar vers 23h15, il se plaignait du bruit. Rien d’autre." },
+            { "question": "Où étiez-vous entre 00h20 et 00h40 ?", "reponse": "Au bar, je parlais avec le barman et un voyageur." },
+            { "question": "Avez-vous touché aux caméras ?", "reponse": "Non, je n’y ai pas accès." }
+          ],
+          "notes_verification": [
+            "Image 23:15:29: Luc en uniforme près d’Alexio (OK).",
+            "Image 00:18: Luc marche vers la zone caméras (contradiction).",
+            "Coupure 00:20–00:37: Luc absent du bar pendant le créneau.",
+            "Traces hémolytiques très fines sur veste (UV) – nettoyage hâtif."
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Sofia MENDEZ",
+      "aka": ["S. Mendez"],
+      "adresse": "45 Rue de Belleville, 75020 Paris",
+      "nationalite": "Espagnole",
+      "naissance": { "date": "1989-06-29", "lieu": "Madrid (Espagne)" },
+      "profession": "Agent de service (cabines) – train de nuit",
+      "casier": [],
+      "auditions": [
+        {
+          "date": "2024-09-15 08:40",
+          "lieu": "Commissariat Gare de Lyon",
+          "officier": "Brig. Leclerc",
+          "dossier": "TRAIN/421/2024",
+          "dialogue": [
+            { "question": "Votre ronde autour de 23h40 ?", "reponse": "Je passais avec le chariot, j’ai vu M. Massenzio rentrer en cabine 14." },
+            { "question": "Avez-vous vu quelqu’un pendant la coupure ?", "reponse": "Non, j’étais côté opposé du train pour réassortir." },
+            { "question": "Et vers 00h50 ?", "reponse": "Oui, une silhouette a filé dans le couloir, trop floue pour dire qui." }
+          ],
+          "notes_verification": [
+            "Image 23:40:05: Sofia + Alexio à la porte de la 14.",
+            "Image 00:50: silhouette floue – corroboration partielle."
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Adrien LAMBERT",
+      "aka": ["A. Lambert"],
+      "adresse": "14 Rue Oberkampf, 75011 Paris",
+      "nationalite": "Française",
+      "naissance": { "date": "2000-07-17", "lieu": "Paris (75)" },
+      "profession": "Étudiant (éco) – Univ. Paris Cité",
+      "casier": [],
+      "auditions": [
+        {
+          "date": "2024-09-15 10:05",
+          "lieu": "Commissariat Gare de Lyon",
+          "officier": "Lt. Moreau",
+          "dossier": "TRAIN/421/2024",
+          "dialogue": [
+            { "question": "Connaissiez-vous la victime ?", "reponse": "Je sais que c’est mon père biologique, mais on ne se parlait pas." },
+            { "question": "Où étiez-vous entre 00h20 et 00h45 ?", "reponse": "Assis en seconde classe, écouteurs, je scrollais sur mon téléphone." },
+            { "question": "Avez-vous quitté votre voiture ?", "reponse": "Non. Juste un SMS à 00h27 et j’ai somnolé." }
+          ],
+          "notes_verification": [
+            "Image 23:20:15: Adrien assis en seconde classe, écouteurs.",
+            "Connexion téléphone localisée près de la voiture 2nde classe (pas de déplacement vers wagon-couchettes).",
+            "Image 00:38 couloir vide → aucun passage d’Adrien à cet endroit."
+          ]
+        }
+      ]
     }
   ]
 }
