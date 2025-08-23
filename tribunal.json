@@ -1,5 +1,5 @@
 {
-  "victime": {
+  "suspects": {
     "name": "Alexio MASSENZIO",
     "suspect": "Alexio Massenzio",
     "aka": ["Alexio M."],
@@ -235,7 +235,7 @@
           "dialogue": [
             {
               "question": "Connaissiez-vous personnellement M. Alexio Massenzio ?",
-              "reponse": "Non. Je ne savais pas que c’était mon père. J’ai seulement appris son nom ce matin quand on m’a interrogé, et on m’a parlé de rumeurs qui circulent en ligne."
+              "reponse": "Non. Je ne sais pas pourquoi c'est moi que vous interrogez."
             },
             {
               "question": "Décrivez précisément votre soirée à bord.",
@@ -256,3 +256,4 @@
     }
   ]
 }
+
