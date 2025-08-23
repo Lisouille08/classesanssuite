@@ -1,0 +1,105 @@
+{
+  "people": [
+    {
+      "nom": "Alexio Massenzio",
+      "naissance": { "date": "1970-11-23", "lieu": "Milan (Italie)" },
+      "adresse": "27 Avenue Montaigne, 75008 Paris",
+      "taille": "1m85",
+      "yeux": "Bleus",
+      "profession": "PDG Engica",
+      "identifiant": "FR-70-1123-ALE",
+      "cni": "URL_ALEXIO_CNI",
+      "portrait": "URL_ALEXIO_PORTRAIT",
+      "tags": ["alexio","massenzio","pdg","engica"],
+      "genealogie": [
+        { "id":"a1","name":"Alexio Massenzio","relation":"sujet" },
+        { "id":"a2","name":"Evelyne Lambert","relation":"ex-épouse","parentId":"a1" },
+        { "id":"a3","name":"Adrien Lambert","relation":"fils","parentId":"a1" }
+      ]
+    },
+    {
+      "nom": "Marc Delval",
+      "naissance": { "date": "1972-03-15", "lieu": "Paris (75)" },
+      "adresse": "14 Rue de la Pompe, 75116 Paris",
+      "taille": "1m80",
+      "yeux": "Verts",
+      "profession": "Ancien associé Engica",
+      "identifiant": "FR-72-0315-MAR",
+      "cni": "URL_MARC_CNI",
+      "portrait": "URL_MARC_PORTRAIT",
+      "tags": ["marc","delval","pdg","engica"],
+      "genealogie": [
+        { "id":"m1","name":"Marc Delval","relation":"sujet" },
+        { "id":"m2","name":"Claire","relation":"épouse","parentId":"m1" },
+        { "id":"m3","name":"Thomas","relation":"fils","parentId":"m1" }
+      ]
+    },
+    {
+      "nom": "Elena Rossi",
+      "naissance": { "date": "1981-07-12", "lieu": "Rome (Italie)" },
+      "adresse": "Via della Conciliazione 45, Rome",
+      "taille": "1m72",
+      "yeux": "Verts",
+      "profession": "Femme au foyer",
+      "identifiant": "IT-81-0712-ELE",
+      "cni": "URL_ELENA_CNI",
+      "portrait": "URL_ELENA_PORTRAIT",
+      "tags": ["elena","rossi","italie","foyer"],
+      "genealogie": [
+        { "id":"e1","name":"Elena Rossi","relation":"sujet" },
+        { "id":"e2","name":"Alessandro Rossi","relation":"époux","parentId":"e1" }
+      ]
+    },
+    {
+      "nom": "Luc Morel",
+      "naissance": { "date": "1978-05-09", "lieu": "Lille (59)" },
+      "adresse": "22 Rue du Faubourg Saint-Antoine, 75011 Paris",
+      "taille": "1m79",
+      "yeux": "Marron",
+      "profession": "Contrôleur SNCF",
+      "identifiant": "FR-78-0509-LUC",
+      "cni": "URL_LUC_CNI",
+      "portrait": "URL_LUC_PORTRAIT",
+      "tags": ["luc","morel","sncf","controleur"],
+      "genealogie": [
+        { "id":"l1","name":"Luc Morel","relation":"sujet" },
+        { "id":"l2","name":"Isabelle","relation":"ex-épouse","parentId":"l1" },
+        { "id":"l3","name":"Julien","relation":"fils","parentId":"l1" }
+      ]
+    },
+    {
+      "nom": "Sofia Mendez",
+      "naissance": { "date": "1995-02-28", "lieu": "Madrid (Espagne)" },
+      "adresse": "8 Rue de la Villette, 75019 Paris",
+      "taille": "1m65",
+      "yeux": "Noisette",
+      "profession": "Femme de chambre",
+      "identifiant": "ES-95-0228-SOF",
+      "cni": "URL_SOFIA_CNI",
+      "portrait": "URL_SOFIA_PORTRAIT",
+      "tags": ["sofia","mendez","madrid","femme de chambre"],
+      "genealogie": [
+        { "id":"s1","name":"Sofia Mendez","relation":"sujet" },
+        { "id":"s2","name":"Carlos","relation":"père","parentId":"s1" },
+        { "id":"s3","name":"Maria","relation":"mère","parentId":"s1" }
+      ]
+    },
+    {
+      "nom": "Adrien Lambert",
+      "naissance": { "date": "2002-11-05", "lieu": "Paris (75)" },
+      "adresse": "14 Rue de la Pompe, 75116 Paris",
+      "taille": "1m78",
+      "yeux": "Bleus",
+      "profession": "Étudiant",
+      "identifiant": "FR-02-1105-ADR",
+      "cni": "URL_ADRIEN_CNI",
+      "portrait": "URL_ADRIEN_PORTRAIT",
+      "tags": ["adrien","lambert","etudiant","paris"],
+      "genealogie": [
+        { "id":"ad1","name":"Adrien Lambert","relation":"sujet" },
+        { "id":"ad2","name":"Evelyne Lambert","relation":"mère","parentId":"ad1" },
+        { "id":"ad3","name":"Inconnu","relation":"père","parentId":"ad1" }
+      ]
+    }
+  ]
+}
