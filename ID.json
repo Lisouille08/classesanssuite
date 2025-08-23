@@ -5,7 +5,7 @@
       "naissance": { "date": "1970-11-23", "lieu": "Milan (Italie)" },
       "adresse": "27 Avenue Montaigne, 75008 Paris",
       "taille": "1m85",
-      "yeux": "Bleus",
+      "yeux": "Marrons",
       "profession": "PDG Engica",
       "identifiant": "FR-70-1123-ALE",
       "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CI_Alexio.png?v=1755961391",
@@ -13,8 +13,7 @@
       "tags": ["alexio","massenzio","pdg","engica"],
       "genealogie": [
         { "id":"a1","name":"Alexio Massenzio","relation":"sujet" },
-        { "id":"a2","name":"Evelyne Lambert","relation":"ex-épouse","parentId":"a1" },
-        { "id":"a3","name":"Adrien Lambert","relation":"fils","parentId":"a1" }
+        { "id":"a2","name":"Evelyne Lambert","relation":"ex-épouse","parentId":"a1" }
       ]
     },
     {
@@ -62,9 +61,7 @@
       "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/luc.png?v=1755961640",
       "tags": ["luc","morel","sncf","controleur"],
       "genealogie": [
-        { "id":"l1","name":"Luc Morel","relation":"sujet" },
-        { "id":"l2","name":"Isabelle","relation":"ex-épouse","parentId":"l1" },
-        { "id":"l3","name":"Julien","relation":"fils","parentId":"l1" }
+        { "id":"l1","name":"Luc Morel","relation":"sujet" }
       ]
     },
     {
@@ -79,9 +76,7 @@
       "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/sofia.png?v=1755961639",
       "tags": ["sofia","mendez","madrid","femme de chambre"],
       "genealogie": [
-        { "id":"s1","name":"Sofia Mendez","relation":"sujet" },
-        { "id":"s2","name":"Carlos","relation":"père","parentId":"s1" },
-        { "id":"s3","name":"Maria","relation":"mère","parentId":"s1" }
+        { "id":"s1","name":"Sofia Mendez","relation":"sujet" }
       ]
     },
     {
