@@ -45,9 +45,9 @@
     "description": "Caméra de couloir. Silhouette floue quittant rapidement la zone, impossible à identifier."
   },
   {
-    "src": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Luc_00h18.jpg?v=1755952562",
+    "src": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/LUC_MINUIT_18.jpg?v=1755952562",
     "tags": ["Luc", "Couloir", "Avant coupure", "00:18"],
-    "lieu": "Train – couloir des cabines (zone caméra)",
+    "lieu": "Train – couloir des cabines",
     "date": "15/09/2024",
     "heure": "00:18",
     "suspect": "Luc Morel",
@@ -72,3 +72,4 @@
     "description": "Caméra de voiture. Adrien Lambert assis en 2nde classe, écouteurs aux oreilles, concentré sur son téléphone."
   }
 ]
+
