@@ -1,18 +1,23 @@
 {
   "victime": {
     "name": "Alexio MASSENZIO",
+    "suspect": "Alexio Massenzio",
     "aka": ["Alexio M."],
     "adresse": "48 Avenue Montaigne, 75008 Paris",
     "nationalite": "Franco-italienne",
     "naissance": { "date": "1973-05-18", "lieu": "Milan (Italie)" },
     "entreprise": "ENGICA (énergie & infrastructures)",
-    "procedure_en_cours": [
+    "casier": [
       {
-        "partie_adverse": "Marc DELVAL",
-        "objet": "Gouvernance et détournement présumé d'actifs au sein d’ENGICA",
-        "juridiction": "TJ Paris (pôle économique)",
+        "qualification": "Procédure civile commerciale (gouvernance ENGICA)",
+        "resume": "Contentieux opposant Alexio Massenzio et Marc Delval sur la gouvernance et l'usage de fonds d’ENGICA.",
+        "date_infraction": "2024-06-03",
+        "date_decision": null,
+        "lieu": "Paris",
+        "juridiction": "TJ Paris – pôle économique",
         "reference": "RG 2024/31845",
-        "statut": "Instance en cours"
+        "statut": "Instance en cours",
+        "peine": {}
       }
     ],
     "auditions": []
@@ -26,7 +31,19 @@
       "nationalite": "Française",
       "naissance": { "date": "1972-02-14", "lieu": "Marseille (13)" },
       "profession": "Cofondateur d’ENGICA (évincé du CA)",
-      "casier": [],
+      "casier": [
+        {
+          "qualification": "Procédure civile commerciale (gouvernance ENGICA)",
+          "resume": "Litige avec Alexio Massenzio concernant des décisions stratégiques et l’allocation de capitaux au sein d’ENGICA.",
+          "date_infraction": "2024-06-03",
+          "date_decision": null,
+          "lieu": "Paris",
+          "juridiction": "TJ Paris – pôle économique",
+          "reference": "RG 2024/31845",
+          "statut": "Instance en cours",
+          "peine": {}
+        }
+      ],
       "auditions": [
         {
           "date": "2024-09-15 09:10",
@@ -34,15 +51,27 @@
           "officier": "Brig. Leclerc",
           "dossier": "TRAIN/421/2024",
           "dialogue": [
-            { "question": "Motif de votre présence à bord ?", "reponse": "Rendez-vous d'affaires à Milan. Je devais aussi croiser mon avocat." },
-            { "question": "Vos relations avec la victime ?", "reponse": "Tendues. Contentieux sur la gouvernance d’ENGICA. Mais je n’allais pas régler ça dans un train." },
-            { "question": "Où étiez-vous entre 23h30 et 00h45 ?", "reponse": "Dans ma cabine 15 dès 23h40… Je suis repassé au bar à 00h30 pour régler une consommation." },
-            { "question": "Avez-vous croisé M. Massenzio après 23h30 ?", "reponse": "Non. Je l’ai vu au bar vers 23h15. Ensuite, chacun sa cabine." }
+            {
+              "question": "Expliquez le motif de votre présence à bord.",
+              "reponse": "Je me rendais à Milan pour rencontrer un avocat d’affaires. J’étais au wagon-bar vers 23h15 puis je suis monté dans ma cabine 15 vers 23h40. Je n’avais pas prévu d’échanger avec M. Massenzio cette nuit-là."
+            },
+            {
+              "question": "Décrivez vos relations avec la victime.",
+              "reponse": "Très tendues, oui, à cause d’ENGICA. Nous sommes devant le tribunal, mais je ne règle pas mes différends à coups de couteau dans un train."
+            },
+            {
+              "question": "Où étiez-vous entre 00h20 et 00h45, période sensible ?",
+              "reponse": "Dans ma cabine. Je me suis levé à 00h30 pour régler ma consommation au bar car j’avais oublié de payer. J’y suis resté moins de deux minutes et je suis retourné directement à la cabine."
+            },
+            {
+              "question": "Avez-vous revu M. Massenzio après 23h30 ?",
+              "reponse": "Non. La dernière fois, c’était au bar vers 23h15. Après, je l’ai vu passer dans le couloir à 23h40 pendant que je refermais ma porte."
+            }
           ],
           "notes_verification": [
-            "Caméras wagon-bar actives à 00:30 confirment sa présence.",
-            "Relevé bancaire: paiement CB 00:30:01 au bar.",
-            "Image 23:15:29: Marc assis au fond, observe Alexio/Luc."
+            "Image 23:15:29 — Marc visible en arrière-plan au bar.",
+            "Preuve CB: paiement 00:30:01 au bar.",
+            "Aucune présence filmée dans le couloir entre 00:20–00:45 pour Marc."
           ]
         }
       ]
@@ -63,14 +92,26 @@
           "officier": "Lt. Moreau",
           "dossier": "TRAIN/421/2024",
           "dialogue": [
-            { "question": "Vous êtes montée à bord à quelle heure ?", "reponse": "À 23h05 à Lyon-Part-Dieu. J’ai une place en cabine 18." },
-            { "question": "Avez-vous parlé à la victime ?", "reponse": "Seulement croisée dans le couloir en montant. Aucun échange." },
-            { "question": "Où étiez-vous entre 00h20 et 00h45 ?", "reponse": "Dans ma cabine. J’ai envoyé un message à ma sœur vers 00h28 et je me suis couchée." },
-            { "question": "Gant taché retrouvé dans vos affaires ?", "reponse": "C’est du sang de viande, j’avais transporté des spécialités pour ma famille." }
+            {
+              "question": "À quelle heure et où êtes-vous montée à bord ?",
+              "reponse": "À 23h05 à Lyon-Part-Dieu, cabine 18. Je suis passée par le quai puis le couloir des couchettes, j’ai croisé un homme en smoking que j’ai appris ensuite être la victime."
+            },
+            {
+              "question": "Avez-vous eu un échange avec la victime ?",
+              "reponse": "Non. Je l’ai simplement croisée ; il se dépêchait de rejoindre sa cabine. Je n’ai pas engagé la conversation."
+            },
+            {
+              "question": "Que faisiez-vous entre 00h20 et 00h45 (coupure caméras) ?",
+              "reponse": "Je suis restée en cabine. J’ai envoyé un message à ma sœur à 00h28 pour lui dire que j’étais installée. Ensuite, j’ai éteint la lumière."
+            },
+            {
+              "question": "Expliquez le gant taché retrouvé dans vos effets.",
+              "reponse": "Je transportais des spécialités de viande pour un dîner familial à Turin. Le gant a servi à emballer un paquet qui a suinté, d’où la trace."
+            }
           ],
           "notes_verification": [
-            "Image 23:05:12: Elena sur le quai/couloir en montée.",
-            "Rapport labo: première lecture ambiguë, contre-analyse = sang animal."
+            "Image 23:05:12 — Elena sur le quai/couloir lors de la montée.",
+            "Rapport labo: contre-analyse confirme sang animal."
           ]
         }
       ]
@@ -85,23 +126,23 @@
       "profession": "Contrôleur SNCF (train de nuit 421)",
       "casier": [
         {
-          "qualification": "Injonction de payer (contentieux de loyers impayés)",
-          "resume": "Arriérés de loyers sur 6 mois. Difficultés financières chroniques.",
+          "qualification": "Injonction de payer (loyers impayés)",
+          "resume": "Arriérés sur six mois ; difficultés financières persistantes.",
           "date_infraction": "2022-05-10",
           "date_decision": "2022-09-02",
           "lieu": "Paris 16e",
-          "juridiction": "Juge des contentieux de la protection – TJ Paris",
+          "juridiction": "JCP – TJ Paris",
           "reference": "IP 2022/45119",
           "statut": "Décision civile exécutoire",
-          "peine": { "dettes": "7 480 € + intérêts", "mesure": "Échelonnement ordonné" }
+          "peine": { "dettes": "7 480 € + intérêts", "mesure": "Échelonnement" }
         },
         {
           "qualification": "Interdiction bancaire / chèque sans provision",
-          "resume": "Plusieurs rejets, inscription FICP/chex.",
+          "resume": "Inscription FICP après rejets répétés.",
           "date_infraction": "2023-03-14",
           "date_decision": "2023-04-05",
           "lieu": "Paris",
-          "juridiction": "Mesure bancaire (Banque de France)",
+          "juridiction": "Banque de France",
           "reference": "FICP-2023-44721",
           "statut": "Inscription active",
           "peine": { "mesure": "Interdiction d’émettre des chèques" }
@@ -114,16 +155,28 @@
           "officier": "Adjt. Perrin",
           "dossier": "TRAIN/421/2024",
           "dialogue": [
-            { "question": "Quel était votre service cette nuit ?", "reponse": "Ronde de 23h à 01h. Contrôles et sécurité." },
-            { "question": "Avez-vous échangé avec la victime ?", "reponse": "Oui au bar vers 23h15, il se plaignait du bruit. Rien d’autre." },
-            { "question": "Où étiez-vous entre 00h20 et 00h40 ?", "reponse": "Au bar, je parlais avec le barman et un voyageur." },
-            { "question": "Avez-vous touché aux caméras ?", "reponse": "Non, je n’y ai pas accès." }
+            {
+              "question": "Décrivez précisément votre service cette nuit.",
+              "reponse": "J’étais de ronde de 23h à 01h. J’ai effectué un passage au bar vers 23h15, j’ai rappelé aux clients de garder le niveau sonore bas, puis j’ai continué ma tournée des couloirs."
+            },
+            {
+              "question": "Quand avez-vous vu la victime pour la dernière fois ?",
+              "reponse": "Au bar, vers 23h15. Il buvait un verre ; il s’est plaint d’un mal de tête. Je ne l’ai pas recroisé après."
+            },
+            {
+              "question": "Où étiez-vous entre 00h20 et 00h40, période durant laquelle les caméras se sont coupées ?",
+              "reponse": "Au bar, en discussion avec le barman et un voyageur. Je n’ai pas mis un pied près de la baie technique."
+            },
+            {
+              "question": "Avez-vous accès au système de caméras ?",
+              "reponse": "Non, c’est du ressort technique. Je n’ai aucune clé ou autorisation pour ça."
+            }
           ],
           "notes_verification": [
-            "Image 23:15:29: Luc en uniforme près d’Alexio (OK).",
-            "Image 00:18: Luc marche vers la zone caméras (contradiction).",
-            "Coupure 00:20–00:37: Luc absent du bar pendant le créneau.",
-            "Traces hémolytiques très fines sur veste (UV) – nettoyage hâtif."
+            "Image 23:15:29 — Luc en uniforme près d’Alexio (OK).",
+            "Image 00:18 — Luc s’avance vers la zone caméras (contradiction directe avec sa déclaration).",
+            "00:20–00:37 — coupure ; aucune trace de Luc au bar pendant ce créneau.",
+            "Lampe UV: micro-traces hémolytiques sur manchette de veste (lavage hâtif)."
           ]
         }
       ]
@@ -144,13 +197,22 @@
           "officier": "Brig. Leclerc",
           "dossier": "TRAIN/421/2024",
           "dialogue": [
-            { "question": "Votre ronde autour de 23h40 ?", "reponse": "Je passais avec le chariot, j’ai vu M. Massenzio rentrer en cabine 14." },
-            { "question": "Avez-vous vu quelqu’un pendant la coupure ?", "reponse": "Non, j’étais côté opposé du train pour réassortir." },
-            { "question": "Et vers 00h50 ?", "reponse": "Oui, une silhouette a filé dans le couloir, trop floue pour dire qui." }
+            {
+              "question": "Détaillez votre passage dans le couloir vers 23h40.",
+              "reponse": "Je remontais le couloir avec le chariot pour déposer du linge propre. J’ai vu M. Massenzio ouvrir la porte de la cabine 14 et entrer. Il m’a semblé pressé mais pas paniqué."
+            },
+            {
+              "question": "Que faisiez-vous au moment de la coupure des caméras ?",
+              "reponse": "Je partais dans l’autre sens pour réassortir, côté opposé du wagon. Je n’ai vu personne manipuler la baie technique."
+            },
+            {
+              "question": "Expliquez ce que vous avez aperçu vers 00h50.",
+              "reponse": "En revenant, j’ai vu une silhouette filer au fond du couloir. C’était rapide et flou ; impossible de distinguer le visage ou l’uniforme."
+            }
           ],
           "notes_verification": [
-            "Image 23:40:05: Sofia + Alexio à la porte de la 14.",
-            "Image 00:50: silhouette floue – corroboration partielle."
+            "Image 23:40:05 — Sofia + Alexio à la porte de la 14 (horodatage net).",
+            "Image 00:50 — Silhouette floue ; cohérent avec ses dires."
           ]
         }
       ]
@@ -162,7 +224,7 @@
       "adresse": "14 Rue Oberkampf, 75011 Paris",
       "nationalite": "Française",
       "naissance": { "date": "2000-07-17", "lieu": "Paris (75)" },
-      "profession": "Étudiant (éco) – Univ. Paris Cité",
+      "profession": "Étudiant (économie) – Université Paris Cité",
       "casier": [],
       "auditions": [
         {
@@ -171,14 +233,23 @@
           "officier": "Lt. Moreau",
           "dossier": "TRAIN/421/2024",
           "dialogue": [
-            { "question": "Connaissiez-vous la victime ?", "reponse": "Je sais que c’est mon père biologique, mais on ne se parlait pas." },
-            { "question": "Où étiez-vous entre 00h20 et 00h45 ?", "reponse": "Assis en seconde classe, écouteurs, je scrollais sur mon téléphone." },
-            { "question": "Avez-vous quitté votre voiture ?", "reponse": "Non. Juste un SMS à 00h27 et j’ai somnolé." }
+            {
+              "question": "Connaissiez-vous personnellement M. Alexio Massenzio ?",
+              "reponse": "Non. Je ne savais pas que c’était mon père. J’ai seulement appris son nom ce matin quand on m’a interrogé, et on m’a parlé de rumeurs qui circulent en ligne."
+            },
+            {
+              "question": "Décrivez précisément votre soirée à bord.",
+              "reponse": "J’étais en seconde classe, place côté fenêtre. À partir de 23h, j’écoutais de la musique avec mes écouteurs et je regardais mon téléphone. À 00h27, j’ai envoyé un message à un ami puis je me suis assoupi."
+            },
+            {
+              "question": "Avez-vous traversé les voitures vers les couchettes ?",
+              "reponse": "Non. Je ne me suis pas levé hormis pour poser mon sac au-dessus de moi. Je n’ai pas quitté la voiture de seconde classe."
+            }
           ],
           "notes_verification": [
-            "Image 23:20:15: Adrien assis en seconde classe, écouteurs.",
-            "Connexion téléphone localisée près de la voiture 2nde classe (pas de déplacement vers wagon-couchettes).",
-            "Image 00:38 couloir vide → aucun passage d’Adrien à cet endroit."
+            "Image 23:20:15 — Adrien assis en seconde classe, écouteurs.",
+            "Logs antenne interne: téléphone resté accroché à la voiture 2nde classe.",
+            "Image 00:38 — Couloir des couchettes vide au rallumage."
           ]
         }
       ]
