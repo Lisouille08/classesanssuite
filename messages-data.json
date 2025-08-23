@@ -1,5 +1,91 @@
 [
   {
+    "person": "alexio",
+    "avatar": "URL_ALEXIO_PORTRAIT",
+    "contacts": [
+      {
+        "id": "elena",
+        "name": "Elena Rossi",
+        "avatar": "URL_ELENA_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Tu as pensé à prendre ton traitement ce soir ?", "timestamp": "2024-09-13T20:12:00+02:00" },
+          { "from": "me",   "text": "Oui, je n’oublie plus depuis la dernière fois.", "timestamp": "2024-09-13T20:13:10+02:00" },
+          { "from": "them", "text": "Parfait. Et n’oublie pas que dimanche nous avons le déjeuner chez mes parents.", "timestamp": "2024-09-13T20:15:00+02:00" },
+          { "from": "me",   "text": "Oui, j’y serai. J’apporterai une bouteille de vin italien.", "timestamp": "2024-09-13T20:17:25+02:00" },
+          { "from": "them", "text": "Bonne idée. Ils apprécient toujours ça.", "timestamp": "2024-09-13T20:18:50+02:00" },
+          { "from": "me",   "text": "Ton père apprécie surtout d’avoir quelqu’un à qui parler affaires.", "timestamp": "2024-09-13T20:20:10+02:00" },
+          { "from": "them", "text": "Arrête 😅. Dors tôt ce soir, tu as l’air fatigué.", "timestamp": "2024-09-14T22:05:00+02:00" },
+          { "from": "me",   "text": "Je dors dans le train. Ne t’inquiète pas.", "timestamp": "2024-09-14T22:07:00+02:00" },
+          { "from": "them", "text": "Fais attention, tu forces trop.", "timestamp": "2024-09-14T22:08:00+02:00" },
+          { "from": "me",   "text": "Je gère. À demain ❤️", "timestamp": "2024-09-14T22:09:00+02:00" }
+        ]
+      },
+      {
+        "id": "marc",
+        "name": "Marc Delval",
+        "avatar": "URL_MARC_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Nos avocats veulent avancer l’audience au 3 octobre.", "timestamp": "2024-09-10T09:12:00+02:00" },
+          { "from": "me",   "text": "Ils peuvent bien faire ce qu’ils veulent, je ne céderai pas.", "timestamp": "2024-09-10T09:15:00+02:00" },
+          { "from": "them", "text": "Tu n’as pas intérêt à ce que ça traîne non plus. Ça coûte à tout le monde.", "timestamp": "2024-09-10T09:16:30+02:00" },
+          { "from": "me",   "text": "C’est toi qui as ouvert ce conflit, pas moi.", "timestamp": "2024-09-10T09:18:00+02:00" },
+          { "from": "them", "text": "Soit. Mais Engica continue de tourner. As-tu vu le rapport Q2 ?", "timestamp": "2024-09-11T10:11:00+02:00" },
+          { "from": "me",   "text": "Oui, les chiffres sont bons. Dommage qu’on en soit arrivé là.", "timestamp": "2024-09-11T10:13:00+02:00" },
+          { "from": "them", "text": "C’était inévitable, tu le sais.", "timestamp": "2024-09-11T10:14:00+02:00" },
+          { "from": "me",   "text": "Inévitable ou pas, il faudra en assumer les conséquences.", "timestamp": "2024-09-11T10:15:00+02:00" },
+          { "from": "them", "text": "Toujours aussi théâtral. Tu viens au CA lundi ?", "timestamp": "2024-09-12T08:10:00+02:00" },
+          { "from": "me",   "text": "Oui, bien sûr. J’ai encore des choses à dire.", "timestamp": "2024-09-12T08:12:00+02:00" }
+        ]
+      },
+      {
+        "id": "evelyne",
+        "name": "Evelyne Lambert",
+        "avatar": "URL_EVELYNE_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Je l’ai aperçu à l’université hier.", "timestamp": "2024-09-09T16:22:00+02:00" },
+          { "from": "me",   "text": "Je sais… inutile de revenir là-dessus.", "timestamp": "2024-09-09T16:24:00+02:00" },
+          { "from": "them", "text": "Il a beaucoup grandi. Tu ne trouves pas ?", "timestamp": "2024-09-09T16:25:00+02:00" },
+          { "from": "me",   "text": "Arrête. Tu sais que c’est compliqué.", "timestamp": "2024-09-09T16:26:00+02:00" },
+          { "from": "them", "text": "Un jour tu devras lui dire quelque chose.", "timestamp": "2024-09-09T16:27:00+02:00" },
+          { "from": "me",   "text": "Peut-être… mais pas maintenant.", "timestamp": "2024-09-09T16:28:00+02:00" }
+        ]
+      },
+      {
+        "id": "inconnu",
+        "name": "Inconnu",
+        "avatar": "URL_GENERIC_AVATAR",
+        "messages": [
+          { "from": "them", "text": "Je n’aurais jamais dû te donner mon numéro.", "timestamp": "2024-09-08T21:05:00+02:00" },
+          { "from": "me",   "text": "Trop tard. Je sais ce que tu fais à la SNCF.", "timestamp": "2024-09-08T21:07:00+02:00" },
+          { "from": "them", "text": "Parle pas de ça, je peux me faire virer !", "timestamp": "2024-09-08T21:09:00+02:00" },
+          { "from": "me",   "text": "Alors arrête tes combines avant que ça n’explose.", "timestamp": "2024-09-08T21:10:30+02:00" },
+          { "from": "them", "text": "Tu crois que c’est facile ? J’ai des dettes partout.", "timestamp": "2024-09-08T21:12:00+02:00" },
+          { "from": "me",   "text": "Tes dettes, ça ne me regarde pas.", "timestamp": "2024-09-08T21:13:20+02:00" },
+          { "from": "them", "text": "Si tu parles, c’est fini pour moi.", "timestamp": "2024-09-08T21:15:00+02:00" },
+          { "from": "me",   "text": "Alors tiens-toi à carreau.", "timestamp": "2024-09-08T21:16:30+02:00" },
+          { "from": "them", "text": "Je ne me laisserai pas couler seul. Tu me comprends ?", "timestamp": "2024-09-08T21:18:00+02:00" },
+          { "from": "me",   "text": "Fais ce que tu veux. Mais tôt ou tard, tout se paie.", "timestamp": "2024-09-08T21:20:00+02:00" },
+          { "from": "them", "text": "Tu verras bien ce soir.", "timestamp": "2024-09-14T21:12:00+02:00" }
+        ]
+      },
+      {
+        "id": "giorgio",
+        "name": "Giorgio Bianchi",
+        "avatar": "URL_AMI_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Toujours partant pour le yacht dimanche ?", "timestamp": "2024-09-11T18:45:00+02:00" },
+          { "from": "them", "text": "Évidemment ! Et tu t’occupes du champagne.", "timestamp": "2024-09-11T18:47:00+02:00" },
+          { "from": "me",   "text": "J’amène trois caisses, ça suffira ?", "timestamp": "2024-09-11T18:48:30+02:00" },
+          { "from": "them", "text": "Parfait. Et prépare ton maillot, cette fois tu viens nager.", "timestamp": "2024-09-11T18:49:00+02:00" },
+          { "from": "me",   "text": "On verra, l’eau de septembre est glaciale.", "timestamp": "2024-09-11T18:50:00+02:00" },
+          { "from": "them", "text": "Trop tard, j’ai parié que tu plongerais.", "timestamp": "2024-09-11T18:51:30+02:00" },
+          { "from": "me",   "text": "Encore un pari ? Décidément.", "timestamp": "2024-09-11T18:53:00+02:00" },
+          { "from": "them", "text": "Tu verras, ça te fera du bien.", "timestamp": "2024-09-11T18:54:00+02:00" }
+        ]
+      }
+    ]
+  },
+  {
     "person": "jayro",
     "avatar": "https://…/jayro.png",
     "contacts": [
@@ -40,3 +126,4 @@
     ]
   }
 ]
+
