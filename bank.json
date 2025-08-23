@@ -1,0 +1,401 @@
+[
+  {
+    "nom": "alexio",
+    "banque": "CSS Bank",
+    "iban": "FR76 **** **** **** **** **001",
+    "compte_courant": 84210.55,
+    "livret_a": 120000,
+    "credits": ["Villa Paris 8e", "Investissement Milan"],
+    "carte_cb": "4976 8412 1111 0092",
+    "operations": [
+      {
+        "mois": "Septembre 2024",
+        "depenses": [
+          { "date": "02/09", "libelle": "Uber Black", "montant": 58.00, "categorie": "Transport" },
+          { "date": "03/09", "libelle": "Cartier Champs-Élysées", "montant": 9850.00, "categorie": "Shopping luxe" },
+          { "date": "04/09", "libelle": "Hôtel Le Meurice", "montant": 1870.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "05/09", "libelle": "Air France", "montant": 1320.00, "categorie": "Transport" },
+          { "date": "06/09", "libelle": "Ladurée", "montant": 215.00, "categorie": "Restauration" },
+          { "date": "07/09", "libelle": "SNCF TGV 1ère", "montant": 198.00, "categorie": "Transport" },
+          { "date": "09/09", "libelle": "Boucheron Joaillerie", "montant": 7420.00, "categorie": "Shopping luxe" },
+          { "date": "11/09", "libelle": "Uber Black", "montant": 52.00, "categorie": "Transport" },
+          { "date": "12/09", "libelle": "Ritz Paris", "montant": 2240.00, "categorie": "Restauration" },
+          { "date": "14/09", "libelle": "Bar Train Paris–Milan (conso ~23:15)", "montant": 45.00, "categorie": "Restauration" },
+          { "date": "14/09", "libelle": "SNCF Paris→Milan 1ère", "montant": 184.00, "categorie": "Transport" },
+          { "date": "15/09", "libelle": "Taxi Milano Centrale", "montant": 39.00, "categorie": "Transport" },
+          { "date": "15/09", "libelle": "NH Collection Milano", "montant": 680.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "15/09", "libelle": "Amazon Prime", "montant": 49.99, "categorie": "Abonnement" },
+          { "date": "16/09", "libelle": "Hermès Via Montenapoleone", "montant": 6120.00, "categorie": "Shopping luxe" },
+          { "date": "17/09", "libelle": "Uber Black", "montant": 46.00, "categorie": "Transport" },
+          { "date": "18/09", "libelle": "Da Giacomo (Milano)", "montant": 325.00, "categorie": "Restauration" },
+          { "date": "20/09", "libelle": "Tesla Supercharge", "montant": 42.90, "categorie": "Transport" }
+        ]
+      },
+      {
+        "mois": "Août 2024",
+        "depenses": [
+          { "date": "02/08", "libelle": "Cartier Champs-Élysées", "montant": 12450.00, "categorie": "Shopping luxe" },
+          { "date": "03/08", "libelle": "Hôtel Le Meurice", "montant": 1870.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "05/08", "libelle": "SNCF TGV 1ère", "montant": 184.00, "categorie": "Transport" },
+          { "date": "07/08", "libelle": "Amazon Prime", "montant": 49.99, "categorie": "Abonnement" },
+          { "date": "08/08", "libelle": "Air France", "montant": 1320.00, "categorie": "Transport" },
+          { "date": "10/08", "libelle": "Ritz Paris", "montant": 2240.00, "categorie": "Restauration" },
+          { "date": "12/08", "libelle": "Uber Black", "montant": 62.00, "categorie": "Transport" },
+          { "date": "14/08", "libelle": "Louis Vuitton", "montant": 3400.00, "categorie": "Shopping luxe" },
+          { "date": "18/08", "libelle": "SNCF TGV 1ère", "montant": 192.00, "categorie": "Transport" },
+          { "date": "20/08", "libelle": "Boucheron Joaillerie", "montant": 9850.00, "categorie": "Shopping luxe" },
+          { "date": "23/08", "libelle": "Uber Black", "montant": 54.00, "categorie": "Transport" },
+          { "date": "25/08", "libelle": "Pullman Paris Tour Eiffel", "montant": 760.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "26/08", "libelle": "Ladurée Champs-Élysées", "montant": 245.00, "categorie": "Restauration" },
+          { "date": "28/08", "libelle": "Tesla Supercharge", "montant": 44.90, "categorie": "Transport" },
+          { "date": "30/08", "libelle": "Hermès Faubourg", "montant": 7150.00, "categorie": "Shopping luxe" },
+          { "date": "31/08", "libelle": "Taxi G7", "montant": 38.00, "categorie": "Transport" }
+        ]
+      },
+      {
+        "mois": "Juillet 2024",
+        "depenses": [
+          { "date": "02/07", "libelle": "Air France", "montant": 2800.00, "categorie": "Transport" },
+          { "date": "04/07", "libelle": "SNCF TGV 1ère", "montant": 210.00, "categorie": "Transport" },
+          { "date": "07/07", "libelle": "Ritz Paris", "montant": 1890.00, "categorie": "Restauration" },
+          { "date": "10/07", "libelle": "Galeries Lafayette", "montant": 950.00, "categorie": "Shopping" },
+          { "date": "12/07", "libelle": "Rolex", "montant": 17800.00, "categorie": "Shopping luxe" },
+          { "date": "16/07", "libelle": "Hôtel Barrière Enghien", "montant": 720.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "18/07", "libelle": "Uber Black", "montant": 52.00, "categorie": "Transport" },
+          { "date": "20/07", "libelle": "Ladurée", "montant": 210.00, "categorie": "Restauration" },
+          { "date": "23/07", "libelle": "Cartier Joaillerie", "montant": 6250.00, "categorie": "Shopping luxe" },
+          { "date": "25/07", "libelle": "SNCF TGV 1ère", "montant": 188.00, "categorie": "Transport" },
+          { "date": "28/07", "libelle": "Le Meurice", "montant": 2150.00, "categorie": "Restauration" },
+          { "date": "30/07", "libelle": "Tesla Supercharge", "montant": 39.50, "categorie": "Transport" }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "marc",
+    "banque": "CSS Bank",
+    "iban": "FR76 **** **** **** **** **002",
+    "compte_courant": 27650.90,
+    "livret_a": 42000,
+    "credits": ["Appartement Neuilly", "Cabinet avocat"],
+    "carte_cb": "4976 8412 2222 0092",
+    "operations": [
+      {
+        "mois": "Septembre 2024",
+        "depenses": [
+          { "date": "01/09", "libelle": "Uber", "montant": 28.00, "categorie": "Transport" },
+          { "date": "03/09", "libelle": "Cabinet d’avocats BDL", "montant": 3200.00, "categorie": "Services juridiques" },
+          { "date": "04/09", "libelle": "Brasserie Lipp", "montant": 156.00, "categorie": "Restauration" },
+          { "date": "05/09", "libelle": "SNCF 1ère classe", "montant": 154.00, "categorie": "Transport" },
+          { "date": "07/09", "libelle": "Galeries Lafayette", "montant": 420.00, "categorie": "Shopping" },
+          { "date": "09/09", "libelle": "Taxi G7", "montant": 33.00, "categorie": "Transport" },
+          { "date": "11/09", "libelle": "Hôtel Pullman", "montant": 540.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "13/09", "libelle": "Café de Flore", "montant": 72.00, "categorie": "Restauration" },
+          { "date": "14/09", "libelle": "SNCF Paris→Milan 1ère", "montant": 154.00, "categorie": "Transport" },
+          { "date": "15/09", "libelle": "Bar Train Paris–Milan (règlement 00:30)", "montant": 28.00, "categorie": "Restauration" },
+          { "date": "15/09", "libelle": "Taxi Milano Centrale", "montant": 31.00, "categorie": "Transport" },
+          { "date": "16/09", "libelle": "Hôtel NH Milano", "montant": 420.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "18/09", "libelle": "Uber", "montant": 22.00, "categorie": "Transport" },
+          { "date": "19/09", "libelle": "Cabinet d’avocats BDL", "montant": 2100.00, "categorie": "Services juridiques" },
+          { "date": "20/09", "libelle": "Le Fouquet’s", "montant": 230.00, "categorie": "Restauration" }
+        ]
+      },
+      {
+        "mois": "Août 2024",
+        "depenses": [
+          { "date": "01/08", "libelle": "Uber", "montant": 32.00, "categorie": "Transport" },
+          { "date": "03/08", "libelle": "Air France", "montant": 640.00, "categorie": "Transport" },
+          { "date": "07/08", "libelle": "Brasserie Lipp", "montant": 185.00, "categorie": "Restauration" },
+          { "date": "10/08", "libelle": "Cabinet d’avocats BDL", "montant": 3700.00, "categorie": "Services juridiques" },
+          { "date": "14/08", "libelle": "Hôtel Pullman", "montant": 520.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "18/08", "libelle": "Galeries Lafayette", "montant": 680.00, "categorie": "Shopping" },
+          { "date": "20/08", "libelle": "Taxi G7", "montant": 45.00, "categorie": "Transport" },
+          { "date": "23/08", "libelle": "Café de Flore", "montant": 92.00, "categorie": "Restauration" },
+          { "date": "25/08", "libelle": "SNCF 1ère classe", "montant": 154.00, "categorie": "Transport" },
+          { "date": "28/08", "libelle": "Uber", "montant": 26.00, "categorie": "Transport" },
+          { "date": "30/08", "libelle": "Cabinet d’avocats BDL", "montant": 1800.00, "categorie": "Services juridiques" }
+        ]
+      },
+      {
+        "mois": "Juillet 2024",
+        "depenses": [
+          { "date": "02/07", "libelle": "Cabinet d’avocats BDL", "montant": 2200.00, "categorie": "Services juridiques" },
+          { "date": "04/07", "libelle": "Uber", "montant": 26.00, "categorie": "Transport" },
+          { "date": "07/07", "libelle": "Air France", "montant": 1190.00, "categorie": "Transport" },
+          { "date": "10/07", "libelle": "Hôtel Warwick", "montant": 430.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "13/07", "libelle": "Galeries Lafayette", "montant": 520.00, "categorie": "Shopping" },
+          { "date": "17/07", "libelle": "Uber", "montant": 38.00, "categorie": "Transport" },
+          { "date": "20/07", "libelle": "Cabinet d’avocats BDL", "montant": 1800.00, "categorie": "Services juridiques" },
+          { "date": "24/07", "libelle": "Le Fouquet’s", "montant": 260.00, "categorie": "Restauration" },
+          { "date": "28/07", "libelle": "SNCF 1ère classe", "montant": 164.00, "categorie": "Transport" },
+          { "date": "30/07", "libelle": "Uber", "montant": 22.00, "categorie": "Transport" }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "luc",
+    "banque": "CSS Bank",
+    "iban": "FR76 **** **** **** **** **003",
+    "compte_courant": -340.12,
+    "livret_a": 0,
+    "credits": ["Découvert autorisé"],
+    "carte_cb": "5187 4400 9900 1123",
+    "operations": [
+      {
+        "mois": "Septembre 2024",
+        "depenses": [
+          { "date": "01/09", "libelle": "AGIOS / Intérêts débiteurs", "montant": 12.80, "categorie": "Frais bancaires" },
+          { "date": "02/09", "libelle": "PMU La Coupole", "montant": 38.00, "categorie": "Loisirs" },
+          { "date": "03/09", "libelle": "Lidl", "montant": 24.60, "categorie": "Alimentation" },
+          { "date": "04/09", "libelle": "Casino en ligne (débit)", "montant": 90.00, "categorie": "Loisirs" },
+          { "date": "05/09", "libelle": "RATP Navigo", "montant": 86.40, "categorie": "Transport" },
+          { "date": "06/09", "libelle": "Tabac Presse", "montant": 14.20, "categorie": "Divers" },
+          { "date": "07/09", "libelle": "Bar Le Terminus", "montant": 22.00, "categorie": "Restauration" },
+          { "date": "08/09", "libelle": "Prélèvement EDF", "montant": 62.30, "categorie": "Factures" },
+          { "date": "09/09", "libelle": "Frais rejet prélèvement", "montant": 18.00, "categorie": "Frais bancaires" },
+          { "date": "10/09", "libelle": "Casino en ligne (débit)", "montant": 120.00, "categorie": "Loisirs" },
+          { "date": "11/09", "libelle": "Carrefour Market", "montant": 37.50, "categorie": "Alimentation" },
+          { "date": "12/09", "libelle": "PMU La Coupole", "montant": 25.00, "categorie": "Loisirs" },
+          { "date": "13/09", "libelle": "Bar Le Relay", "montant": 17.40, "categorie": "Restauration" },
+          { "date": "14/09", "libelle": "SNCF Cantine Personnel (Paris)", "montant": 9.50, "categorie": "Restauration" },
+          { "date": "14/09", "libelle": "Retrait DAB Gare de Lyon", "montant": 40.00, "categorie": "Espèces" },
+          { "date": "15/09", "libelle": "Frais découvert dépassé", "montant": 8.00, "categorie": "Frais bancaires" },
+          { "date": "16/09", "libelle": "Casino en ligne (crédit promo)", "montant": -10.00, "categorie": "Ajustement" },
+          { "date": "18/09", "libelle": "Loyer (retard partiel)", "montant": 350.00, "categorie": "Logement" }
+        ]
+      },
+      {
+        "mois": "Août 2024",
+        "depenses": [
+          { "date": "01/08", "libelle": "AGIOS / Intérêts débiteurs", "montant": 11.90, "categorie": "Frais bancaires" },
+          { "date": "02/08", "libelle": "PMU La Coupole", "montant": 32.00, "categorie": "Loisirs" },
+          { "date": "03/08", "libelle": "Lidl", "montant": 22.10, "categorie": "Alimentation" },
+          { "date": "04/08", "libelle": "Casino en ligne (débit)", "montant": 80.00, "categorie": "Loisirs" },
+          { "date": "05/08", "libelle": "RATP Navigo", "montant": 86.40, "categorie": "Transport" },
+          { "date": "06/08", "libelle": "Tabac Presse", "montant": 12.90, "categorie": "Divers" },
+          { "date": "07/08", "libelle": "Carrefour Market", "montant": 34.70, "categorie": "Alimentation" },
+          { "date": "09/08", "libelle": "Frais rejet prélèvement", "montant": 18.00, "categorie": "Frais bancaires" },
+          { "date": "10/08", "libelle": "Casino en ligne (débit)", "montant": 110.00, "categorie": "Loisirs" },
+          { "date": "11/08", "libelle": "Bar Le Terminus", "montant": 19.80, "categorie": "Restauration" },
+          { "date": "13/08", "libelle": "PMU La Coupole", "montant": 24.00, "categorie": "Loisirs" },
+          { "date": "15/08", "libelle": "Prélèvement EDF", "montant": 61.20, "categorie": "Factures" },
+          { "date": "18/08", "libelle": "Loyer (partiel)", "montant": 300.00, "categorie": "Logement" },
+          { "date": "21/08", "libelle": "Casino en ligne (débit)", "montant": 95.00, "categorie": "Loisirs" },
+          { "date": "25/08", "libelle": "Frais de dossier incident", "montant": 8.00, "categorie": "Frais bancaires" },
+          { "date": "28/08", "libelle": "Carrefour Market", "montant": 29.40, "categorie": "Alimentation" }
+        ]
+      },
+      {
+        "mois": "Juillet 2024",
+        "depenses": [
+          { "date": "01/07", "libelle": "AGIOS / Intérêts débiteurs", "montant": 10.70, "categorie": "Frais bancaires" },
+          { "date": "02/07", "libelle": "PMU La Coupole", "montant": 30.00, "categorie": "Loisirs" },
+          { "date": "03/07", "libelle": "Lidl", "montant": 21.30, "categorie": "Alimentation" },
+          { "date": "05/07", "libelle": "RATP Navigo", "montant": 86.40, "categorie": "Transport" },
+          { "date": "06/07", "libelle": "Casino en ligne (débit)", "montant": 75.00, "categorie": "Loisirs" },
+          { "date": "08/07", "libelle": "Tabac Presse", "montant": 11.80, "categorie": "Divers" },
+          { "date": "10/07", "libelle": "Carrefour Market", "montant": 33.20, "categorie": "Alimentation" },
+          { "date": "12/07", "libelle": "Bar Le Relay", "montant": 16.50, "categorie": "Restauration" },
+          { "date": "14/07", "libelle": "Frais rejet prélèvement", "montant": 18.00, "categorie": "Frais bancaires" },
+          { "date": "17/07", "libelle": "Casino en ligne (débit)", "montant": 120.00, "categorie": "Loisirs" },
+          { "date": "20/07", "libelle": "Prélèvement EDF", "montant": 59.80, "categorie": "Factures" },
+          { "date": "24/07", "libelle": "Loyer (partiel)", "montant": 280.00, "categorie": "Logement" },
+          { "date": "28/07", "libelle": "PMU La Coupole", "montant": 22.00, "categorie": "Loisirs" },
+          { "date": "30/07", "libelle": "Carrefour Market", "montant": 27.40, "categorie": "Alimentation" }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "elena",
+    "banque": "CSS Bank",
+    "iban": "FR76 **** **** **** **** **004",
+    "compte_courant": 56230.00,
+    "livret_a": 80000,
+    "credits": ["Résidence secondaire Turin"],
+    "carte_cb": "4976 8412 3333 0092",
+    "operations": [
+      {
+        "mois": "Septembre 2024",
+        "depenses": [
+          { "date": "01/09", "libelle": "La Rinascente (Milano)", "montant": 740.00, "categorie": "Shopping" },
+          { "date": "03/09", "libelle": "Gucci Milano", "montant": 2450.00, "categorie": "Shopping luxe" },
+          { "date": "04/09", "libelle": "Spa Armani", "montant": 380.00, "categorie": "Bien-être" },
+          { "date": "06/09", "libelle": "Four Seasons Bar", "montant": 160.00, "categorie": "Restauration" },
+          { "date": "07/09", "libelle": "Trenitalia Frecciarossa (1a)", "montant": 138.00, "categorie": "Transport" },
+          { "date": "09/09", "libelle": "Coiffeur Aldo Coppola", "montant": 210.00, "categorie": "Bien-être" },
+          { "date": "11/09", "libelle": "Prada Milano", "montant": 1890.00, "categorie": "Shopping luxe" },
+          { "date": "12/09", "libelle": "Ristorante Il Salumaio", "montant": 260.00, "categorie": "Restauration" },
+          { "date": "14/09", "libelle": "SNCF Lyon-Part-Dieu (embarquement)", "montant": 0.00, "categorie": "Transport" },
+          { "date": "15/09", "libelle": "NH Milano Porta Nuova", "montant": 420.00, "categorie": "Voyage/Hôtellerie" },
+          { "date": "16/09", "libelle": "Valextra Milano", "montant": 980.00, "categorie": "Shopping luxe" },
+          { "date": "18/09", "libelle": "Uber Black", "montant": 41.00, "categorie": "Transport" }
+        ]
+      },
+      {
+        "mois": "Août 2024",
+        "depenses": [
+          { "date": "01/08", "libelle": "Gucci Torino", "montant": 1750.00, "categorie": "Shopping luxe" },
+          { "date": "03/08", "libelle": "Spa QC Terme Torino", "montant": 320.00, "categorie": "Bien-être" },
+          { "date": "05/08", "libelle": "Eataly Torino", "montant": 180.00, "categorie": "Restauration" },
+          { "date": "07/08", "libelle": "Trenitalia Frecciarossa (1a)", "montant": 126.00, "categorie": "Transport" },
+          { "date": "10/08", "libelle": "Gallerie Lafayette (Nice)", "montant": 540.00, "categorie": "Shopping" },
+          { "date": "13/08", "libelle": "Bulgari Boutique", "montant": 2290.00, "categorie": "Shopping luxe" },
+          { "date": "17/08", "libelle": "Ristorante Da Enzo", "montant": 210.00, "categorie": "Restauration" },
+          { "date": "21/08", "libelle": "Coiffeur Aldo Coppola", "montant": 210.00, "categorie": "Bien-être" },
+          { "date": "25/08", "libelle": "Four Seasons Bar", "montant": 150.00, "categorie": "Restauration" },
+          { "date": "28/08", "libelle": "Prada Torino", "montant": 1320.00, "categorie": "Shopping luxe" }
+        ]
+      },
+      {
+        "mois": "Juillet 2024",
+        "depenses": [
+          { "date": "02/07", "libelle": "La Rinascente (Milano)", "montant": 680.00, "categorie": "Shopping" },
+          { "date": "04/07", "libelle": "Gucci Milano", "montant": 1980.00, "categorie": "Shopping luxe" },
+          { "date": "06/07", "libelle": "Spa QC Terme Milano", "montant": 340.00, "categorie": "Bien-être" },
+          { "date": "08/07", "libelle": "Bulgari Boutique", "montant": 2100.00, "categorie": "Shopping luxe" },
+          { "date": "12/07", "libelle": "Ristorante Giacomo", "montant": 240.00, "categorie": "Restauration" },
+          { "date": "16/07", "libelle": "Coiffeur Aldo Coppola", "montant": 195.00, "categorie": "Bien-être" },
+          { "date": "20/07", "libelle": "Valextra Milano", "montant": 920.00, "categorie": "Shopping luxe" },
+          { "date": "25/07", "libelle": "Trenitalia Frecciarossa (1a)", "montant": 132.00, "categorie": "Transport" },
+          { "date": "29/07", "libelle": "Uber Black", "montant": 38.00, "categorie": "Transport" }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "sofia",
+    "banque": "CSS Bank",
+    "iban": "FR76 **** **** **** **** **005",
+    "compte_courant": 1180.30,
+    "livret_a": 2300,
+    "credits": ["Etudiant (ancien)", "Micro-crédit électroménager"],
+    "carte_cb": "5187 4400 9900 5588",
+    "operations": [
+      {
+        "mois": "Septembre 2024",
+        "depenses": [
+          { "date": "01/09", "libelle": "RATP Navigo", "montant": 86.40, "categorie": "Transport" },
+          { "date": "02/09", "libelle": "Lidl", "montant": 34.20, "categorie": "Alimentation" },
+          { "date": "03/09", "libelle": "Franprix", "montant": 12.80, "categorie": "Alimentation" },
+          { "date": "05/09", "libelle": "EDF", "montant": 52.30, "categorie": "Factures" },
+          { "date": "06/09", "libelle": "SFR", "montant": 24.99, "categorie": "Abonnement" },
+          { "date": "07/09", "libelle": "Carrefour", "montant": 28.70, "categorie": "Alimentation" },
+          { "date": "09/09", "libelle": "Boulangerie", "montant": 6.20, "categorie": "Alimentation" },
+          { "date": "11/09", "libelle": "Pharmacie République", "montant": 13.40, "categorie": "Santé" },
+          { "date": "12/09", "libelle": "Restauration rapide", "montant": 9.90, "categorie": "Restauration" },
+          { "date": "13/09", "libelle": "Carrefour", "montant": 19.40, "categorie": "Alimentation" },
+          { "date": "14/09", "libelle": "Machine à café – Gare", "montant": 1.50, "categorie": "Restauration" },
+          { "date": "15/09", "libelle": "Boulangerie", "montant": 4.60, "categorie": "Alimentation" },
+          { "date": "17/09", "libelle": "Monoprix", "montant": 23.10, "categorie": "Alimentation" },
+          { "date": "19/09", "libelle": "Retrait DAB", "montant": 20.00, "categorie": "Espèces" },
+          { "date": "20/09", "libelle": "Transilien SNCF", "montant": 4.10, "categorie": "Transport" }
+        ]
+      },
+      {
+        "mois": "Août 2024",
+        "depenses": [
+          { "date": "01/08", "libelle": "RATP Navigo", "montant": 86.40, "categorie": "Transport" },
+          { "date": "02/08", "libelle": "Lidl", "montant": 32.80, "categorie": "Alimentation" },
+          { "date": "04/08", "libelle": "EDF", "montant": 51.80, "categorie": "Factures" },
+          { "date": "06/08", "libelle": "SFR", "montant": 24.99, "categorie": "Abonnement" },
+          { "date": "08/08", "libelle": "Carrefour", "montant": 26.40, "categorie": "Alimentation" },
+          { "date": "10/08", "libelle": "Boulangerie", "montant": 5.90, "categorie": "Alimentation" },
+          { "date": "13/08", "libelle": "Pharmacie République", "montant": 12.30, "categorie": "Santé" },
+          { "date": "16/08", "libelle": "Restauration rapide", "montant": 8.90, "categorie": "Restauration" },
+          { "date": "19/08", "libelle": "Monoprix", "montant": 22.10, "categorie": "Alimentation" },
+          { "date": "23/08", "libelle": "Transilien SNCF", "montant": 4.10, "categorie": "Transport" },
+          { "date": "27/08", "libelle": "Carrefour", "montant": 18.60, "categorie": "Alimentation" },
+          { "date": "30/08", "libelle": "Retrait DAB", "montant": 20.00, "categorie": "Espèces" }
+        ]
+      },
+      {
+        "mois": "Juillet 2024",
+        "depenses": [
+          { "date": "01/07", "libelle": "RATP Navigo", "montant": 86.40, "categorie": "Transport" },
+          { "date": "03/07", "libelle": "Lidl", "montant": 31.70, "categorie": "Alimentation" },
+          { "date": "05/07", "libelle": "EDF", "montant": 49.90, "categorie": "Factures" },
+          { "date": "06/07", "libelle": "SFR", "montant": 24.99, "categorie": "Abonnement" },
+          { "date": "08/07", "libelle": "Carrefour", "montant": 27.30, "categorie": "Alimentation" },
+          { "date": "10/07", "libelle": "Boulangerie", "montant": 4.80, "categorie": "Alimentation" },
+          { "date": "14/07", "libelle": "Pharmacie République", "montant": 11.20, "categorie": "Santé" },
+          { "date": "17/07", "libelle": "Restauration rapide", "montant": 7.90, "categorie": "Restauration" },
+          { "date": "20/07", "libelle": "Monoprix", "montant": 21.50, "categorie": "Alimentation" },
+          { "date": "24/07", "libelle": "Transilien SNCF", "montant": 4.10, "categorie": "Transport" },
+          { "date": "28/07", "libelle": "Carrefour", "montant": 19.20, "categorie": "Alimentation" },
+          { "date": "31/07", "libelle": "Retrait DAB", "montant": 20.00, "categorie": "Espèces" }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "adrien",
+    "banque": "CSS Bank",
+    "iban": "FR76 **** **** **** **** **006",
+    "compte_courant": 1720.15,
+    "livret_a": 600,
+    "credits": ["Étudiant"],
+    "carte_cb": "4976 8412 4444 0092",
+    "operations": [
+      {
+        "mois": "Septembre 2024",
+        "depenses": [
+          { "date": "01/09", "libelle": "Spotify", "montant": 9.99, "categorie": "Abonnement" },
+          { "date": "02/09", "libelle": "Burger King", "montant": 11.40, "categorie": "Restauration" },
+          { "date": "03/09", "libelle": "RATP Ticket", "montant": 2.10, "categorie": "Transport" },
+          { "date": "04/09", "libelle": "Fnac", "montant": 24.90, "categorie": "Shopping" },
+          { "date": "05/09", "libelle": "Netflix", "montant": 15.99, "categorie": "Abonnement" },
+          { "date": "06/09", "libelle": "Carrefour City", "montant": 12.60, "categorie": "Alimentation" },
+          { "date": "07/09", "libelle": "Uber Eats", "montant": 18.50, "categorie": "Restauration" },
+          { "date": "08/09", "libelle": "Décathlon", "montant": 19.00, "categorie": "Shopping" },
+          { "date": "09/09", "libelle": "Café étudiant", "montant": 3.40, "categorie": "Restauration" },
+          { "date": "10/09", "libelle": "Monoprix", "montant": 9.80, "categorie": "Alimentation" },
+          { "date": "11/09", "libelle": "Uber", "montant": 14.00, "categorie": "Transport" },
+          { "date": "12/09", "libelle": "Steam", "montant": 12.99, "categorie": "Loisirs" },
+          { "date": "13/09", "libelle": "Franprix", "montant": 8.70, "categorie": "Alimentation" },
+          { "date": "14/09", "libelle": "SNCF 2nde classe Paris→Milan", "montant": 69.00, "categorie": "Transport" },
+          { "date": "15/09", "libelle": "Machine snacks Milano", "montant": 3.20, "categorie": "Restauration" },
+          { "date": "16/09", "libelle": "Uber", "montant": 11.00, "categorie": "Transport" }
+        ]
+      },
+      {
+        "mois": "Août 2024",
+        "depenses": [
+          { "date": "01/08", "libelle": "Spotify", "montant": 9.99, "categorie": "Abonnement" },
+          { "date": "02/08", "libelle": "Burger King", "montant": 10.20, "categorie": "Restauration" },
+          { "date": "03/08", "libelle": "RATP Ticket", "montant": 2.10, "categorie": "Transport" },
+          { "date": "04/08", "libelle": "Fnac", "montant": 16.90, "categorie": "Shopping" },
+          { "date": "05/08", "libelle": "Netflix", "montant": 15.99, "categorie": "Abonnement" },
+          { "date": "06/08", "libelle": "Carrefour City", "montant": 11.60, "categorie": "Alimentation" },
+          { "date": "08/08", "libelle": "Uber Eats", "montant": 17.40, "categorie": "Restauration" },
+          { "date": "10/08", "libelle": "Steam", "montant": 9.99, "categorie": "Loisirs" },
+          { "date": "12/08", "libelle": "Café étudiant", "montant": 3.10, "categorie": "Restauration" },
+          { "date": "14/08", "libelle": "Monoprix", "montant": 8.40, "categorie": "Alimentation" },
+          { "date": "17/08", "libelle": "Uber", "montant": 12.00, "categorie": "Transport" },
+          { "date": "21/08", "libelle": "Franprix", "montant": 7.90, "categorie": "Alimentation" },
+          { "date": "25/08", "libelle": "Amazon", "montant": 14.99, "categorie": "Shopping" },
+          { "date": "29/08", "libelle": "Burger King", "montant": 9.80, "categorie": "Restauration" }
+        ]
+      },
+      {
+        "mois": "Juillet 2024",
+        "depenses": [
+          { "date": "01/07", "libelle": "Spotify", "montant": 9.99, "categorie": "Abonnement" },
+          { "date": "02/07", "libelle": "McDonald’s", "montant": 8.90, "categorie": "Restauration" },
+          { "date": "03/07", "libelle": "RATP Ticket", "montant": 2.10, "categorie": "Transport" },
+          { "date": "05/07", "libelle": "Netflix", "montant": 15.99, "categorie": "Abonnement" },
+          { "date": "06/07", "libelle": "Carrefour City", "montant": 10.70, "categorie": "Alimentation" },
+          { "date": "08/07", "libelle": "Uber Eats", "montant": 16.30, "categorie": "Restauration" },
+          { "date": "10/07", "libelle": "Fnac", "montant": 22.90, "categorie": "Shopping" },
+          { "date": "12/07", "libelle": "Café étudiant", "montant": 2.90, "categorie": "Restauration" },
+          { "date": "15/07", "libelle": "Amazon", "montant": 12.99, "categorie": "Shopping" },
+          { "date": "18/07", "libelle": "Uber", "montant": 11.00, "categorie": "Transport" },
+          { "date": "22/07", "libelle": "Franprix", "montant": 7.60, "categorie": "Alimentation" },
+          { "date": "27/07", "libelle": "Steam", "montant": 4.99, "categorie": "Loisirs" }
+        ]
+      }
+    ]
+  }
+]
+
