@@ -56,7 +56,7 @@
         "avatar": "URL_GENERIC_AVATAR",
         "messages": [
           { "from": "them", "text": "Je n’aurais jamais dû te donner mon numéro.", "timestamp": "2024-09-08T21:05:00+02:00" },
-          { "from": "me",   "text": "Trop tard. Je sais ce que tu fais à la SNCF.", "timestamp": "2024-09-08T21:07:00+02:00" },
+          { "from": "me",   "text": "Trop tard. Je sais ce que tu fais.", "timestamp": "2024-09-08T21:07:00+02:00" },
           { "from": "them", "text": "Parle pas de ça, je peux me faire virer !", "timestamp": "2024-09-08T21:09:00+02:00" },
           { "from": "me",   "text": "Alors arrête tes combines avant que ça n’explose.", "timestamp": "2024-09-08T21:10:30+02:00" },
           { "from": "them", "text": "Tu crois que c’est facile ? J’ai des dettes partout.", "timestamp": "2024-09-08T21:12:00+02:00" },
@@ -65,7 +65,7 @@
           { "from": "me",   "text": "Alors tiens-toi à carreau.", "timestamp": "2024-09-08T21:16:30+02:00" },
           { "from": "them", "text": "Je ne me laisserai pas couler seul. Tu me comprends ?", "timestamp": "2024-09-08T21:18:00+02:00" },
           { "from": "me",   "text": "Fais ce que tu veux. Mais tôt ou tard, tout se paie.", "timestamp": "2024-09-08T21:20:00+02:00" },
-          { "from": "them", "text": "Tu verras bien ce soir.", "timestamp": "2024-09-14T21:12:00+02:00" }
+          { "from": "them", "text": "A qui le dis tu ?.", "timestamp": "2024-09-14T21:12:00+02:00" }
         ]
       },
       {
