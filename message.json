@@ -166,6 +166,302 @@
         ]
       }
     ]
+  },
+  {
+    "person": "elena",
+    "avatar": "URL_ELENA_PORTRAIT",
+    "contacts": [
+      {
+        "id": "alessandro",
+        "name": "Alessandro Rossi",
+        "avatar": "URL_ALESSANDRO_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "As-tu bien pris ton billet pour rentrer demain ?", "timestamp": "2024-09-13T19:45:00+02:00" },
+          { "from": "me",   "text": "Oui, je pars de Lyon ce soir avec le train de nuit.", "timestamp": "2024-09-13T19:47:00+02:00" },
+          { "from": "them", "text": "Parfait. J’ai prévu que nous allions dîner dimanche avec les Conti.", "timestamp": "2024-09-13T19:49:00+02:00" },
+          { "from": "me",   "text": "Encore un dîner mondain ? Tu ne t’en lasses pas ?", "timestamp": "2024-09-13T19:51:00+02:00" },
+          { "from": "them", "text": "C’est important pour les affaires.", "timestamp": "2024-09-13T19:52:00+02:00" },
+          { "from": "me",   "text": "Moi je préférerais rester à la maison avec un bon livre.", "timestamp": "2024-09-13T19:54:00+02:00" },
+          { "from": "them", "text": "Ne fais pas ta difficile, tu sais que ça compte.", "timestamp": "2024-09-13T19:56:00+02:00" },
+          { "from": "me",   "text": "Très bien, mais je choisis le vin.", "timestamp": "2024-09-13T19:57:00+02:00" },
+          { "from": "them", "text": "Deal 🍷", "timestamp": "2024-09-13T19:58:00+02:00" },
+          { "from": "me",   "text": "Et au fait, le jardinier a fini les travaux ?", "timestamp": "2024-09-13T20:10:00+02:00" },
+          { "from": "them", "text": "Oui, tout est en ordre. Tu verras, c’est impeccable.", "timestamp": "2024-09-13T20:12:00+02:00" },
+          { "from": "me",   "text": "Parfait. Alors je file, le train ne m’attendra pas.", "timestamp": "2024-09-13T20:14:00+02:00" },
+          { "from": "them", "text": "Fais attention. Bonne nuit.", "timestamp": "2024-09-13T20:15:00+02:00" },
+          { "from": "me",   "text": "Bonne nuit ❤️", "timestamp": "2024-09-13T20:16:00+02:00" }
+        ]
+      },
+      {
+        "id": "mamma",
+        "name": "Mamma",
+        "avatar": "URL_MAMMA_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Ciao mamma ! Tu veux que j’apporte quelque chose pour dimanche ?", "timestamp": "2024-09-12T17:05:00+02:00" },
+          { "from": "them", "text": "Non, ne t’inquiète pas. Nous avons déjà acheté la viande.", "timestamp": "2024-09-12T17:07:00+02:00" },
+          { "from": "me",   "text": "Tu es sûre ? J’aurais pu en amener de Paris.", "timestamp": "2024-09-12T17:08:00+02:00" },
+          { "from": "them", "text": "Non, non, garde ton argent. On a ce qu’il faut.", "timestamp": "2024-09-12T17:09:00+02:00" },
+          { "from": "me",   "text": "D’accord… alors j’apporterai du vin.", "timestamp": "2024-09-12T17:10:00+02:00" },
+          { "from": "them", "text": "Oui, ça ce sera parfait.", "timestamp": "2024-09-12T17:11:00+02:00" }
+        ]
+      },
+      {
+        "id": "chiara",
+        "name": "Chiara",
+        "avatar": "URL_CHIARA_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Alors, tu as acheté la robe pour le gala ?", "timestamp": "2024-09-11T12:30:00+02:00" },
+          { "from": "me",   "text": "Pas encore, je n’ai pas eu le temps.", "timestamp": "2024-09-11T12:32:00+02:00" },
+          { "from": "them", "text": "Fais vite, il ne reste plus beaucoup de tailles.", "timestamp": "2024-09-11T12:33:00+02:00" },
+          { "from": "me",   "text": "Je passerai samedi. Tu viens avec moi ?", "timestamp": "2024-09-11T12:34:00+02:00" },
+          { "from": "them", "text": "Bien sûr ! Et après on va prendre un café.", "timestamp": "2024-09-11T12:35:00+02:00" },
+          { "from": "me",   "text": "Parfait ☕", "timestamp": "2024-09-11T12:36:00+02:00" }
+        ]
+      },
+      {
+        "id": "taxi",
+        "name": "Taxi Milano",
+        "avatar": "URL_TAXI_AVATAR",
+        "messages": [
+          { "from": "me",   "text": "Bonsoir, pouvez-vous être à Centrale dimanche à 9h30 ?", "timestamp": "2024-09-14T21:10:00+02:00" },
+          { "from": "them", "text": "Oui signora, notez bien : Fiat noire, plaque IT-209-CC.", "timestamp": "2024-09-14T21:12:00+02:00" },
+          { "from": "me",   "text": "Parfait, à dimanche matin alors.", "timestamp": "2024-09-14T21:13:00+02:00" },
+          { "from": "them", "text": "Bonne soirée !", "timestamp": "2024-09-14T21:14:00+02:00" }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "luc",
+    "avatar": "URL_LUC_PORTRAIT",
+    "contacts": [
+      {
+        "id": "betclic",
+        "name": "Betclic",
+        "avatar": "URL_BETCLIC_LOGO",
+        "messages": [
+          { "from": "them", "text": "Finalisez votre inscription et profitez de 100€ offerts sur votre premier pari !", "timestamp": "2024-09-05T14:05:00+02:00" },
+          { "from": "them", "text": "Match ce soir : PSG - OM ⚽. Cote boostée !", "timestamp": "2024-09-13T19:30:00+02:00" },
+          { "from": "me",   "text": "Arrêtez de m’envoyer vos pubs.", "timestamp": "2024-09-13T19:32:00+02:00" },
+          { "from": "them", "text": "Votre compte est presque validé, cliquez ici 👉", "timestamp": "2024-09-14T11:10:00+02:00" },
+          { "from": "me",   "text": "😓", "timestamp": "2024-09-14T11:11:00+02:00" }
+        ]
+      },
+      {
+        "id": "sophie_huguet",
+        "name": "Sophie Huguet",
+        "avatar": "URL_SOPHIE_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Luc, tu prends bien le service du Paris–Milan ce soir ?", "timestamp": "2024-09-14T17:20:00+02:00" },
+          { "from": "me",   "text": "Oui, confirmé. Je monte à Gare de Lyon à 21h50.", "timestamp": "2024-09-14T17:21:00+02:00" },
+          { "from": "them", "text": "Parfait. Vérifie juste le stock boissons au wagon-bar.", "timestamp": "2024-09-14T17:22:00+02:00" },
+          { "from": "me",   "text": "Je m’en occupe.", "timestamp": "2024-09-14T17:23:00+02:00" },
+          { "from": "them", "text": "Merci !", "timestamp": "2024-09-14T17:24:00+02:00" }
+        ]
+      },
+      {
+        "id": "mathis",
+        "name": "Mathis (neveu)",
+        "avatar": "URL_MATHIS_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Alors, comment se passe la rentrée ?", "timestamp": "2024-09-10T18:05:00+02:00" },
+          { "from": "them", "text": "Bien tonton ! J’ai déjà plein de devoirs 😅", "timestamp": "2024-09-10T18:06:00+02:00" },
+          { "from": "me",   "text": "Accroche-toi, c’est important.", "timestamp": "2024-09-10T18:07:00+02:00" },
+          { "from": "them", "text": "Tu viens toujours samedi au match ?", "timestamp": "2024-09-10T18:08:00+02:00" },
+          { "from": "me",   "text": "Oui bien sûr ⚽", "timestamp": "2024-09-10T18:09:00+02:00" },
+          { "from": "them", "text": "Super ! J’amène mon écharpe du PSG.", "timestamp": "2024-09-10T18:10:00+02:00" },
+          { "from": "me",   "text": "Parfait, je m’occupe des billets.", "timestamp": "2024-09-10T18:11:00+02:00" }
+        ]
+      },
+      {
+        "id": "banque",
+        "name": "CSS Banque",
+        "avatar": "URL_BANQUE_LOGO",
+        "messages": [
+          { "from": "them", "text": "⚠️ Votre compte est débiteur de 182,34 € au 12/09.", "timestamp": "2024-09-12T08:45:00+02:00" },
+          { "from": "me",   "text": "Je régularise rapidement.", "timestamp": "2024-09-12T08:50:00+02:00" },
+          { "from": "them", "text": "Votre autorisation de découvert est dépassée.", "timestamp": "2024-09-13T09:05:00+02:00" },
+          { "from": "me",   "text": "Je vous ai dit que ça allait rentrer. Attendez la fin du mois.", "timestamp": "2024-09-13T09:10:00+02:00" },
+          { "from": "them", "text": "Sans régularisation, vos prélèvements risquent d’être rejetés.", "timestamp": "2024-09-14T08:30:00+02:00" },
+          { "from": "me",   "text": "Compris.", "timestamp": "2024-09-14T08:35:00+02:00" }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "sofia",
+    "avatar": "URL_SOFIA_PORTRAIT",
+    "contacts": [
+      {
+        "id": "julie",
+        "name": "Julie (Collègue)",
+        "avatar": "URL_JULIE_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "T’as fini ton service hier ?", "timestamp": "2024-09-12T07:10:00+02:00" },
+          { "from": "me",   "text": "Oui, 3h du matin… j’étais épuisée.", "timestamp": "2024-09-12T07:12:00+02:00" },
+          { "from": "them", "text": "Moi pareil. On enchaîne trop.", "timestamp": "2024-09-12T07:13:00+02:00" },
+          { "from": "me",   "text": "Et samedi on est encore sur le train Paris–Milan.", "timestamp": "2024-09-12T07:15:00+02:00" },
+          { "from": "them", "text": "Je vais pas tenir à ce rythme.", "timestamp": "2024-09-12T07:17:00+02:00" },
+          { "from": "me",   "text": "Courage, bientôt les congés.", "timestamp": "2024-09-12T07:19:00+02:00" },
+          { "from": "them", "text": "Espérons…", "timestamp": "2024-09-12T07:20:00+02:00" }
+        ]
+      },
+      {
+        "id": "mariana",
+        "name": "Mariana (Hermana)",
+        "avatar": "URL_MARIANA_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Hola hermana, ¿cómo estás?", "timestamp": "2024-09-11T18:10:00+02:00" },
+          { "from": "them", "text": "Bien, cansada del trabajo pero bien.", "timestamp": "2024-09-11T18:11:00+02:00" },
+          { "from": "me",   "text": "Aquí igual… noches largas otra vez.", "timestamp": "2024-09-11T18:12:00+02:00" },
+          { "from": "them", "text": "¿Vendrás en Navidad?", "timestamp": "2024-09-11T18:13:00+02:00" },
+          { "from": "me",   "text": "Sí, seguro. No me lo pierdo.", "timestamp": "2024-09-11T18:14:00+02:00" },
+          { "from": "them", "text": "Mamá pregunta si vas a cocinar tu tortilla.", "timestamp": "2024-09-11T18:15:00+02:00" },
+          { "from": "me",   "text": "Claro que sí 😄", "timestamp": "2024-09-11T18:16:00+02:00" }
+        ]
+      },
+      {
+        "id": "carlos",
+        "name": "Carlos",
+        "avatar": "URL_CARLOS_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "¿Vas a venir a la fiesta de Marta el sábado?", "timestamp": "2024-09-10T21:00:00+02:00" },
+          { "from": "me",   "text": "No puedo, trabajo toda la noche.", "timestamp": "2024-09-10T21:02:00+02:00" },
+          { "from": "them", "text": "Siempre trabajando…", "timestamp": "2024-09-10T21:03:00+02:00" },
+          { "from": "me",   "text": "Algún día libre tendré 😅", "timestamp": "2024-09-10T21:05:00+02:00" },
+          { "from": "them", "text": "Bueno, te guardaré un trozo de pastel.", "timestamp": "2024-09-10T21:06:00+02:00" },
+          { "from": "me",   "text": "Gracias amigo 🙏", "timestamp": "2024-09-10T21:07:00+02:00" }
+        ]
+      },
+      {
+        "id": "deliveroo",
+        "name": "Deliveroo",
+        "avatar": "URL_DELIVEROO_LOGO",
+        "messages": [
+          { "from": "them", "text": "Votre commande est en route 🚲", "timestamp": "2024-09-09T20:05:00+02:00" },
+          { "from": "them", "text": "Le livreur est devant chez vous.", "timestamp": "2024-09-09T20:25:00+02:00" },
+          { "from": "me",   "text": "Merci 👍", "timestamp": "2024-09-09T20:26:00+02:00" }
+        ]
+      },
+      {
+        "id": "bernard",
+        "name": "M. Bernard (Propriétaire)",
+        "avatar": "URL_BERNARD_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Bonjour, le loyer est bien arrivé merci.", "timestamp": "2024-09-06T09:00:00+02:00" },
+          { "from": "me",   "text": "Parfait, bonne journée.", "timestamp": "2024-09-06T09:02:00+02:00" },
+          { "from": "them", "text": "Au fait, on doit changer le chauffe-eau. Je passerai la semaine prochaine.", "timestamp": "2024-09-06T09:04:00+02:00" },
+          { "from": "me",   "text": "Ok, dites-moi quand.", "timestamp": "2024-09-06T09:05:00+02:00" }
+        ]
+      },
+      {
+        "id": "claire",
+        "name": "Claire",
+        "avatar": "URL_CLAIRE_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Tu viens au cinéma samedi ?", "timestamp": "2024-09-07T16:00:00+02:00" },
+          { "from": "me",   "text": "Je travaille samedi soir encore…", "timestamp": "2024-09-07T16:02:00+02:00" },
+          { "from": "them", "text": "Toujours au boulot !", "timestamp": "2024-09-07T16:03:00+02:00" },
+          { "from": "me",   "text": "Oui, la SNCF ne dort jamais 😅", "timestamp": "2024-09-07T16:05:00+02:00" },
+          { "from": "them", "text": "Alors café dimanche ?", "timestamp": "2024-09-07T16:06:00+02:00" },
+          { "from": "me",   "text": "Oui, avec plaisir ☕", "timestamp": "2024-09-07T16:07:00+02:00" }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "adrien",
+    "avatar": "URL_ADRIEN_PORTRAIT",
+    "contacts": [
+      {
+        "id": "evelyne",
+        "name": "Evelyne Lambert",
+        "avatar": "URL_EVELYNE_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Tu as pensé à sortir les poubelles ce matin ?", "timestamp": "2024-09-09T08:10:00+02:00" },
+          { "from": "me",   "text": "Oui maman, c’est fait.", "timestamp": "2024-09-09T08:12:00+02:00" },
+          { "from": "them", "text": "Et range ta chambre, ça devient un chantier.", "timestamp": "2024-09-09T08:15:00+02:00" },
+          { "from": "me",   "text": "Ok… mais parle-moi plutôt de mon père.", "timestamp": "2024-09-09T08:17:00+02:00" },
+          { "from": "them", "text": "Adrien, pas ce matin. J’ai du travail.", "timestamp": "2024-09-09T08:19:00+02:00" },
+          { "from": "me",   "text": "Tu repousses toujours. J’ai le droit de savoir.", "timestamp": "2024-09-09T08:20:00+02:00" },
+          { "from": "them", "text": "Tu sais déjà l’essentiel. Concentre-toi sur tes études.", "timestamp": "2024-09-09T08:22:00+02:00" },
+          { "from": "me",   "text": "Non, je sais rien ! Je ne suis pas né d’un fantôme.", "timestamp": "2024-09-09T08:24:00+02:00" },
+          { "from": "them", "text": "Adrien, je ne veux pas ouvrir cette plaie.", "timestamp": "2024-09-09T08:26:00+02:00" },
+          { "from": "me",   "text": "Plaie pour toi, mais moi je vis avec ce vide depuis 20 ans.", "timestamp": "2024-09-09T08:27:00+02:00" },
+          { "from": "them", "text": "Arrête de parler comme ça. Tu n’as pas été abandonné.", "timestamp": "2024-09-09T08:28:00+02:00" },
+          { "from": "me",   "text": "Alors quoi ? Il est mort ? Il est où ?", "timestamp": "2024-09-09T08:29:00+02:00" },
+          { "from": "them", "text": "Je ne peux pas en parler.", "timestamp": "2024-09-09T08:30:00+02:00" },
+          { "from": "me",   "text": "Tu veux pas. Pas que tu peux pas. Tu caches la vérité.", "timestamp": "2024-09-09T08:31:00+02:00" },
+          { "from": "them", "text": "Je protège ta vie. C’est tout ce que tu dois comprendre.", "timestamp": "2024-09-09T08:32:00+02:00" },
+          { "from": "me",   "text": "Protéger ? Tu m’as laissé avec un trou béant dans ma tête.", "timestamp": "2024-09-09T08:33:00+02:00" },
+          { "from": "them", "text": "Je t’élève seule depuis toujours. Ce n’est pas assez ?", "timestamp": "2024-09-09T08:34:00+02:00" },
+          { "from": "me",   "text": "Non. J’ai le droit de savoir pourquoi il ne voulait pas de moi.", "timestamp": "2024-09-09T08:35:00+02:00" },
+          { "from": "them", "text": "Ce n’est pas si simple.", "timestamp": "2024-09-09T08:36:00+02:00" },
+          { "from": "me",   "text": "Pour moi si : il m’a abandonné.", "timestamp": "2024-09-09T08:37:00+02:00" },
+          { "from": "them", "text": "Un jour peut-être tu comprendras.", "timestamp": "2024-09-09T08:38:00+02:00" },
+          { "from": "me",   "text": "Tu dis toujours ça. Et moi j’attends, encore et encore.", "timestamp": "2024-09-09T08:39:00+02:00" },
+          { "from": "them", "text": "Je fais ce que je peux.", "timestamp": "2024-09-09T08:40:00+02:00" },
+          { "from": "me",   "text": "Non. Tu m’as privé de mon père. Et je ne te pardonnerai jamais.", "timestamp": "2024-09-09T08:41:00+02:00" }
+        ]
+      },
+      {
+        "id": "leo",
+        "name": "Léo",
+        "avatar": "URL_LEO_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "T’as révisé l’éco pour demain ?", "timestamp": "2024-09-10T19:10:00+02:00" },
+          { "from": "me",   "text": "Un peu, mais j’ai rien compris au dernier chapitre.", "timestamp": "2024-09-10T19:12:00+02:00" },
+          { "from": "them", "text": "T’inquiète, je t’explique demain matin.", "timestamp": "2024-09-10T19:13:00+02:00" },
+          { "from": "me",   "text": "Merci gros 🙏", "timestamp": "2024-09-10T19:14:00+02:00" },
+          { "from": "them", "text": "T’es toujours à la bourre de toute façon 😂", "timestamp": "2024-09-10T19:15:00+02:00" },
+          { "from": "me",   "text": "C’est mon style 😎", "timestamp": "2024-09-10T19:16:00+02:00" }
+        ]
+      },
+      {
+        "id": "sam",
+        "name": "Sam",
+        "avatar": "URL_SAM_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Tu passes ce soir ?", "timestamp": "2024-09-08T18:00:00+02:00" },
+          { "from": "them", "text": "Pas sûr, j’ai match de foot.", "timestamp": "2024-09-08T18:01:00+02:00" },
+          { "from": "me",   "text": "Ok mais ramène des bières si tu viens.", "timestamp": "2024-09-08T18:02:00+02:00" },
+          { "from": "them", "text": "Toujours toi qui bois le plus 🍻", "timestamp": "2024-09-08T18:03:00+02:00" },
+          { "from": "me",   "text": "Normal 😂", "timestamp": "2024-09-08T18:04:00+02:00" }
+        ]
+      },
+      {
+        "id": "ines",
+        "name": "Inès",
+        "avatar": "URL_INES_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Tu viens en TD demain ?", "timestamp": "2024-09-07T15:05:00+02:00" },
+          { "from": "me",   "text": "Oui, mais je suis à la bourre sur les lectures.", "timestamp": "2024-09-07T15:06:00+02:00" },
+          { "from": "them", "text": "Je te filerai mes notes si tu veux.", "timestamp": "2024-09-07T15:07:00+02:00" },
+          { "from": "me",   "text": "Grave, sauveuse 🙏", "timestamp": "2024-09-07T15:08:00+02:00" }
+        ]
+      },
+      {
+        "id": "lea",
+        "name": "Léa ❤️",
+        "avatar": "URL_LEA_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "T’es trop belle sur ta photo de profil 🔥", "timestamp": "2024-09-06T22:00:00+02:00" },
+          { "from": "them", "text": "Arrête 😳", "timestamp": "2024-09-06T22:01:00+02:00" },
+          { "from": "me",   "text": "J’arrive pas à me concentrer sur mes cours avec toi en tête.", "timestamp": "2024-09-06T22:02:00+02:00" },
+          { "from": "them", "text": "Alors concentre-toi sur moi 😏", "timestamp": "2024-09-06T22:03:00+02:00" },
+          { "from": "me",   "text": "Tu veux que je vienne ce soir ?", "timestamp": "2024-09-06T22:04:00+02:00" },
+          { "from": "them", "text": "Pas possible… mais demain oui 😈", "timestamp": "2024-09-06T22:05:00+02:00" },
+          { "from": "me",   "text": "Je compte les heures…", "timestamp": "2024-09-06T22:06:00+02:00" },
+          { "from": "them", "text": "Et moi les minutes ⏳", "timestamp": "2024-09-06T22:07:00+02:00" },
+          { "from": "me",   "text": "Prépare-toi, j’arrive armé de bisous partout 😏", "timestamp": "2024-09-06T22:08:00+02:00" },
+          { "from": "them", "text": "Hâte ❤️🔥", "timestamp": "2024-09-06T22:09:00+02:00" }
+        ]
+      }
+    ]
   }
 ]
+
+
+
+
 
