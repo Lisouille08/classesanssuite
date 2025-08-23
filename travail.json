@@ -1,5 +1,325 @@
 [
   {
+    "nom": "Alexio Massenzio",
+    "photo": "URL_ALEXIO_PORTRAIT",
+    "age": 52,
+    "ville": "Paris",
+    "jobs": [
+      {
+        "employeur": "ENGICA",
+        "adresse": "21 Avenue Kléber, 75116 Paris",
+        "poste": "PDG - Cofondateur",
+        "departement": "Direction Générale",
+        "hierarchie": "Rapporte au Conseil d’administration",
+        "manager": { "nom": "Conseil d’administration", "poste": "Supervision" },
+        "debut": "2006-05",
+        "fin": "Présent",
+        "contrat": "CDI",
+        "remuneration": { "brut_mensuel": 25000, "net_mensuel": 18000 },
+        "avantages": ["Voiture de fonction", "Stock-options", "Prime de performance"],
+        "equipements": {
+          "vehicule": { "marque": "Maserati", "modele": "Quattroporte", "couleur": "Noire", "plaque": "IT-923-LM" }
+        },
+        "commentaires": [
+          { "auteur": "Conseil", "date": "2024-06-14", "texte": "Conflit stratégique persistant avec M. Delval sur l’expansion Italie/CEE." }
+        ]
+      },
+      {
+        "employeur": "Duval Capital",
+        "adresse": "21 Avenue Kléber, 75116 Paris",
+        "poste": "Directeur Investissements (énergie)",
+        "departement": "Private Equity",
+        "hierarchie": "Rapporte au Managing Partner",
+        "manager": { "nom": "Jean-Marc Duval", "poste": "Managing Partner" },
+        "debut": "2001-01",
+        "fin": "2006-04",
+        "contrat": "CDI",
+        "remuneration": { "brut_mensuel": 12000 },
+        "avantages": ["Bonus annuel"],
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "Université Bocconi",
+        "adresse": "Via Roberto Sarfatti, Milan",
+        "diplome": "MBA Management",
+        "debut": "1994-09",
+        "fin": "1996-06",
+        "commentaire": "Mention Bien"
+      },
+      {
+        "ecole": "Politecnico di Milano",
+        "adresse": "Piazza Leonardo da Vinci, Milan",
+        "diplome": "Ingénieur Énergie",
+        "debut": "1990-09",
+        "fin": "1994-06"
+      }
+    ]
+  },
+
+  {
+    "nom": "Marc Delval",
+    "photo": "URL_MARC_PORTRAIT",
+    "age": 53,
+    "ville": "Puteaux",
+    "jobs": [
+      {
+        "employeur": "ENGICA",
+        "adresse": "21 Avenue Kléber, 75116 Paris",
+        "poste": "Directeur Général Associé",
+        "departement": "Stratégie & Développement",
+        "hierarchie": "Sous l’autorité du PDG",
+        "manager": { "nom": "Alexio Massenzio", "poste": "PDG" },
+        "debut": "2006-05",
+        "fin": "2024-07",
+        "contrat": "CDI",
+        "remuneration": { "brut_mensuel": 22000, "net_mensuel": 16000 },
+        "avantages": ["Carte corporate", "Stock-options"],
+        "equipements": {
+          "vehicule": { "marque": "BMW", "modele": "Série 5", "couleur": "Grise", "plaque": "FG-128-WP" }
+        },
+        "commentaires": [
+          { "auteur": "RH", "date": "2024-07-10", "texte": "Mise à l’écart du CA. Procédure civile en cours sur la gouvernance." }
+        ]
+      },
+      {
+        "employeur": "Apex Conseil",
+        "adresse": "100 Terrasse Boieldieu, 92800 Puteaux",
+        "poste": "Consultant Senior (énergie)",
+        "departement": "Conseil Strat.",
+        "hierarchie": "Partner Energie",
+        "manager": { "nom": "H. Brémont", "poste": "Partner" },
+        "debut": "2002-09",
+        "fin": "2006-04",
+        "contrat": "CDI",
+        "remuneration": { "brut_mensuel": 7500 },
+        "avantages": ["Bonus", "Formation"],
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "HEC Paris",
+        "adresse": "1 Rue de la Libération, 78350 Jouy-en-Josas",
+        "diplome": "Master en Management",
+        "debut": "1990-09",
+        "fin": "1993-06"
+      }
+    ]
+  },
+
+  {
+    "nom": "Elena Rossi",
+    "photo": "URL_ELENA_PORTRAIT",
+    "age": 40,
+    "ville": "Turin",
+    "jobs": [
+      {
+        "employeur": "—",
+        "adresse": "Via Roma 22, 10123 Torino (IT)",
+        "poste": "Femme au foyer",
+        "debut": "2009-06",
+        "fin": "Présent",
+        "contrat": "—",
+        "remuneration": { "net_mensuel": 0 },
+        "avantages": ["Dépendance financière au conjoint (industriel textile)"],
+        "equipements": {
+          "vehicule": { "marque": "Audi", "modele": "A6", "couleur": "Noire", "plaque": "IT-4493-KP" }
+        },
+        "commentaires": [
+          { "auteur": "Entourage", "date": "2024-03-15", "texte": "Fréquente les cercles mondains à Milan/Turin." }
+        ]
+      },
+      {
+        "employeur": "Atelier Lanza",
+        "adresse": "Via Garibaldi, Torino",
+        "poste": "Assistante showroom (luxe)",
+        "departement": "Vente/Showroom",
+        "hierarchie": "Responsable boutique",
+        "manager": { "nom": "M. Lanza", "poste": "Gérant" },
+        "debut": "2006-09",
+        "fin": "2009-05",
+        "contrat": "CDD",
+        "remuneration": { "net_mensuel": 1350 },
+        "avantages": ["Remises employé"],
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "Liceo Classico D’Azeglio",
+        "adresse": "Torino",
+        "diplome": "Maturità Classica",
+        "debut": "2000-09",
+        "fin": "2005-06"
+      }
+    ]
+  },
+
+  {
+    "nom": "Luc Morel",
+    "photo": "URL_LUC_PORTRAIT",
+    "age": 46,
+    "ville": "Paris",
+    "jobs": [
+      {
+        "employeur": "SNCF Voyageurs",
+        "adresse": "Gare de Lyon, Place Louis-Armand, 75012 Paris",
+        "poste": "Contrôleur (train de nuit)",
+        "departement": "Exploitation Voyageurs",
+        "hierarchie": "Chef de bord: Mme Huguet",
+        "manager": { "nom": "Sophie Huguet", "poste": "Cheffe de bord" },
+        "debut": "2009-02",
+        "fin": "Présent",
+        "contrat": "CDI",
+        "remuneration": { "net_mensuel": 1950 },
+        "avantages": ["Billets SNCF", "Mutuelle", "Indemnités de nuit"],
+        "equipements": {
+          "vehicule": { "marque": "Renault", "modele": "Mégane III", "couleur": "Bleue", "plaque": "DK-731-QB" }
+        },
+        "commentaires": [
+          { "auteur": "RH", "date": "2023-11-02", "texte": "Difficultés financières, demandes d’avance à répétition." }
+        ]
+      },
+      {
+        "employeur": "SNCF",
+        "adresse": "Technicentre, 85 Rue du Charolais, 75012 Paris",
+        "poste": "Agent d’escale ferroviaire",
+        "departement": "Services en gare",
+        "hierarchie": "Chef d’escale",
+        "manager": { "nom": "P. Robert", "poste": "Chef d’escale" },
+        "debut": "2004-03",
+        "fin": "2009-01",
+        "contrat": "CDI",
+        "remuneration": { "net_mensuel": 1650 },
+        "avantages": ["13e mois"],
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "Lycée Technique Jean Jaurès",
+        "adresse": "Dijon",
+        "diplome": "BEP Transport",
+        "debut": "1994-09",
+        "fin": "1996-06"
+      }
+    ]
+  },
+
+  {
+    "nom": "Sofia Mendez",
+    "photo": "URL_SOFIA_PORTRAIT",
+    "age": 36,
+    "ville": "Paris",
+    "jobs": [
+      {
+        "employeur": "CleanExpress (prestataire rail)",
+        "adresse": "43 Rue de Bercy, 75012 Paris",
+        "poste": "Femme de chambre / Agent d’entretien bord",
+        "departement": "Opérations",
+        "hierarchie": "Cheffe d’équipe: Mme Durand",
+        "manager": { "nom": "Mme Durand", "poste": "Cheffe d’équipe" },
+        "debut": "2022-01",
+        "fin": "Présent",
+        "contrat": "CDD renouvelé",
+        "remuneration": { "net_mensuel": 1350 },
+        "avantages": ["Mutuelle", "Primes de nuit"],
+        "equipements": {},
+        "commentaires": [
+          { "auteur": "Mme Durand", "date": "2024-05-14", "texte": "Travailleuse, ponctuelle. Fatigue signalée sur rotations de nuit." }
+        ]
+      },
+      {
+        "employeur": "Hôtel Gare de Lyon Bastille",
+        "adresse": "1 Rue de Lyon, 75012 Paris",
+        "poste": "Femme de chambre",
+        "departement": "Housekeeping",
+        "hierarchie": "Gouvernante",
+        "manager": { "nom": "C. Leroy", "poste": "Gouvernante" },
+        "debut": "2019-06",
+        "fin": "2021-12",
+        "contrat": "CDD",
+        "remuneration": { "net_mensuel": 1280 },
+        "avantages": ["Repas personnel"],
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "Colegio San Isidro",
+        "adresse": "Madrid",
+        "diplome": "Baccalauréat Général",
+        "debut": "2006-09",
+        "fin": "2009-06"
+      }
+    ]
+  },
+
+  {
+    "nom": "Adrien Lambert",
+    "photo": "URL_ADRIEN_PORTRAIT",
+    "age": 25,
+    "ville": "Paris",
+    "jobs": [
+      {
+        "employeur": "QuickBite",
+        "adresse": "27 Boulevard Saint-Michel, 75005 Paris",
+        "poste": "Équipier polyvalent",
+        "departement": "Restauration",
+        "hierarchie": "Manager shift: M. Breton",
+        "manager": { "nom": "Y. Breton", "poste": "Manager" },
+        "debut": "2023-10",
+        "fin": "Présent",
+        "contrat": "CDI étudiant",
+        "remuneration": { "net_mensuel": 890 },
+        "avantages": ["Repas fournis", "Horaires adaptés"],
+        "equipements": {},
+        "commentaires": [
+          { "auteur": "Manager", "date": "2024-04-18", "texte": "Sérieux, fiable. Prépare ses partiels." }
+        ]
+      },
+      {
+        "employeur": "Relay Paris-Est",
+        "adresse": "Gare de Paris-Est, 75010 Paris",
+        "poste": "Vendeur polyvalent (week-ends)",
+        "departement": "Retail",
+        "hierarchie": "Responsable boutique",
+        "manager": { "nom": "M. Haddad", "poste": "Responsable" },
+        "debut": "2022-11",
+        "fin": "2023-09",
+        "contrat": "CDD étudiant",
+        "remuneration": { "net_mensuel": 520 },
+        "avantages": ["Réductions boutique"],
+        "equipements": {},
+        "commentaires": []
+      }
+    ],
+    "education": [
+      {
+        "ecole": "Université Paris Cité",
+        "adresse": "16 Rue Marguerite Duras, 75013 Paris",
+        "diplome": "Licence Économie (en cours)",
+        "debut": "2021-09",
+        "fin": "Présent",
+        "commentaire": "Campus Grands Moulins"
+      },
+      {
+        "ecole": "Lycée Voltaire",
+        "adresse": "Paris 11e",
+        "diplome": "Bac ES",
+        "debut": "2017-09",
+        "fin": "2020-06"
+      }
+    ]
+  },
+  {
     "nom": "jayro",
     "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/jayro.jpg?v=1",
     "age": 29,
@@ -93,3 +413,4 @@
     ]
   }
 ]
+
