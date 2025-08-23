@@ -84,5 +84,88 @@
         ]
       }
     ]
+  },
+  {
+    "person": "marc",
+    "avatar": "URL_MARC_PORTRAIT",
+    "contacts": [
+      {
+        "id": "alexio",
+        "name": "Alexio Massenzio",
+        "avatar": "URL_ALEXIO_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Nos avocats veulent avancer l’audience au 3 octobre.", "timestamp": "2024-09-10T09:12:00+02:00" },
+          { "from": "them", "text": "Ils peuvent bien faire ce qu’ils veulent, je ne céderai pas.", "timestamp": "2024-09-10T09:15:00+02:00" },
+          { "from": "me",   "text": "Tu n’as pas intérêt à ce que ça traîne non plus. Ça coûte à tout le monde.", "timestamp": "2024-09-10T09:16:30+02:00" },
+          { "from": "them", "text": "C’est toi qui as ouvert ce conflit, pas moi.", "timestamp": "2024-09-10T09:18:00+02:00" },
+          { "from": "me",   "text": "Soit. Mais Engica continue de tourner. As-tu vu le rapport Q2 ?", "timestamp": "2024-09-11T10:11:00+02:00" },
+          { "from": "them", "text": "Oui, les chiffres sont bons. Dommage qu’on en soit arrivé là.", "timestamp": "2024-09-11T10:13:00+02:00" },
+          { "from": "me",   "text": "C’était inévitable, tu le sais.", "timestamp": "2024-09-11T10:14:00+02:00" },
+          { "from": "them", "text": "Inévitable ou pas, il faudra en assumer les conséquences.", "timestamp": "2024-09-11T10:15:00+02:00" },
+          { "from": "me",   "text": "Toujours aussi théâtral. Tu viens au CA lundi ?", "timestamp": "2024-09-12T08:10:00+02:00" },
+          { "from": "them", "text": "Oui, bien sûr. J’ai encore des choses à dire.", "timestamp": "2024-09-12T08:12:00+02:00" }
+        ]
+      },
+      {
+        "id": "investisseur",
+        "name": "Investisseur",
+        "avatar": "URL_INVESTISSEUR_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Le moment approche. Je ne resterai plus longtemps chez Engica.", "timestamp": "2024-09-08T14:20:00+02:00" },
+          { "from": "them", "text": "On doit être prêts dès que tu es dehors.", "timestamp": "2024-09-08T14:21:00+02:00" },
+          { "from": "me",   "text": "Je viens de t’envoyer un mail avec des rapports internes.", "timestamp": "2024-09-08T14:23:00+02:00" },
+          { "from": "them", "text": "Parfait. On va pouvoir modéliser les flux financiers d’Engica.", "timestamp": "2024-09-08T14:25:00+02:00" },
+          { "from": "me",   "text": "Assure-toi que ça reste discret. Si ça fuit, je suis fini.", "timestamp": "2024-09-08T14:27:00+02:00" },
+          { "from": "them", "text": "Ne t’inquiète pas. Dans six mois, Engica aura un concurrent redoutable.", "timestamp": "2024-09-08T14:29:00+02:00" },
+          { "from": "me",   "text": "Alexio pense qu’il est intouchable. Il verra.", "timestamp": "2024-09-08T14:30:00+02:00" },
+          { "from": "them", "text": "Sois patient. Chaque chose en son temps.", "timestamp": "2024-09-08T14:32:00+02:00" },
+          { "from": "me",   "text": "La patience n’a jamais été mon fort.", "timestamp": "2024-09-08T14:33:00+02:00" },
+          { "from": "them", "text": "Justement. Garde ton calme. Le reste est déjà en marche.", "timestamp": "2024-09-08T14:35:00+02:00" }
+        ]
+      },
+      {
+        "id": "claire",
+        "name": "Claire Delval",
+        "avatar": "URL_CLAIRE_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Tu rentres tard encore ?", "timestamp": "2024-09-09T21:12:00+02:00" },
+          { "from": "me",   "text": "Oui, beaucoup de réunions ces temps-ci.", "timestamp": "2024-09-09T21:13:00+02:00" },
+          { "from": "them", "text": "Tu pourrais prévenir plus tôt. Thomas voulait te voir avant de se coucher.", "timestamp": "2024-09-09T21:14:00+02:00" },
+          { "from": "me",   "text": "Je lui raconterai une histoire demain. Promis.", "timestamp": "2024-09-09T21:15:00+02:00" },
+          { "from": "them", "text": "Tu dis toujours ça…", "timestamp": "2024-09-09T21:16:00+02:00" },
+          { "from": "me",   "text": "Je fais de mon mieux, Claire.", "timestamp": "2024-09-09T21:17:00+02:00" },
+          { "from": "them", "text": "Fais juste attention à ne pas tout perdre pour ton boulot.", "timestamp": "2024-09-09T21:18:00+02:00" },
+          { "from": "me",   "text": "Je sais. C’est plus compliqué que tu ne crois.", "timestamp": "2024-09-09T21:19:00+02:00" },
+          { "from": "them", "text": "Alors parle-moi un peu, au lieu de tout garder pour toi.", "timestamp": "2024-09-09T21:20:00+02:00" },
+          { "from": "me",   "text": "Un jour, peut-être… mais pas ce soir.", "timestamp": "2024-09-09T21:21:00+02:00" }
+        ]
+      },
+      {
+        "id": "banquier",
+        "name": "Conseiller Banque",
+        "avatar": "URL_BANQUIER_PORTRAIT",
+        "messages": [
+          { "from": "me",   "text": "Bonjour, je voulais confirmer le virement vers la Suisse.", "timestamp": "2024-09-05T10:05:00+02:00" },
+          { "from": "them", "text": "Oui M. Delval, effectué ce matin.", "timestamp": "2024-09-05T10:06:00+02:00" },
+          { "from": "me",   "text": "Parfait. Merci.", "timestamp": "2024-09-05T10:07:00+02:00" },
+          { "from": "them", "text": "Au passage, vos relevés montrent des dépenses inhabituelles. Voulez-vous qu’on en parle ?", "timestamp": "2024-09-05T10:08:00+02:00" },
+          { "from": "me",   "text": "Pas nécessaire, c’est prévu.", "timestamp": "2024-09-05T10:09:00+02:00" },
+          { "from": "them", "text": "Très bien. Nous restons à votre disposition.", "timestamp": "2024-09-05T10:10:00+02:00" }
+        ]
+      },
+      {
+        "id": "golf",
+        "name": "Pierre (Golf)",
+        "avatar": "URL_GOLF_PORTRAIT",
+        "messages": [
+          { "from": "them", "text": "Samedi 15h, practice comme d’hab ?", "timestamp": "2024-09-07T11:20:00+02:00" },
+          { "from": "me",   "text": "Oui, ça me changera les idées.", "timestamp": "2024-09-07T11:21:00+02:00" },
+          { "from": "them", "text": "Parfait, j’amène les balles.", "timestamp": "2024-09-07T11:22:00+02:00" },
+          { "from": "me",   "text": "Ok. Tu verras, je vais t’éclater cette fois.", "timestamp": "2024-09-07T11:23:00+02:00" },
+          { "from": "them", "text": "😂 On verra ça.", "timestamp": "2024-09-07T11:24:00+02:00" }
+        ]
+      }
+    ]
   }
 ]
+
