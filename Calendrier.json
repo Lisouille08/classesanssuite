@@ -1,6 +1,103 @@
 {
   "suspects": [
     {
+      "name": "Alexio Massenzio",
+      "events": [
+        { "start": "2024-09-02T09:30:00+02:00", "end": "2024-09-02T11:00:00+02:00", "title": "Comité Stratégique ENGICA", "location": "Siège ENGICA, Paris 16e", "notes": "Point Q3, arbitrages Italie/CEE", "tags": ["business","ca"], "url": "" },
+        { "start": "2024-09-04T20:00:00+02:00", "end": "2024-09-04T22:00:00+02:00", "title": "Dîner investisseur", "location": "Le Cinq, George V", "notes": "Relations publiques", "tags": ["rp"] },
+        { "start": "2024-09-06T07:30:00+02:00", "end": "2024-09-06T08:15:00+02:00", "title": "Cardio & sauna", "location": "Ritz Club", "notes": "", "tags": ["perso","sport"] },
+        { "start": "2024-09-09T15:30:00+02:00", "end": "2024-09-09T16:00:00+02:00", "title": "Appel conseil (procédure)", "location": "Bureau", "notes": "Audience évoquée par Marc", "tags": ["juridique"] },
+        { "start": "2024-09-10T10:05:00+02:00", "end": "2024-09-10T10:35:00+02:00", "title": "Revue chiffres Q2", "location": "Siège ENGICA", "notes": "Chiffres « bons »", "tags": ["business"] },
+        { "start": "2024-09-11T18:45:00+02:00", "end": "2024-09-11T19:15:00+02:00", "title": "Call Giorgio (yacht dimanche)", "location": "Portable", "notes": "Prévoir champagne", "tags": ["perso","loisirs"] },
+        { "start": "2024-09-12T08:10:00+02:00", "end": "2024-09-12T09:00:00+02:00", "title": "Pré-CA", "location": "ENGICA - Salle Verdi", "notes": "Préparer slides", "tags": ["ca"] },
+        { "start": "2024-09-14T21:45:00+02:00", "end": "2024-09-14T22:20:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon, Hall 1", "notes": "Cabine 14", "tags": ["train","voyage"] },
+        { "start": "2024-09-14T23:10:00+02:00", "end": "2024-09-14T23:35:00+02:00", "title": "Wagon-bar", "location": "Train Paris–Milan", "notes": "Conso ~23:15", "tags": ["bar","preuve"] },
+        { "start": "2024-09-15T08:30:00+02:00", "end": "2024-09-15T09:00:00+02:00", "title": "Taxi Centrale → hôtel", "location": "Milano Centrale", "notes": "Réservation confirmée", "tags": ["voyage"] }
+      ]
+    },
+
+    {
+      "name": "Marc Delval",
+      "events": [
+        { "start": "2024-09-03T09:00:00+02:00", "end": "2024-09-03T10:30:00+02:00", "title": "Cabinet d’avocats BDL", "location": "Paris 8e", "notes": "Calendrier audience", "tags": ["juridique"] },
+        { "start": "2024-09-05T12:30:00+02:00", "end": "2024-09-05T13:45:00+02:00", "title": "Déjeuner d’affaires", "location": "Brasserie Lipp", "notes": "", "tags": ["rp"] },
+        { "start": "2024-09-07T15:00:00+02:00", "end": "2024-09-07T16:30:00+02:00", "title": "Practice golf", "location": "Racing Club", "notes": "Avec Pierre", "tags": ["perso","loisirs"] },
+        { "start": "2024-09-09T10:00:00+02:00", "end": "2024-09-09T10:30:00+02:00", "title": "Call analyste Q2", "location": "Bureau", "notes": "", "tags": ["business"] },
+        { "start": "2024-09-10T09:12:00+02:00", "end": "2024-09-10T09:20:00+02:00", "title": "Msg à Alexio (procédure)", "location": "SMS", "notes": "Echanges froids", "tags": ["conflit"] },
+        { "start": "2024-09-11T10:10:00+02:00", "end": "2024-09-11T10:20:00+02:00", "title": "Rapport Q2 – ping", "location": "Teams", "notes": "Demande d’accès", "tags": ["business"] },
+        { "start": "2024-09-12T08:05:00+02:00", "end": "2024-09-12T08:20:00+02:00", "title": "CA – préparation", "location": "Neuilly", "notes": "", "tags": ["ca"] },
+        { "start": "2024-09-14T21:45:00+02:00", "end": "2024-09-14T22:20:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon", "notes": "Place 12A – 1ère", "tags": ["train"] },
+        { "start": "2024-09-15T00:25:00+02:00", "end": "2024-09-15T00:40:00+02:00", "title": "Achat – wagon-bar", "location": "Train Paris–Milan", "notes": "Règlement ~00:30", "tags": ["bar","preuve"] },
+        { "start": "2024-09-18T14:00:00+02:00", "end": "2024-09-18T16:00:00+02:00", "title": "Réunion « investisseur »", "location": "La Défense - tour Opus", "notes": "Prospect concurrentiel", "tags": ["confidentiel"] }
+      ]
+    },
+
+    {
+      "name": "Luc Morel",
+      "events": [
+        { "start": "2024-09-03T06:00:00+02:00", "end": "2024-09-03T14:00:00+02:00", "title": "Service TGV Est", "location": "Paris Est", "notes": "", "tags": ["travail"] },
+        { "start": "2024-09-05T18:30:00+02:00", "end": "2024-09-05T19:00:00+02:00", "title": "RDV caisse mutuelle", "location": "Paris 12e", "notes": "Avance refusée", "tags": ["finances"] },
+        { "start": "2024-09-07T16:00:00+02:00", "end": "2024-09-07T18:00:00+02:00", "title": "Match avec Mathis", "location": "Parc des Princes", "notes": "Avec le neveu", "tags": ["famille"] },
+        { "start": "2024-09-10T17:20:00+02:00", "end": "2024-09-10T17:35:00+02:00", "title": "Point planning", "location": "SNCF – Chef de bord", "notes": "SMS Sophie Huguet", "tags": ["travail"] },
+
+        { "start": "2024-09-13T21:00:00+02:00", "end": "2024-09-13T22:00:00+02:00", "title": "RDV quartier Stalingrad", "location": "Avenue de Flandre, Paris 19e", "notes": "Contact non enregistré", "tags": ["suspect","louche"] },
+
+        { "start": "2024-09-14T00:30:00+02:00", "end": "2024-09-14T01:00:00+02:00", "title": "Notifications Betclic", "location": "Téléphone", "notes": "Relances inscription/cotes", "tags": ["jeu","dettes"] },
+
+        { "start": "2024-09-14T09:00:00+02:00", "end": "2024-09-14T18:00:00+02:00", "title": "Jour de repos (prévu)", "location": "—", "notes": "Aucun service planifié", "tags": ["repos","anormal"] },
+
+        { "start": "2024-09-14T21:50:00+02:00", "end": "2024-09-14T22:15:00+02:00", "title": "Présence non planifiée à quai", "location": "Gare de Lyon, Hall 1", "notes": "Vu en uniforme; hors planning", "tags": ["anormal","préparation","train"] },
+
+        { "start": "2024-09-14T23:58:00+02:00", "end": "2024-09-15T00:18:00+02:00", "title": "Patrouille « technique »", "location": "Couloirs voitures-lits", "notes": "Aucune consigne officielle", "tags": ["suspect","blackout"] },
+
+        { "start": "2024-09-15T06:30:00+02:00", "end": "2024-09-15T07:00:00+02:00", "title": "Retour domicile", "location": "Paris 11e", "notes": "SMS banque : découvert", "tags": ["finances"] }
+      ]
+    },
+
+    {
+      "name": "Elena Rossi",
+      "events": [
+        { "start": "2024-09-03T11:00:00+02:00", "end": "2024-09-03T12:00:00+02:00", "title": "Coiffeur", "location": "Via Roma, Torino", "notes": "", "tags": ["perso"] },
+        { "start": "2024-09-05T19:30:00+02:00", "end": "2024-09-05T22:30:00+02:00", "title": "Soirée caritative", "location": "Turin – Palazzo Madama", "notes": "", "tags": ["mondain"] },
+        { "start": "2024-09-07T10:30:00+02:00", "end": "2024-09-07T11:15:00+02:00", "title": "Pilates", "location": "Club privé", "notes": "", "tags": ["sport"] },
+        { "start": "2024-09-09T17:05:00+02:00", "end": "2024-09-09T17:20:00+02:00", "title": "Appel Mamma (courses viande)", "location": "Portable", "notes": "« On a déjà acheté »", "tags": ["famille"] },
+        { "start": "2024-09-11T12:30:00+02:00", "end": "2024-09-11T14:00:00+02:00", "title": "Déjeuner Chiara", "location": "Brera, Milano", "notes": "", "tags": ["perso"] },
+        { "start": "2024-09-14T21:45:00+02:00", "end": "2024-09-14T22:20:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon", "notes": "Retour maison", "tags": ["train"] },
+        { "start": "2024-09-15T09:30:00+02:00", "end": "2024-09-15T09:50:00+02:00", "title": "Taxi Centrale → domicile", "location": "Milano Centrale", "notes": "Fiat noire IT-209-CC", "tags": ["voyage"] },
+        { "start": "2024-09-18T18:00:00+02:00", "end": "2024-09-18T19:30:00+02:00", "title": "Vernissage", "location": "Fondation Prada", "notes": "", "tags": ["art"] },
+        { "start": "2024-09-21T11:00:00+02:00", "end": "2024-09-21T12:00:00+02:00", "title": "Shopping", "location": "Quadrilatero, Milano", "notes": "", "tags": ["perso"] }
+      ]
+    },
+
+    {
+      "name": "Sofia Mendez",
+      "events": [
+        { "start": "2024-09-02T22:00:00+02:00", "end": "2024-09-03T03:00:00+02:00", "title": "Rotation nuit – nettoyage bord", "location": "Gare de Lyon / Train couchettes", "notes": "", "tags": ["travail","nuit"] },
+        { "start": "2024-09-05T09:00:00+02:00", "end": "2024-09-05T09:20:00+02:00", "title": "Loyer – virement", "location": "App Twitch SMS banque", "notes": "Ok", "tags": ["perso"] },
+        { "start": "2024-09-07T16:00:00+02:00", "end": "2024-09-07T18:00:00+02:00", "title": "Cinéma avec Claire", "location": "UGC Bercy", "notes": "", "tags": ["loisirs"] },
+        { "start": "2024-09-09T18:10:00+02:00", "end": "2024-09-09T18:30:00+02:00", "title": "Appel Mariana", "location": "WhatsApp", "notes": "Famille/Madrid", "tags": ["famille"] },
+        { "start": "2024-09-12T07:00:00+02:00", "end": "2024-09-12T07:30:00+02:00", "title": "Brief équipe", "location": "Local CleanExpress", "notes": "", "tags": ["travail"] },
+        { "start": "2024-09-14T21:30:00+02:00", "end": "2024-09-14T22:15:00+02:00", "title": "Train Paris–Milan (prise de service)", "location": "Gare de Lyon", "notes": "Wagon-lits secteur A", "tags": ["train","service"] },
+        { "start": "2024-09-17T12:30:00+02:00", "end": "2024-09-17T13:00:00+02:00", "title": "Déj rapide", "location": "Sandwicherie, Quai de Seine", "notes": "", "tags": ["perso"] },
+        { "start": "2024-09-20T22:00:00+02:00", "end": "2024-09-21T03:00:00+02:00", "title": "Rotation nuit – nettoyage bord", "location": "Gare de Lyon", "notes": "", "tags": ["travail","nuit"] }
+      ]
+    },
+
+    {
+      "name": "Adrien Lambert",
+      "events": [
+        { "start": "2024-09-04T08:30:00+02:00", "end": "2024-09-04T10:00:00+02:00", "title": "CM microéconomie", "location": "Sorbonne - Amphi C", "notes": "", "tags": ["études"] },
+        { "start": "2024-09-06T22:00:00+02:00", "end": "2024-09-07T01:30:00+02:00", "title": "Bar avec Léo & Sam", "location": "Oberkampf", "notes": "", "tags": ["loisirs"] },
+        { "start": "2024-09-09T08:00:00+02:00", "end": "2024-09-09T08:20:00+02:00", "title": "Poubelles / ménage", "location": "Domicile", "notes": "Msg Evelyne", "tags": ["famille"] },
+        { "start": "2024-09-10T19:00:00+02:00", "end": "2024-09-10T20:00:00+02:00", "title": "Révisions QCM", "location": "BU Cujas", "notes": "", "tags": ["études"] },
+        { "start": "2024-09-12T15:30:00+02:00", "end": "2024-09-12T16:30:00+02:00", "title": "Job – shift soir", "location": "QuickBite St-Michel", "notes": "", "tags": ["job"] },
+        { "start": "2024-09-14T21:40:00+02:00", "end": "2024-09-14T22:15:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon", "notes": "2e classe, écouteurs", "tags": ["train"] },
+        { "start": "2024-09-17T18:00:00+02:00", "end": "2024-09-17T19:00:00+02:00", "title": "TD économie", "location": "Salle 203", "notes": "", "tags": ["études"] },
+        { "start": "2024-09-19T20:30:00+02:00", "end": "2024-09-19T22:30:00+02:00", "title": "Soirée chez Léo", "location": "Nation", "notes": "", "tags": ["loisirs"] },
+        { "start": "2024-09-24T09:00:00+02:00", "end": "2024-09-24T12:00:00+02:00", "title": "Partiels blancs", "location": "Campus Panthéon", "notes": "", "tags": ["études"] }
+      ]
+    },
+    {
       "name": "RICO",
       "events": [
         {
@@ -58,3 +155,4 @@
     }
   ]
 }
+
