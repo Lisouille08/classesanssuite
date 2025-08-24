@@ -80,6 +80,32 @@
         { "start": "2024-09-10T19:00:00+02:00", "end": "2024-09-10T20:00:00+02:00", "title": "Révisions QCM", "location": "BU Cujas", "notes": "", "tags": ["études"] },
         { "start": "2024-09-12T15:30:00+02:00", "end": "2024-09-12T16:30:00+02:00", "title": "Job – shift soir", "location": "QuickBite St-Michel", "notes": "", "tags": ["job"] },
         { "start": "2024-09-17T18:00:00+02:00", "end": "2024-09-17T19:00:00+02:00", "title": "TD économie", "location": "Salle 203", "notes": "", "tags": ["études"] },
-        { "start": "2024-09-19T20:30:00+02:00", "end": "2024-09-19T22:30:00+02:00", "title": "Soirée chez Léo", "location": "Nation", "notes": "", "tags": ["loisirs"] }
-      ] } ] }
+        { "start": "2024-09-19T20:30:00+02:00", "end": "2024-09-19T22:30:00+02:00", "title": "Soirée chez Léo", "location": "Nation", "notes": "", "tags": ["loisirs"] },
+        { "start": "2024-09-24T09:00:00+02:00", "end": "2024-09-24T12:00:00+02:00", "title": "Partiels blancs", "location": "Campus Panthéon", "notes": "", "tags": ["études"] }
+      ]
+    },
 
+    {
+      "name": "RICO",
+      "events": [
+        { "start": "2025-05-28T14:00:00+02:00", "end": "2025-05-28T15:00:00+02:00", "title": "RDV logistique", "location": "Studio B", "notes": "Prépa matos — possible diversion.", "tags": ["alibi","logistique"], "url": "" },
+        { "start": "2025-06-02T09:30:00+02:00", "end": "2025-06-02T10:00:00+02:00", "title": "Café avec T.", "location": "Bellecour", "notes": "Message chiffré attendu.", "tags": ["contact"] }
+      ]
+    },
+
+    {
+      "name": "NAILA",
+      "events": [
+        { "start": "2025-05-30T18:00:00+02:00", "end": "2025-05-30T20:15:00+02:00", "title": "Répétition", "location": "Salle 3", "notes": "Présence incertaine de R.", "tags": ["couverture"] },
+        { "start": "2025-06-04T12:00:00+02:00", "end": "2025-06-04T12:30:00+02:00", "title": "Déj express", "location": "Quai du Rhône", "notes": "", "tags": [] }
+      ]
+    },
+
+    {
+      "name": "TYKE",
+      "events": [
+        { "start": "2025-06-01T22:00:00+02:00", "end": "2025-06-01T23:59:00+02:00", "title": "Surveillance parking", "location": "Part-Dieu P3", "notes": "Plaques à relever.", "tags": ["surveillance","nuit"] }
+      ]
+    }
+  ]
+}
