@@ -1,21 +1,40 @@
 {
   "users": [
-    { "id": "jayro", "name": "Jayro", "avatar": "", "bio": "Chauffeur • Lyon", "followers": ["naila", "rico"], "following": ["naila"], "posts": ["p1"] },
-    { "id": "naila", "name": "Naila", "avatar": "", "bio": "Marketing • Villeurbanne", "followers": ["jayro"], "following": ["jayro", "rico"], "posts": [] },
-    { "id": "rico", "name": "Rico", "avatar": "", "bio": "Artiste", "followers": ["naila"], "following": ["jayro"], "posts": [] }
+    { "id": "alexio", "name": "Alexio Massenzio", "avatar": "", "bio": "CEO • ENGICA • Paris/Milan", "followers": ["elena", "adrien"], "following": ["elena"], "posts": ["pA1", "pA2", "pA3"] },
+    { "id": "elena",  "name": "Elena Rossi",      "avatar": "", "bio": "Lifestyle • Milano",         "followers": ["alexio"],         "following": ["alexio"],       "posts": [] },
+    { "id": "adrien", "name": "Adrien Lambert",   "avatar": "", "bio": "Étudiant • Paris",           "followers": [],                 "following": ["alexio"],       "posts": [] }
   ],
   "posts": [
     {
-      "id": "p1",
-      "user": "jayro",
-      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Jayro-Studio-12_aout.jpg?v=1749919225",
-      "caption": "Studio — 12 août • #studio #lyon",
-      "ts": "2025-08-12T20:17:00+02:00",
-      "likes": ["naila", "rico"],
-      "comments": [
-        { "user": "naila", "text": "Jolie photo.", "ts": "2025-08-12T20:25:00+02:00" },
-        { "user": "rico",  "text": "On dirait le hall, non ?", "ts": "2025-08-12T20:27:00+02:00" }
-      ]
+      "id": "pA1",
+      "user": "alexio",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Reunion_Alexio.png?v=1756036855",
+      "caption": "#meeting #energy #leadership",
+      "ts": "2024-09-05T10:45:00+02:00",
+      "likes": [],
+      "likes_count": 12400,
+      "comments": []
+    },
+    {
+      "id": "pA2",
+      "user": "alexio",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Partenariat_SNCF.png?v=1756036855",
+      "caption": "C'est avec fierté, qu'Engica vous présente son nouveau partenaire ! #sncf #partenariat ",
+      "ts": "2024-09-08T17:20:00+02:00",
+      "likes": [],
+      "likes_count": 9800,
+      "comments": []
+    },
+    {
+      "id": "pA3",
+      "user": "alexio",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Conference_Alexio.png?v=1756036854",
+      "caption": " Je remercie les organisateurs de cette conférence, pour leur confiance et leur professionnel. Engica est à la porte d'un chiffre d'affaires démentiel.",
+      "ts": "2024-09-09T23:05:00+02:00",
+      "likes": [],
+      "likes_count": 11250,
+      "comments": []
     }
   ]
 }
+
