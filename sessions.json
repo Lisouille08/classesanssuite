@@ -1,15 +1,15 @@
 {
   "sessions": [
     {
-      "code": "ABCD1234",
-      "password": "morpion",
+      "code": "JD73KF",
+      "password": "julie",
       "startAt": "2025-08-20T18:00:00Z",
       "durationSec": 7200,
       "emailTo": "lisa.garcia1t4@gmail.com"
     },
     {
       "code": "EFGH5678",
-      "password": "perceval",
+      "password": "lesfutursperdants",
       "startAt": "2025-08-21T18:00:00Z",
       "durationSec": 7200,
       "emailTo": "lisa.garcia1t4@gmail.com"
