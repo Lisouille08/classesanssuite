@@ -3,22 +3,22 @@
     {
       "code": "JD73KF",
       "password": "julie",
-      "startAt": "2025-08-20T18:00:00Z",
       "durationSec": 7200,
+      "case": "train-midnight",
       "emailTo": "lisa.garcia1t4@gmail.com"
     },
     {
       "code": "EFGH5678",
       "password": "lesfutursperdants",
-      "startAt": "2025-08-21T18:00:00Z",
       "durationSec": 7200,
+      "case": "train-midnight",
       "emailTo": "lisa.garcia1t4@gmail.com"
     },
     {
       "code": "J873KF",
       "password": "momo",
-      "startAt": "2025-08-20T18:00:00Z",
       "durationSec": 7200,
+      "case": "train-midnight",
       "emailTo": "lisa.garcia1t4@gmail.com"
     }
   ]
