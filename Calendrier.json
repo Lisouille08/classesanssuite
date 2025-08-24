@@ -27,7 +27,6 @@
         { "start": "2024-09-11T10:10:00+02:00", "end": "2024-09-11T10:20:00+02:00", "title": "Rapport Q2 – ping", "location": "Teams", "notes": "Demande d’accès", "tags": ["business"] },
         { "start": "2024-09-12T08:05:00+02:00", "end": "2024-09-12T08:20:00+02:00", "title": "CA – préparation", "location": "Neuilly", "notes": "", "tags": ["ca"] },
         { "start": "2024-09-14T21:45:00+02:00", "end": "2024-09-14T22:20:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon", "notes": "Place 12A – 1ère", "tags": ["train"] },
-        { "start": "2024-09-15T00:25:00+02:00", "end": "2024-09-15T00:40:00+02:00", "title": "Achat – wagon-bar", "location": "Train Paris–Milan", "notes": "Règlement ~00:30", "tags": ["bar","preuve"] },
         { "start": "2024-09-18T14:00:00+02:00", "end": "2024-09-18T16:00:00+02:00", "title": "Réunion « investisseur »", "location": "La Défense - tour Opus", "notes": "Prospect concurrentiel", "tags": ["confidentiel"] }
       ]
     },
@@ -40,17 +39,10 @@
         { "start": "2024-09-07T16:00:00+02:00", "end": "2024-09-07T18:00:00+02:00", "title": "Match avec Mathis", "location": "Parc des Princes", "notes": "Avec le neveu", "tags": ["famille"] },
         { "start": "2024-09-10T17:20:00+02:00", "end": "2024-09-10T17:35:00+02:00", "title": "Point planning", "location": "SNCF – Chef de bord", "notes": "SMS Sophie Huguet", "tags": ["travail"] },
 
-        { "start": "2024-09-13T21:00:00+02:00", "end": "2024-09-13T22:00:00+02:00", "title": "RDV quartier Stalingrad", "location": "Avenue de Flandre, Paris 19e", "notes": "Contact non enregistré", "tags": ["suspect","louche"] },
+        { "start": "2024-09-13T21:00:00+02:00", "end": "2024-09-13T22:00:00+02:00", "title": "RDV quartier Stalingrad", "location": "Avenue de Flandre, Paris 19e"] },
 
-        { "start": "2024-09-14T00:30:00+02:00", "end": "2024-09-14T01:00:00+02:00", "title": "Notifications Betclic", "location": "Téléphone", "notes": "Relances inscription/cotes", "tags": ["jeu","dettes"] },
 
-        { "start": "2024-09-14T09:00:00+02:00", "end": "2024-09-14T18:00:00+02:00", "title": "Jour de repos (prévu)", "location": "—", "notes": "Aucun service planifié", "tags": ["repos","anormal"] },
-
-        { "start": "2024-09-14T21:50:00+02:00", "end": "2024-09-14T22:15:00+02:00", "title": "Présence non planifiée à quai", "location": "Gare de Lyon, Hall 1", "notes": "Vu en uniforme; hors planning", "tags": ["anormal","préparation","train"] },
-
-        { "start": "2024-09-14T23:58:00+02:00", "end": "2024-09-15T00:18:00+02:00", "title": "Patrouille « technique »", "location": "Couloirs voitures-lits", "notes": "Aucune consigne officielle", "tags": ["suspect","blackout"] },
-
-        { "start": "2024-09-15T06:30:00+02:00", "end": "2024-09-15T07:00:00+02:00", "title": "Retour domicile", "location": "Paris 11e", "notes": "SMS banque : découvert", "tags": ["finances"] }
+        { "start": "2024-09-14T09:00:00+02:00", "end": "2024-09-14T18:00:00+02:00", "title": "Jour de repos", "location": "—"] }
       ]
     },
 
@@ -91,7 +83,6 @@
         { "start": "2024-09-09T08:00:00+02:00", "end": "2024-09-09T08:20:00+02:00", "title": "Poubelles / ménage", "location": "Domicile", "notes": "Msg Evelyne", "tags": ["famille"] },
         { "start": "2024-09-10T19:00:00+02:00", "end": "2024-09-10T20:00:00+02:00", "title": "Révisions QCM", "location": "BU Cujas", "notes": "", "tags": ["études"] },
         { "start": "2024-09-12T15:30:00+02:00", "end": "2024-09-12T16:30:00+02:00", "title": "Job – shift soir", "location": "QuickBite St-Michel", "notes": "", "tags": ["job"] },
-        { "start": "2024-09-14T21:40:00+02:00", "end": "2024-09-14T22:15:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon", "notes": "2e classe, écouteurs", "tags": ["train"] },
         { "start": "2024-09-17T18:00:00+02:00", "end": "2024-09-17T19:00:00+02:00", "title": "TD économie", "location": "Salle 203", "notes": "", "tags": ["études"] },
         { "start": "2024-09-19T20:30:00+02:00", "end": "2024-09-19T22:30:00+02:00", "title": "Soirée chez Léo", "location": "Nation", "notes": "", "tags": ["loisirs"] },
         { "start": "2024-09-24T09:00:00+02:00", "end": "2024-09-24T12:00:00+02:00", "title": "Partiels blancs", "location": "Campus Panthéon", "notes": "", "tags": ["études"] }
@@ -155,4 +146,5 @@
     }
   ]
 }
+
 
