@@ -80,5 +80,6 @@
         { "start": "2024-09-10T19:00:00+02:00", "end": "2024-09-10T20:00:00+02:00", "title": "Révisions QCM", "location": "BU Cujas", "notes": "", "tags": ["études"] },
         { "start": "2024-09-12T15:30:00+02:00", "end": "2024-09-12T16:30:00+02:00", "title": "Job – shift soir", "location": "QuickBite St-Michel", "notes": "", "tags": ["job"] },
         { "start": "2024-09-17T18:00:00+02:00", "end": "2024-09-17T19:00:00+02:00", "title": "TD économie", "location": "Salle 203", "notes": "", "tags": ["études"] },
-        { "start": "2024-09-19T20:30:00+02:00", "end": "2024-09-19T22:30:00+02:00", "title": "Soirée chez Léo", "location": "Nation", "notes": "", "tags": ["loisirs"] },
-        { "start": "2024-09-24T09:00:00+02:00", "end": "2024-09-24T12:00:00+02:00", "title": "Partiels blancs
+        { "start": "2024-09-19T20:30:00+02:00", "end": "2024-09-19T22:30:00+02:00", "title": "Soirée chez Léo", "location": "Nation", "notes": "", "tags": ["loisirs"] }
+      ] } ] }
+
