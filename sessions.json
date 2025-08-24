@@ -1,21 +1,21 @@
 {
   "sessions": [
     {
-      "code": "JD73KF",
+      "code": "JDT3KF",
       "password": "julie",
       "durationSec": 7200,
       "case": "train-midnight",
       "emailTo": "lisa.garcia1t4@gmail.com"
     },
     {
-      "code": "EFGH5678",
+      "code": "EFGR5678",
       "password": "lesfutursperdants",
       "durationSec": 7200,
       "case": "train-midnight",
       "emailTo": "lisa.garcia1t4@gmail.com"
     },
     {
-      "code": "J873KF",
+      "code": "J8P73KF",
       "password": "momo",
       "durationSec": 7200,
       "case": "train-midnight",
