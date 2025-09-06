@@ -1,125 +1,384 @@
-{
-  "meta": {
-    "city": "Paris 19e",
-    "date": "2023-08-12",
-    "date_readable": "Samedi 12 août 2023",
-    "updated": "21:05",
-    "source": "Desk local",
-    "dataset_label": "NEWS • Dossier environnemental du jour"
-  },
-  "meteo": {
-    "summary": "Ciel couvert, tendance orageuse en soirée",
-    "temp": "24°C (ressenti 25)",
-    "visibility": "Réduite après 21h",
-    "wind": "Rafales jusqu’à 60 km/h",
-    "note": "Pluie forte attendue vers 23h",
-    "hours": [
-      { "time": "19:00", "desc": "Couvert, bruine intermittente" },
-      { "time": "20:00", "desc": "Couverts denses, humidité élevée" },
-      { "time": "21:00", "desc": "Alerte orage, visibilité faible", "is_key": true },
-      { "time": "22:00", "desc": "Orage localisé, chaussée glissante" },
-      { "time": "23:00", "desc": "Pluie forte, rafales de vent", "is_key": true }
-    ]
-  },
-  "trafic": [
-    {
-      "title": "Périphérique intérieur ralenti",
-      "desc": "Bouchons Porte de la Chapelle → Porte de la Villette (accident mineur).",
-      "severity": "bad",
-      "tag": "Route"
-    },
-    {
-      "title": "Métro L7 interrompue",
-      "desc": "Trafic suspendu entre Gare de l’Est et Crimée dès 20:15 (incident technique).",
-      "severity": "bad",
-      "tag": "Transports",
-      "is_key": true
-    },
-    {
-      "title": "Rue Saint-Maur fermée",
-      "desc": "Travaux de nuit, fermeture dès 21:00, circulation locale uniquement.",
-      "tag": "Route"
+{% layout none %}
+{% comment %}
+  CLASSÉ SANS SUITE — App NEWS
+  • En-tête identique aux autres apps : logo, titre, chrono, bouton retour
+  • Palette stricte noir/rouge
+  • Aucune mention "indice", aucune icône
+  • Barre de recherche Lieu + menu Date (par défaut = meta.murder_date)
+  • Une seule section "Journal" (articles + faits divers)
+  • Lecture d'un JSON externe: passer ?data=URL_JSON (sinon mettre l’URL dans NEWS_JSON_URL)
+{% endcomment %}
+
+<div id="css-news-app" class="css-news">
+  <!-- HEADER -->
+  <header class="app-header">
+    <div class="left">
+      <img id="app-logo" src="" alt="NEWS" class="logo">
+      <div class="title-wrap">
+        <h1 class="app-title">NEWS</h1>
+        <div class="subtitle" id="dataset-label"></div>
+      </div>
+    </div>
+    <div class="right">
+      <div class="chrono" id="chrono">00:00</div>
+      <a href="/pages/red-room" class="btn-back">← Retour menu</a>
+    </div>
+  </header>
+
+  <!-- TOOLBAR -->
+  <section class="toolbar">
+    <div class="field">
+      <label for="searchCity">Lieu</label>
+      <input id="searchCity" type="text" placeholder="Ex. Paris 19e, Belleville…" autocomplete="off">
+    </div>
+    <div class="field">
+      <label for="dateSelect">Date</label>
+      <select id="dateSelect"></select>
+    </div>
+    <div class="meta-line">
+      <span id="metaCity">—</span>
+      <span class="dot">•</span>
+      <span id="metaDate">—</span>
+      <span class="dot">•</span>
+      <span id="metaUpdated">Maj: —</span>
+    </div>
+  </section>
+
+  <!-- GRID -->
+  <main class="grid">
+    <!-- Météo -->
+    <article class="card">
+      <header class="card__hdr" data-acc="toggle">
+        <h3>Météo</h3>
+        <button class="btn-fold" aria-label="Replier"></button>
+      </header>
+      <div class="card__body" id="meteoBody">
+        <div id="meteoSummary" class="meteo-summary"></div>
+        <div id="meteoTimeline" class="timeline"></div>
+      </div>
+    </article>
+
+    <!-- Trafic & transports -->
+    <article class="card">
+      <header class="card__hdr" data-acc="toggle">
+        <h3>Trafic & transports</h3>
+        <button class="btn-fold" aria-label="Replier"></button>
+      </header>
+      <div class="card__body" id="traficList" class="list"></div>
+    </article>
+
+    <!-- Lieux fermés / Perturbations -->
+    <article class="card">
+      <header class="card__hdr" data-acc="toggle">
+        <h3>Lieux fermés & perturbations</h3>
+        <button class="btn-fold" aria-label="Replier"></button>
+      </header>
+      <div class="card__body" id="lieuxList" class="list"></div>
+    </article>
+
+    <!-- Journal (articles + faits divers regroupés) -->
+    <article class="card wide">
+      <header class="card__hdr" data-acc="toggle">
+        <h3>Journal</h3>
+        <button class="btn-fold" aria-label="Replier"></button>
+      </header>
+      <div class="card__body" id="journalList"></div>
+    </article>
+  </main>
+
+  <footer class="foot">
+    <span id="sourceLine">Source: —</span>
+  </footer>
+</div>
+
+<style>
+  :root{
+    --bg:#0a0a0c;
+    --card:#121215;
+    --ink:#f1f1f3;
+    --muted:#a9a9b0;
+    --line:#1e1e24;
+    --accent:#d3122a; /* rouge CSS */
+    --accent-d:#8d0e1d;
+  }
+  .css-news{min-height:100vh;background:var(--bg);color:var(--ink);padding:14px 16px 28px;font-family:-apple-system,Segoe UI,Roboto,Inter,system-ui;}
+  /* Header */
+  .app-header{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:16px;}
+  .left{display:flex;align-items:center;gap:12px}
+  .logo{width:42px;height:42px;border-radius:10px;background:#0b0b0f;border:1px solid var(--line);object-fit:cover}
+  .app-title{margin:0;font-size:18px;letter-spacing:.04em}
+  .subtitle{color:var(--muted);font-size:12px;margin-top:2px}
+  .right{display:flex;align-items:center;gap:10px}
+  .chrono{min-width:84px;text-align:center;padding:6px 10px;border:1px solid var(--line);border-radius:10px;background:#0c0c10;font-variant-numeric:tabular-nums}
+  .btn-back{padding:8px 12px;border:1px solid var(--accent);border-radius:10px;color:#fff;background:linear-gradient(180deg,var(--accent),var(--accent-d));text-decoration:none}
+  .btn-back:hover{filter:brightness(1.03)}
+  /* Toolbar */
+  .toolbar{display:flex;align-items:flex-end;gap:12px;flex-wrap:wrap;margin:10px 0 16px}
+  .field{display:flex;flex-direction:column;gap:6px}
+  .field input,.field select{min-width:240px;background:#0d0d11;color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:10px 12px;outline:none}
+  .meta-line{margin-left:auto;color:var(--muted);display:flex;gap:8px;align-items:center}
+  .dot{color:#444}
+  /* Cards */
+  .grid{display:grid;gap:14px;grid-template-columns:repeat(12,1fr)}
+  .card{grid-column:span 6;background:linear-gradient(180deg,#151519 0%,#0d0d11 100%);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.35)}
+  .card.wide{grid-column:span 12}
+  .card__hdr{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;background:rgba(211,18,42,.08);border-bottom:1px solid var(--line);cursor:pointer}
+  .card__hdr h3{margin:0;font-size:15px;letter-spacing:.02em}
+  .btn-fold{width:34px;height:26px;border:1px solid var(--line);border-radius:8px;background:#0d0d13;color:var(--ink);position:relative}
+  .btn-fold::before{content:"";position:absolute;inset:0;margin:auto;width:8px;height:8px;border-bottom:2px solid var(--ink);border-right:2px solid var(--ink);transform:rotate(45deg) translateY(-2px);transition:transform .2s}
+  .card[data-collapsed="true"] .btn-fold::before{transform:rotate(-135deg) translateY(2px)}
+  .card__body{padding:14px;animation:fadeIn .25s ease}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  /* Content */
+  .meteo-summary{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:8px}
+  .pill{padding:6px 10px;border:1px dashed var(--line);border-radius:999px;font-size:12px;color:var(--muted)}
+  .timeline{display:flex;gap:10px;overflow:auto;padding-bottom:6px}
+  .t-item{min-width:180px;background:#0d0d12;border:1px solid var(--line);border-radius:12px;padding:10px}
+  .t-time{font-size:12px;color:var(--muted);margin-bottom:4px}
+  .t-desc{font-size:14px}
+  .list .row,.row{background:#0e0e13;border:1px solid var(--line);border-radius:12px;padding:10px;margin-bottom:8px}
+  .row .top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .row .title{font-weight:600}
+  .row .desc{margin-top:6px;color:#d7d7dc;font-size:14px}
+  .article{display:grid;grid-template-columns:1fr;gap:6px;background:#0e0e13;border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:8px}
+  .article .title{font-weight:700}
+  .article .meta{font-size:12px;color:var(--muted)}
+  .foot{border-top:1px solid var(--line);margin-top:18px;padding-top:12px;color:var(--muted);font-size:12px}
+  /* Responsive */
+  @media (max-width:980px){.card{grid-column:span 12}}
+</style>
+
+<script>
+(function(){
+  const NEWS_JSON_URL = ""; // <- Optionnel: mets ici ton URL JSON par défaut si tu veux éviter ?data=
+  const APP_LOGO_URL  = ""; // <- Optionnel: logo carré de l’app NEWS (sinon bloc noir)
+  const START_MODE    = "auto"; // "auto" = démarre le chrono maintenant si rien n’est fourni
+
+  const qs = new URL(location.href).searchParams;
+  const dataUrl   = qs.get('data') || NEWS_JSON_URL || "";
+  const forcedCity= qs.get('city') || "";
+  const forcedDate= qs.get('date') || "";
+
+  const els = {
+    logo: document.getElementById('app-logo'),
+    datasetLabel: document.getElementById('dataset-label'),
+    chrono: document.getElementById('chrono'),
+    back: document.querySelector('.btn-back'),
+    searchCity: document.getElementById('searchCity'),
+    dateSelect: document.getElementById('dateSelect'),
+    metaCity: document.getElementById('metaCity'),
+    metaDate: document.getElementById('metaDate'),
+    metaUpdated: document.getElementById('metaUpdated'),
+    sourceLine: document.getElementById('sourceLine'),
+    meteoSummary: document.getElementById('meteoSummary'),
+    meteoTimeline: document.getElementById('meteoTimeline'),
+    traficList: document.getElementById('traficList'),
+    lieuxList: document.getElementById('lieuxList'),
+    journalList: document.getElementById('journalList'),
+  };
+
+  if (APP_LOGO_URL) els.logo.src = APP_LOGO_URL;
+
+  const state = {
+    raw:null,
+    datasets:[],        // liste à plat des {city,date,data}
+    current:null,       // dataset courant
+    murder_date:null,   // par défaut
+    cityQuery:""
+  };
+
+  /* CHRONO (affichage only) — si tu veux synchroniser globalement, set localStorage 'css_master_start_ts' */
+  (function initChrono(){
+    const master = localStorage.getItem('css_master_start_ts');
+    let startTs = master ? parseInt(master,10) : (Date.now());
+    if (qs.get('start')) startTs = parseInt(qs.get('start'),10);
+    function tick(){
+      const s = Math.max(0, Math.floor((Date.now() - startTs)/1000));
+      const m = String(Math.floor(s/60)).padStart(2,'0');
+      const ss= String(s%60).padStart(2,'0');
+      els.chrono.textContent = `${m}:${ss}`;
+      requestAnimationFrame(tick);
     }
-  ],
-  "lieux": [
-    {
-      "title": "Pharmacie du Canal",
-      "desc": "Fermeture exceptionnelle à 20:00 (au lieu de 22:00).",
-      "tag": "Commerce",
-      "is_key": true
-    },
-    {
-      "title": "Restaurant « Le Pavé Rouge »",
-      "desc": "Services du soir annulés pour panne électrique.",
-      "tag": "Restauration"
-    },
-    {
-      "title": "Stade de la Villette",
-      "desc": "Évacuation préventive à 21:30 en raison de l’orage.",
-      "tag": "Événement"
+    if (START_MODE === "auto" || master || qs.get('start')) tick();
+  })();
+
+  function setHeader(meta, dataset){
+    els.datasetLabel.textContent = meta?.dataset_label || "";
+    els.metaCity.textContent = dataset?.city || "—";
+    els.metaDate.textContent = readableDate(dataset?.date || "");
+    els.metaUpdated.textContent = dataset?.updated ? ("Maj: " + dataset.updated) : "Maj: —";
+    els.sourceLine.textContent = "Source: " + (meta?.source || (dataUrl || "—"));
+  }
+
+  function readableDate(iso){
+    if (!iso) return "—";
+    try{
+      const d = new Date(iso+"T00:00:00");
+      return d.toLocaleDateString('fr-FR', {weekday:'long', day:'2-digit', month:'long', year:'numeric'});
+    }catch{ return iso; }
+  }
+
+  function fillDatesForCity(city){
+    const dates = state.datasets.filter(d=> d.city.toLowerCase()===city.toLowerCase()).map(d=> d.date);
+    const unique = [...new Set(dates)].sort();
+    els.dateSelect.innerHTML = unique.map(d=> `<option value="${d}">${readableDate(d)}</option>`).join('');
+    return unique;
+  }
+
+  function pickDataset(city, date){
+    const found = state.datasets.find(d=> d.city.toLowerCase()===city.toLowerCase() && d.date===date);
+    state.current = found || null;
+    render();
+  }
+
+  function render(){
+    const meta = state.raw?.meta || {};
+    const ds = state.current;
+    if (!ds){ // reset
+      els.meteoSummary.innerHTML = "";
+      els.meteoTimeline.innerHTML = "";
+      els.traficList.innerHTML = "";
+      els.lieuxList.innerHTML = "";
+      els.journalList.innerHTML = "";
+      setHeader(meta, {});
+      return;
     }
-  ],
-  "journal": [
-    {
-      "title": "Incendie maîtrisé rue Oberkampf",
-      "desc": "Départ de feu vers 20:45 dans un garage, fumées importantes, pas de blessés.",
-      "tag": "Faits divers"
-    },
-    {
-      "title": "Panne réseau locale",
-      "desc": "Perturbations données mobiles 5G entre 20:10 et 20:40 dans Belleville.",
-      "tag": "Réseau",
-      "is_key": true
-    },
-    {
-      "title": "Concert annulé au Studio Nova",
-      "desc": "Showcase du soir annulé pour « raisons techniques ». Aucune précision.",
-      "tag": "Culture",
-      "is_key": true
-    },
-    {
-      "title": "Marché nocturne réduit",
-      "desc": "Plusieurs stands absents à cause de la météo.",
-      "tag": "Vie locale"
+    setHeader(meta, ds);
+
+    // Météo
+    const m = ds.data?.meteo || {};
+    els.meteoSummary.innerHTML = "";
+    const pills = [];
+    if (m.summary) pills.push(`<span class="pill">${m.summary}</span>`);
+    if (m.temp) pills.push(`<span class="pill">Temp: ${m.temp}</span>`);
+    if (m.visibility) pills.push(`<span class="pill">Visibilité: ${m.visibility}</span>`);
+    if (m.wind) pills.push(`<span class="pill">Vent: ${m.wind}</span>`);
+    if (m.note) pills.push(`<span class="pill">${m.note}</span>`);
+    els.meteoSummary.innerHTML = pills.join("");
+
+    els.meteoTimeline.innerHTML = "";
+    (m.hours || []).forEach(h=>{
+      const div = document.createElement('div');
+      div.className='t-item';
+      div.innerHTML = `<div class="t-time">${h.time||""}</div><div class="t-desc">${h.desc||""}</div>`;
+      els.meteoTimeline.appendChild(div);
+    });
+
+    // Trafic
+    makeList(els.traficList, ds.data?.trafic || []);
+    // Lieux
+    makeList(els.lieuxList, ds.data?.lieux || []);
+    // Journal (articles+faits divers)
+    renderJournal(els.journalList, ds.data?.journal || []);
+  }
+
+  function makeList(container, arr){
+    container.innerHTML = "";
+    (arr||[]).forEach(it=>{
+      const row = document.createElement('div');
+      row.className="row";
+      row.innerHTML = `
+        <div class="top">
+          <div class="title">${it.title || it.name || "—"}</div>
+        </div>
+        ${it.desc ? `<div class="desc">${it.desc}</div>` : ""}
+      `;
+      container.appendChild(row);
+    });
+  }
+
+  function renderJournal(container, arr){
+    container.innerHTML = "";
+    (arr||[]).forEach(a=>{
+      const art = document.createElement('div');
+      art.className = 'article';
+      art.innerHTML = `
+        <div class="title">${a.title || "—"}</div>
+        <div class="meta">${a.time ? a.time : ""}${a.section ? " • "+a.section : ""}</div>
+        <div class="desc">${a.lead || a.desc || ""}</div>
+      `;
+      container.appendChild(art);
+    });
+  }
+
+  // Accordéons
+  document.querySelectorAll('.card__hdr[data-acc="toggle"]').forEach(h=>{
+    h.addEventListener('click', ()=>{
+      const card = h.closest('.card');
+      const collapsed = card.getAttribute('data-collapsed') === 'true';
+      card.setAttribute('data-collapsed', collapsed ? 'false' : 'true');
+      const body = card.querySelector('.card__body');
+      if (body) body.style.display = collapsed ? '' : 'none';
+    });
+  });
+
+  // Recherche Lieu (on choisit la ville exacte si match unique, sinon premier include)
+  els.searchCity.addEventListener('input', ()=>{
+    const q = (els.searchCity.value||"").trim().toLowerCase();
+    if (!q) return;
+    const matchesExact = [...new Set(state.datasets.map(d=>d.city))].filter(c=> c.toLowerCase()===q);
+    const matchesIncl  = [...new Set(state.datasets.map(d=>d.city))].filter(c=> c.toLowerCase().includes(q));
+
+    const chosen = (matchesExact[0] || matchesIncl[0] || "");
+    if (!chosen) return;
+    const dates = fillDatesForCity(chosen);
+    const targetDate = (state.murder_date && dates.includes(state.murder_date)) ? state.murder_date : (dates[dates.length-1] || "");
+    els.dateSelect.value = targetDate;
+    pickDataset(chosen, targetDate);
+  });
+
+  // Sélection de date
+  els.dateSelect.addEventListener('change', ()=>{
+    if (!state.current) return;
+    pickDataset(state.current.city, els.dateSelect.value);
+  });
+
+  // Boot
+  async function boot(){
+    if (APP_LOGO_URL) els.logo.src = APP_LOGO_URL;
+
+    if (!dataUrl){
+      // squelette vide si pas d’URL
+      state.raw = { meta:{ dataset_label:"NEWS", source:"—" }, datasets:[] };
+      render();
+      return;
     }
-  ],
-  "articles": [
-    {
-      "title": "Un témoin évoque une berline noire à l’arrêt",
-      "lead": "Rue Jules-Ferry, un riverain signale une voiture moteur tournant vers 21:00. La police n’a pas confirmé.",
-      "time": "21:20",
-      "section": "Quartier",
-      "image_hint": "Image locale",
-      "is_key": true
-    },
-    {
-      "title": "Météo: l’orage s’installe sur l’Est parisien",
-      "lead": "Des cellules orageuses se déplacent rapidement. Restez prudents sur chaussées humides.",
-      "time": "21:05",
-      "section": "Météo",
-      "image_hint": "Radar pluie"
-    },
-    {
-      "title": "Coupure partielle de la ligne 7 confirmée",
-      "lead": "Interruption entre Gare de l’Est et Crimée. Reprise estimée dans la nuit.",
-      "time": "20:50",
-      "section": "Transports",
-      "image_hint": "Plan tronqué L7",
-      "is_key": true
-    },
-    {
-      "title": "Panne électrique: « Le Pavé Rouge » ferme ses portes",
-      "lead": "Tous les services du soir annulés. Les réservations seront recontactées.",
-      "time": "19:40",
-      "section": "Restauration",
-      "image_hint": "Façade sombre"
-    },
-    {
-      "title": "Incendie rapidement circonscrit rue Oberkampf",
-      "lead": "Pompiers mobilisés vers 20:45. Quartier légèrement perturbé.",
-      "time": "21:10",
-      "section": "Faits divers",
-      "image_hint": "Bandeau pompiers"
+    try{
+      const r = await fetch(dataUrl, {cache:"no-store"});
+      const json = await r.json();
+      state.raw = json;
+      state.murder_date = json?.meta?.murder_date || null;
+      els.datasetLabel.textContent = json?.meta?.dataset_label || "NEWS";
+
+      // Aplatit datasets
+      state.datasets = (json?.datasets || []).map(d=> ({
+        city: d.city,
+        date: d.date,
+        updated: d.updated || "",
+        data: {
+          meteo: d.meteo || {},
+          trafic: d.trafic || [],
+          lieux: d.lieux || [],
+          journal: d.journal || []
+        }
+      }));
+
+      // Choix initial: ville forcée > défaut meta.default_city > premier dataset
+      const initialCity = forcedCity || json?.meta?.default_city || (state.datasets[0]?.city || "");
+      const availableDates = fillDatesForCity(initialCity);
+      // Date initiale: forcée > murder_date > dernière dispo
+      const initialDate = (forcedDate && availableDates.includes(forcedDate)) ? forcedDate
+                         : (state.murder_date && availableDates.includes(state.murder_date)) ? state.murder_date
+                         : (availableDates[availableDates.length-1] || "");
+      els.searchCity.value = initialCity;
+      els.dateSelect.value = initialDate;
+      pickDataset(initialCity, initialDate);
+    }catch(e){
+      console.error(e);
+      state.raw = { meta:{ dataset_label:"NEWS (erreur)", source:dataUrl }, datasets:[] };
+      render();
     }
-  ]
-}
+  }
+  boot();
+})();
+</script>
