@@ -2,7 +2,7 @@
   "suspects": [
     {
       "name": "Alexio MASSENZIO",
-      "photo": "",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/alexio.png?v=1755961638",
       "suspect": "Alexio Massenzio",
       "adresse": "48 Avenue Montaigne, 75008 Paris",
       "nationalite": "Franco-italienne",
@@ -104,3 +104,4 @@
     }
   ]
 }
+
