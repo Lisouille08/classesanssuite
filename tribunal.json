@@ -1,32 +1,30 @@
 {
-  "suspects": {
-    "name": "Alexio MASSENZIO",
-    "suspect": "Alexio Massenzio",
-    "aka": ["Alexio M."],
-    "adresse": "48 Avenue Montaigne, 75008 Paris",
-    "nationalite": "Franco-italienne",
-    "naissance": { "date": "1973-05-18", "lieu": "Milan (Italie)" },
-    "entreprise": "ENGICA (énergie & infrastructures)",
-    "casier": [
-      {
-        "qualification": "Procédure civile commerciale (gouvernance ENGICA)",
-        "resume": "Contentieux opposant Alexio Massenzio et Marc Delval sur la gouvernance et l'usage de fonds d’ENGICA.",
-        "date_infraction": "2024-06-03",
-        "date_decision": null,
-        "lieu": "Paris",
-        "juridiction": "TJ Paris – pôle économique",
-        "reference": "RG 2024/31845",
-        "statut": "Instance en cours",
-        "peine": {}
-      }
-    ],
-    "auditions": []
-  },
-
   "suspects": [
     {
+      "name": "Alexio MASSENZIO",
+      "photo": "",
+      "suspect": "Alexio Massenzio",
+      "adresse": "48 Avenue Montaigne, 75008 Paris",
+      "nationalite": "Franco-italienne",
+      "naissance": { "date": "1973-05-18", "lieu": "Milan (Italie)" },
+      "entreprise": "ENGICA (énergie & infrastructures)",
+      "casier": [
+        {
+          "qualification": "Procédure civile commerciale (gouvernance ENGICA)",
+          "resume": "Contentieux opposant Alexio Massenzio et Marc Delval sur la gouvernance et l'usage de fonds d’ENGICA.",
+          "date_infraction": "2024-06-03",
+          "date_decision": null,
+          "lieu": "Paris",
+          "juridiction": "TJ Paris – pôle économique",
+          "reference": "RG 2024/31845",
+          "statut": "Instance en cours",
+          "peine": {}
+        }
+      ]
+    },
+    {
       "name": "Marc DELVAL",
-      "aka": ["M. Delval"],
+      "photo": "",
       "adresse": "12 Rue de la République, 92800 Puteaux",
       "nationalite": "Française",
       "naissance": { "date": "1972-02-14", "lieu": "Marseille (13)" },
@@ -43,83 +41,20 @@
           "statut": "Instance en cours",
           "peine": {}
         }
-      ],
-      "auditions": [
-        {
-          "date": "2024-09-15 09:10",
-          "lieu": "Commissariat Gare de Lyon",
-          "officier": "Brig. Leclerc",
-          "dossier": "TRAIN/421/2024",
-          "dialogue": [
-            {
-              "question": "Expliquez le motif de votre présence à bord.",
-              "reponse": "Je me rendais à Milan pour rencontrer un avocat d’affaires. J’étais au wagon-bar vers 23h15 puis je suis monté dans ma cabine 15 vers 23h40. Je n’avais pas prévu d’échanger avec M. Massenzio cette nuit-là."
-            },
-            {
-              "question": "Décrivez vos relations avec la victime.",
-              "reponse": "Très tendues, oui, à cause d’ENGICA. Nous sommes devant le tribunal, mais je ne règle pas mes différends à coups de couteau dans un train."
-            },
-            {
-              "question": "Où étiez-vous entre 00h20 et 00h45, période sensible ?",
-              "reponse": "Dans ma cabine. Je me suis levé à 00h30 pour régler ma consommation au bar car j’avais oublié de payer. J’y suis resté moins de deux minutes et je suis retourné directement à la cabine."
-            },
-            {
-              "question": "Avez-vous revu M. Massenzio après 23h30 ?",
-              "reponse": "Non. La dernière fois, c’était au bar vers 23h15. Après, je l’ai vu passer dans le couloir à 23h40 pendant que je refermais ma porte."
-            }
-          ],
-          "notes_verification": [
-            "Image 23:15:29 — Marc visible en arrière-plan au bar.",
-            "Preuve CB: paiement 00:30:01 au bar.",
-            "Aucune présence filmée dans le couloir entre 00:20–00:45 pour Marc."
-          ]
-        }
       ]
     },
-
     {
       "name": "Elena ROSSI",
-      "aka": ["E. Rossi"],
+      "photo": "",
       "adresse": "Via Roma 22, 10123 Torino (Italie)",
       "nationalite": "Italienne",
       "naissance": { "date": "1985-09-05", "lieu": "Turin (Italie)" },
       "profession": "Femme au foyer (épouse d’un industriel du textile)",
-      "casier": [],
-      "auditions": [
-        {
-          "date": "2024-09-15 11:20",
-          "lieu": "Commissariat Lyon-Part-Dieu (PV à distance)",
-          "officier": "Lt. Moreau",
-          "dossier": "TRAIN/421/2024",
-          "dialogue": [
-            {
-              "question": "À quelle heure et où êtes-vous montée à bord ?",
-              "reponse": "À 23h05 à Lyon-Part-Dieu, cabine 18. Je suis passée par le quai puis le couloir des couchettes, j’ai croisé un homme en smoking que j’ai appris ensuite être la victime."
-            },
-            {
-              "question": "Avez-vous eu un échange avec la victime ?",
-              "reponse": "Non. Je l’ai simplement croisée ; il se dépêchait de rejoindre sa cabine. Je n’ai pas engagé la conversation."
-            },
-            {
-              "question": "Que faisiez-vous entre 00h20 et 00h45 (coupure caméras) ?",
-              "reponse": "Je suis restée en cabine. J’ai envoyé un message à ma sœur à 00h28 pour lui dire que j’étais installée. Ensuite, j’ai éteint la lumière."
-            },
-            {
-              "question": "Expliquez le gant taché retrouvé dans vos effets.",
-              "reponse": "Je transportais des spécialités de viande pour un dîner familial à Turin. Le gant a servi à emballer un paquet qui a suinté, d’où la trace."
-            }
-          ],
-          "notes_verification": [
-            "Image 23:05:12 — Elena sur le quai/couloir lors de la montée.",
-            "Rapport labo: contre-analyse confirme sang animal."
-          ]
-        }
-      ]
+      "casier": []
     },
-
     {
       "name": "Luc MOREL",
-      "aka": ["L. Morel"],
+      "photo": "",
       "adresse": "14 Rue des Vignes, 75016 Paris",
       "nationalite": "Française",
       "naissance": { "date": "1978-11-03", "lieu": "Dijon (21)" },
@@ -147,113 +82,25 @@
           "statut": "Inscription active",
           "peine": { "mesure": "Interdiction d’émettre des chèques" }
         }
-      ],
-      "auditions": [
-        {
-          "date": "2024-09-15 07:55",
-          "lieu": "Poste SNCF à bord (prise de plainte)",
-          "officier": "Adjt. Perrin",
-          "dossier": "TRAIN/421/2024",
-          "dialogue": [
-            {
-              "question": "Décrivez précisément votre service cette nuit.",
-              "reponse": "J’étais de ronde de 23h à 01h. J’ai effectué un passage au bar vers 23h15, j’ai rappelé aux clients de garder le niveau sonore bas, puis j’ai continué ma tournée des couloirs."
-            },
-            {
-              "question": "Quand avez-vous vu la victime pour la dernière fois ?",
-              "reponse": "Au bar, vers 23h15. Il buvait un verre ; il s’est plaint d’un mal de tête. Je ne l’ai pas recroisé après."
-            },
-            {
-              "question": "Où étiez-vous entre 00h20 et 00h40, période durant laquelle les caméras se sont coupées ?",
-              "reponse": "Au bar, en discussion avec le barman et un voyageur. Je n’ai pas mis un pied près de la baie technique."
-            },
-            {
-              "question": "Avez-vous accès au système de caméras ?",
-              "reponse": "Non, c’est du ressort technique. Je n’ai aucune clé ou autorisation pour ça."
-            }
-          ],
-          "notes_verification": [
-            "Image 23:15:29 — Luc en uniforme près d’Alexio (OK).",
-            "Image 00:18 — Luc s’avance vers la zone caméras (contradiction directe avec sa déclaration).",
-            "00:20–00:37 — coupure ; aucune trace de Luc au bar pendant ce créneau.",
-            "Lampe UV: micro-traces hémolytiques sur manchette de veste (lavage hâtif)."
-          ]
-        }
       ]
     },
-
     {
       "name": "Sofia MENDEZ",
-      "aka": ["S. Mendez"],
+      "photo": "",
       "adresse": "45 Rue de Belleville, 75020 Paris",
       "nationalite": "Espagnole",
       "naissance": { "date": "1989-06-29", "lieu": "Madrid (Espagne)" },
       "profession": "Agent de service (cabines) – train de nuit",
-      "casier": [],
-      "auditions": [
-        {
-          "date": "2024-09-15 08:40",
-          "lieu": "Commissariat Gare de Lyon",
-          "officier": "Brig. Leclerc",
-          "dossier": "TRAIN/421/2024",
-          "dialogue": [
-            {
-              "question": "Détaillez votre passage dans le couloir vers 23h40.",
-              "reponse": "Je remontais le couloir avec le chariot pour déposer du linge propre. J’ai vu M. Massenzio ouvrir la porte de la cabine 14 et entrer. Il m’a semblé pressé mais pas paniqué."
-            },
-            {
-              "question": "Que faisiez-vous au moment de la coupure des caméras ?",
-              "reponse": "Je partais dans l’autre sens pour réassortir, côté opposé du wagon. Je n’ai vu personne manipuler la baie technique."
-            },
-            {
-              "question": "Expliquez ce que vous avez aperçu vers 00h50.",
-              "reponse": "En revenant, j’ai vu une silhouette filer au fond du couloir. C’était rapide et flou ; impossible de distinguer le visage ou l’uniforme."
-            }
-          ],
-          "notes_verification": [
-            "Image 23:40:05 — Sofia + Alexio à la porte de la 14 (horodatage net).",
-            "Image 00:50 — Silhouette floue ; cohérent avec ses dires."
-          ]
-        }
-      ]
+      "casier": []
     },
-
     {
       "name": "Adrien LAMBERT",
-      "aka": ["A. Lambert"],
+      "photo": "",
       "adresse": "14 Rue Oberkampf, 75011 Paris",
       "nationalite": "Française",
       "naissance": { "date": "2000-07-17", "lieu": "Paris (75)" },
       "profession": "Étudiant (économie) – Université Paris Cité",
-      "casier": [],
-      "auditions": [
-        {
-          "date": "2024-09-15 10:05",
-          "lieu": "Commissariat Gare de Lyon",
-          "officier": "Lt. Moreau",
-          "dossier": "TRAIN/421/2024",
-          "dialogue": [
-            {
-              "question": "Connaissiez-vous personnellement M. Alexio Massenzio ?",
-              "reponse": "Non. Je ne sais pas pourquoi c'est moi que vous interrogez."
-            },
-            {
-              "question": "Décrivez précisément votre soirée à bord.",
-              "reponse": "J’étais en seconde classe, place côté fenêtre. À partir de 23h, j’écoutais de la musique avec mes écouteurs et je regardais mon téléphone. À 00h27, j’ai envoyé un message à un ami puis je me suis assoupi."
-            },
-            {
-              "question": "Avez-vous traversé les voitures vers les couchettes ?",
-              "reponse": "Non. Je ne me suis pas levé hormis pour poser mon sac au-dessus de moi. Je n’ai pas quitté la voiture de seconde classe."
-            }
-          ],
-          "notes_verification": [
-            "Image 23:20:15 — Adrien assis en seconde classe, écouteurs.",
-            "Logs antenne interne: téléphone resté accroché à la voiture 2nde classe.",
-            "Image 00:38 — Couloir des couchettes vide au rallumage."
-          ]
-        }
-      ]
+      "casier": []
     }
   ]
 }
-
