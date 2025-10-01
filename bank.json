@@ -1,76 +1,101 @@
-[
-  {
-    "nom": "alexio massenzio",
-    "banque": "CSS Bank",
-    "iban": "FR76 **** **** **** **** **001",
-    "compte_courant": 84210.55,
-    "livret_a": 120000,
-    "credits": ["Villa Paris 8e", "Investissement Milan"],
-    "carte_cb": "4976 8412 1111 0092",
-    "operations": [
-      {
-        "mois": "Septembre 2024",
-        "depenses": [
-          { "date": "02/09", "libelle": "Uber Black", "montant": 58.00, "categorie": "Transport" },
-          { "date": "03/09", "libelle": "Cartier Champs-Élysées", "montant": 9850.00, "categorie": "Shopping luxe" },
-          { "date": "04/09", "libelle": "Hôtel Le Meurice", "montant": 1870.00, "categorie": "Voyage/Hôtellerie" },
-          { "date": "05/09", "libelle": "Air France", "montant": 1320.00, "categorie": "Transport" },
-          { "date": "06/09", "libelle": "Ladurée", "montant": 215.00, "categorie": "Restauration" },
-          { "date": "07/09", "libelle": "SNCF TGV 1ère", "montant": 198.00, "categorie": "Transport" },
-          { "date": "09/09", "libelle": "Boucheron Joaillerie", "montant": 7420.00, "categorie": "Shopping luxe" },
-          { "date": "11/09", "libelle": "Uber Black", "montant": 52.00, "categorie": "Transport" },
-          { "date": "12/09", "libelle": "Ritz Paris", "montant": 2240.00, "categorie": "Restauration" },
-          { "date": "14/09", "libelle": "Bar SNCF", "montant": 45.00, "categorie": "Restauration" },
-          { "date": "14/09", "libelle": "SNCF Paris→Milan", "montant": 184.00, "categorie": "Transport" },
-          { "date": "15/09", "libelle": "Taxi Milano Centrale", "montant": 39.00, "categorie": "Transport" },
-          { "date": "15/09", "libelle": "NH Collection Milano", "montant": 680.00, "categorie": "Voyage/Hôtellerie" },
-          { "date": "15/09", "libelle": "Amazon Prime", "montant": 49.99, "categorie": "Abonnement" },
-          { "date": "16/09", "libelle": "Hermès Via Montenapoleone", "montant": 6120.00, "categorie": "Shopping luxe" },
-          { "date": "17/09", "libelle": "Uber Black", "montant": 46.00, "categorie": "Transport" },
-          { "date": "18/09", "libelle": "Da Giacomo (Milano)", "montant": 325.00, "categorie": "Restauration" },
-          { "date": "20/09", "libelle": "Tesla Supercharge", "montant": 42.90, "categorie": "Transport" }
-        ]
-      },
-      {
-        "mois": "Août 2024",
-        "depenses": [
-          { "date": "02/08", "libelle": "Cartier Champs-Élysées", "montant": 12450.00, "categorie": "Shopping luxe" },
-          { "date": "03/08", "libelle": "Hôtel Le Meurice", "montant": 1870.00, "categorie": "Voyage/Hôtellerie" },
-          { "date": "05/08", "libelle": "SNCF TGV 1ère", "montant": 184.00, "categorie": "Transport" },
-          { "date": "07/08", "libelle": "Amazon Prime", "montant": 49.99, "categorie": "Abonnement" },
-          { "date": "08/08", "libelle": "Air France", "montant": 1320.00, "categorie": "Transport" },
-          { "date": "10/08", "libelle": "Ritz Paris", "montant": 2240.00, "categorie": "Restauration" },
-          { "date": "12/08", "libelle": "Uber Black", "montant": 62.00, "categorie": "Transport" },
-          { "date": "14/08", "libelle": "Louis Vuitton", "montant": 3400.00, "categorie": "Shopping luxe" },
-          { "date": "18/08", "libelle": "SNCF TGV 1ère", "montant": 192.00, "categorie": "Transport" },
-          { "date": "20/08", "libelle": "Boucheron Joaillerie", "montant": 9850.00, "categorie": "Shopping luxe" },
-          { "date": "23/08", "libelle": "Uber Black", "montant": 54.00, "categorie": "Transport" },
-          { "date": "25/08", "libelle": "Pullman Paris Tour Eiffel", "montant": 760.00, "categorie": "Voyage/Hôtellerie" },
-          { "date": "26/08", "libelle": "Ladurée Champs-Élysées", "montant": 245.00, "categorie": "Restauration" },
-          { "date": "28/08", "libelle": "Tesla Supercharge", "montant": 44.90, "categorie": "Transport" },
-          { "date": "30/08", "libelle": "Hermès Faubourg", "montant": 7150.00, "categorie": "Shopping luxe" },
-          { "date": "31/08", "libelle": "Taxi G7", "montant": 38.00, "categorie": "Transport" }
-        ]
-      },
-      {
-        "mois": "Juillet 2024",
-        "depenses": [
-          { "date": "02/07", "libelle": "Air France", "montant": 2800.00, "categorie": "Transport" },
-          { "date": "04/07", "libelle": "SNCF TGV 1ère", "montant": 210.00, "categorie": "Transport" },
-          { "date": "07/07", "libelle": "Ritz Paris", "montant": 1890.00, "categorie": "Restauration" },
-          { "date": "10/07", "libelle": "Galeries Lafayette", "montant": 950.00, "categorie": "Shopping" },
-          { "date": "12/07", "libelle": "Rolex", "montant": 17800.00, "categorie": "Shopping luxe" },
-          { "date": "16/07", "libelle": "Hôtel Barrière Enghien", "montant": 720.00, "categorie": "Voyage/Hôtellerie" },
-          { "date": "18/07", "libelle": "Uber Black", "montant": 52.00, "categorie": "Transport" },
-          { "date": "20/07", "libelle": "Ladurée", "montant": 210.00, "categorie": "Restauration" },
-          { "date": "23/07", "libelle": "Cartier Joaillerie", "montant": 6250.00, "categorie": "Shopping luxe" },
-          { "date": "25/07", "libelle": "SNCF TGV 1ère", "montant": 188.00, "categorie": "Transport" },
-          { "date": "28/07", "libelle": "Le Meurice", "montant": 2150.00, "categorie": "Restauration" },
-          { "date": "30/07", "libelle": "Tesla Supercharge", "montant": 39.50, "categorie": "Transport" }
-        ]
-      }
-    ]
-  },
+{
+  "nom": "alexio massenzio",
+  "banque": "CSS Bank",
+  "iban": "FR76 **** **** **** **** **001",
+  "compte_courant": 84210.55,
+  "livret_a": 120000,
+  "credits": [
+    {
+      "type": "Immobilier",
+      "montant_emprunte": 2400000,
+      "montant_rembourse": 1480000,
+      "echeance": "2039-06"
+    },
+    {
+      "type": "Immobilier (locatif)",
+      "montant_emprunte": 850000,
+      "montant_rembourse": 310000,
+      "echeance": "2034-11"
+    }
+  ],
+  "carte_cb": "4976 8412 1111 0092",
+  "operations": [
+    {
+      "mois": "Septembre 2024",
+      "depenses": [
+        { "date": "02/09", "libelle": "Uber Black", "montant": 58.00, "categorie": "Transport" },
+        { "date": "03/09", "libelle": "Cartier Champs-Élysées", "montant": 9850.00, "categorie": "Shopping luxe" },
+        { "date": "04/09", "libelle": "Hôtel Le Meurice", "montant": 1870.00, "categorie": "Voyage/Hôtellerie" },
+        { "date": "05/09", "libelle": "Air France", "montant": 1320.00, "categorie": "Transport" },
+        { "date": "06/09", "libelle": "Ladurée", "montant": 215.00, "categorie": "Restauration" },
+        { "date": "07/09", "libelle": "SNCF TGV 1ère", "montant": 198.00, "categorie": "Transport" },
+        { "date": "09/09", "libelle": "Boucheron Joaillerie", "montant": 7420.00, "categorie": "Shopping luxe" },
+        { "date": "11/09", "libelle": "Uber Black", "montant": 52.00, "categorie": "Transport" },
+        { "date": "12/09", "libelle": "Ritz Paris", "montant": 2240.00, "categorie": "Restauration" },
+        { "date": "14/09", "libelle": "Bar SNCF", "montant": 45.00, "categorie": "Restauration" },
+        { "date": "14/09", "libelle": "SNCF Paris→Milan", "montant": 184.00, "categorie": "Transport" },
+        { "date": "15/09", "libelle": "Taxi Milano Centrale", "montant": 39.00, "categorie": "Transport" },
+        { "date": "15/09", "libelle": "NH Collection Milano", "montant": 680.00, "categorie": "Voyage/Hôtellerie" },
+        { "date": "15/09", "libelle": "Amazon Prime", "montant": 49.99, "categorie": "Abonnement" },
+        { "date": "16/09", "libelle": "Hermès Via Montenapoleone", "montant": 6120.00, "categorie": "Shopping luxe" },
+        { "date": "17/09", "libelle": "Uber Black", "montant": 46.00, "categorie": "Transport" },
+        { "date": "18/09", "libelle": "Da Giacomo (Milano)", "montant": 325.00, "categorie": "Restauration" },
+        { "date": "20/09", "libelle": "Tesla Supercharge", "montant": 42.90, "categorie": "Transport" }
+      ],
+      "recettes": [
+        { "date": "01/09", "libelle": "Salaire ENGICA — Net", "montant": 18500.00, "categorie": "Salaire" },
+        { "date": "10/09", "libelle": "Loyer perçu — appartement Milan", "montant": 3200.00, "categorie": "Loyers perçus" },
+        { "date": "18/09", "libelle": "Remboursement notes de frais", "montant": 1260.00, "categorie": "Remboursements" }
+      ]
+    },
+    {
+      "mois": "Août 2024",
+      "depenses": [
+        { "date": "02/08", "libelle": "Cartier Champs-Élysées", "montant": 12450.00, "categorie": "Shopping luxe" },
+        { "date": "03/08", "libelle": "Hôtel Le Meurice", "montant": 1870.00, "categorie": "Voyage/Hôtellerie" },
+        { "date": "05/08", "libelle": "SNCF TGV 1ère", "montant": 184.00, "categorie": "Transport" },
+        { "date": "07/08", "libelle": "Amazon Prime", "montant": 49.99, "categorie": "Abonnement" },
+        { "date": "08/08", "libelle": "Air France", "montant": 1320.00, "categorie": "Transport" },
+        { "date": "10/08", "libelle": "Ritz Paris", "montant": 2240.00, "categorie": "Restauration" },
+        { "date": "12/08", "libelle": "Uber Black", "montant": 62.00, "categorie": "Transport" },
+        { "date": "14/08", "libelle": "Louis Vuitton", "montant": 3400.00, "categorie": "Shopping luxe" },
+        { "date": "18/08", "libelle": "SNCF TGV 1ère", "montant": 192.00, "categorie": "Transport" },
+        { "date": "20/08", "libelle": "Boucheron Joaillerie", "montant": 9850.00, "categorie": "Shopping luxe" },
+        { "date": "23/08", "libelle": "Uber Black", "montant": 54.00, "categorie": "Transport" },
+        { "date": "25/08", "libelle": "Pullman Paris Tour Eiffel", "montant": 760.00, "categorie": "Voyage/Hôtellerie" },
+        { "date": "26/08", "libelle": "Ladurée Champs-Élysées", "montant": 245.00, "categorie": "Restauration" },
+        { "date": "28/08", "libelle": "Tesla Supercharge", "montant": 44.90, "categorie": "Transport" },
+        { "date": "30/08", "libelle": "Hermès Faubourg", "montant": 7150.00, "categorie": "Shopping luxe" },
+        { "date": "31/08", "libelle": "Taxi G7", "montant": 38.00, "categorie": "Transport" }
+      ],
+      "recettes": [
+        { "date": "01/08", "libelle": "Salaire ENGICA — Net", "montant": 18500.00, "categorie": "Salaire" },
+        { "date": "16/08", "libelle": "Dividendes ENGICA (acompte)", "montant": 60000.00, "categorie": "Dividendes" },
+        { "date": "28/08", "libelle": "Loyer perçu — appartement Milan", "montant": 3200.00, "categorie": "Loyers perçus" }
+      ]
+    },
+    {
+      "mois": "Juillet 2024",
+      "depenses": [
+        { "date": "02/07", "libelle": "Air France", "montant": 2800.00, "categorie": "Transport" },
+        { "date": "04/07", "libelle": "SNCF TGV 1ère", "montant": 210.00, "categorie": "Transport" },
+        { "date": "07/07", "libelle": "Ritz Paris", "montant": 1890.00, "categorie": "Restauration" },
+        { "date": "10/07", "libelle": "Galeries Lafayette", "montant": 950.00, "categorie": "Shopping" },
+        { "date": "12/07", "libelle": "Rolex", "montant": 17800.00, "categorie": "Shopping luxe" },
+        { "date": "16/07", "libelle": "Hôtel Barrière Enghien", "montant": 720.00, "categorie": "Voyage/Hôtellerie" },
+        { "date": "18/07", "libelle": "Uber Black", "montant": 52.00, "categorie": "Transport" },
+        { "date": "20/07", "libelle": "Ladurée", "montant": 210.00, "categorie": "Restauration" },
+        { "date": "23/07", "libelle": "Cartier Joaillerie", "montant": 6250.00, "categorie": "Shopping luxe" },
+        { "date": "25/07", "libelle": "SNCF TGV 1ère", "montant": 188.00, "categorie": "Transport" },
+        { "date": "28/07", "libelle": "Le Meurice", "montant": 2150.00, "categorie": "Restauration" },
+        { "date": "30/07", "libelle": "Tesla Supercharge", "montant": 39.50, "categorie": "Transport" }
+      ],
+      "recettes": [
+        { "date": "01/07", "libelle": "Salaire ENGICA — Net", "montant": 18500.00, "categorie": "Salaire" },
+        { "date": "15/07", "libelle": "Prime de performance S1", "montant": 12000.00, "categorie": "Primes" },
+        { "date": "28/07", "libelle": "Loyer perçu — appartement Milan", "montant": 3200.00, "categorie": "Loyers perçus" }
+      ]
+    },
   {
     "nom": "marc delval",
     "banque": "CSS Bank",
