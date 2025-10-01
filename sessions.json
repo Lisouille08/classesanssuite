@@ -2,7 +2,7 @@
   "sessions": [
     {
       "code": "KF",
-      "password": "julie",
+      "password": "KF",
       "durationSec": 7200,
       "case": "train-midnight",
       "emailTo": "lisa.garcia1t4@gmail.com"
