@@ -1,19 +1,21 @@
 {
   "sessions": [
     {
-      "code": "KF",
-      "password": "KF",
-      "durationSec": 7200,
-      "case": "train-midnight",
-      "emailTo": "lisa.garcia1t4@gmail.com"
-    },
-    {
-      "code": "4",
-      "password": "4",
-      "durationSec": 7200,
-      "case": "train-midnight",
-      "emailTo": "lisa.garcia1t4@gmail.com"
-    },
+  "code": "ABCD1234",
+  "password": "1234",
+  "role": "master",
+  "case": "vol917",
+  "durationSec": 3600
+},
+
+  {
+  "code": "ABCD1234",
+  "password": "5678",
+  "role": "guest",
+  "case": "vol917",
+  "durationSec": 3600
+},
+
      {
       "code": "14",
       "password": "14",
