@@ -1,16 +1,16 @@
 {
   "sessions": [
     {
-  "code": "ABCD123",
-  "password": "123",
+  "code": "AB12",
+  "password": "1",
   "role": "master",
   "case": "vol917",
   "durationSec": 3600
 },
 
   {
-  "code": "ABCD123",
-  "password": "345",
+  "code": "AB12",
+  "password": "2",
   "role": "guest",
   "case": "vol917",
   "durationSec": 3600
