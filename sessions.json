@@ -15,6 +15,23 @@
   "case": "vol917",
   "durationSec": 3600
 },
+{
+  "sessions": [
+    {
+  "code": "1",
+  "password": "1",
+  "role": "master",
+  "case": "vol917",
+  "durationSec": 3600
+},
+
+  {
+  "code": "1",
+  "password": "2",
+  "role": "guest",
+  "case": "vol917",
+  "durationSec": 3600
+},
 
      {
       "code": "14",
