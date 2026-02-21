@@ -1,59 +1,104 @@
 {
   "sessions": [
+
+    /* ============================= */
+    /* SESSION 1 : 1 MAÎTRE SEUL   */
+    /* ============================= */
+
     {
-  "code": "CHIEN",
-  "password": "MDP",
-  "role": "master",
-  "case": "vol917",
-  "durationSec": 3600
-},
+      "code": "SOLO",
+      "password": "100",
+      "role": "master",
+      "case": "vol917",
+      "durationSec": 3600
+    },
 
-  {
-  "code": "CHIEN",
-  "password": "MDP1",
-  "role": "guest",
-  "case": "vol917",
-  "durationSec": 3600
-},
-{
-  "sessions": [
+    /* ============================= */
+    /* SESSION 2 : 1 MAÎTRE + 2 INVITÉS */
+    /* ============================= */
+
     {
-  "code": "1",
-  "password": "1",
-  "role": "master",
-  "case": "vol917",
-  "durationSec": 3600
-},
-
-  {
-  "code": "1",
-  "password": "2",
-  "role": "guest",
-  "case": "vol917",
-  "durationSec": 3600
-},
-
-     {
-      "code": "14",
-      "password": "14",
-      "durationSec": 7200,
-      "case": "train-midnight",
-      "emailTo": "lisa.garcia1t4@gmail.com"
+      "code": "TEAM2A",
+      "password": "200",
+      "role": "master",
+      "case": "vol917",
+      "durationSec": 3600
     },
     {
-      "code": "081104",
-      "password": "081104",
-      "durationSec": 7200,
-      "case": "train-midnight",
-      "emailTo": "lisa.garcia1t4@gmail.com"
+      "code": "TEAM2A",
+      "password": "201",
+      "role": "guest",
+      "case": "vol917",
+      "durationSec": 3600
     },
     {
-      "code": "J8",
-      "password": "momo",
-      "durationSec": 7200,
-      "case": "train-midnight",
-      "emailTo": "lisa.garcia1t4@gmail.com"
+      "code": "TEAM2A",
+      "password": "202",
+      "role": "guest",
+      "case": "vol917",
+      "durationSec": 3600
+    },
+
+    /* ============================= */
+    /* SESSION 3 : 1 MAÎTRE + 2 INVITÉS */
+    /* ============================= */
+
+    {
+      "code": "TEAM2B",
+      "password": "300",
+      "role": "master",
+      "case": "vol917",
+      "durationSec": 3600
+    },
+    {
+      "code": "TEAM2B",
+      "password": "301",
+      "role": "guest",
+      "case": "vol917",
+      "durationSec": 3600
+    },
+    {
+      "code": "TEAM2B",
+      "password": "302",
+      "role": "guest",
+      "case": "vol917",
+      "durationSec": 3600
+    },
+
+    /* ============================= */
+    /* SESSION 4 : 1 MAÎTRE + 3 INVITÉS */
+    /* ============================= */
+
+    {
+      "code": "TEAM3",
+      "password": "400",
+      "role": "master",
+      "case": "vol917",
+      "durationSec": 3600
+    },
+    {
+      "code": "TEAM3",
+      "password": "401",
+      "role": "guest",
+      "case": "vol917",
+      "durationSec": 3600
+    },
+    {
+      "code": "TEAM3",
+      "password": "402",
+      "role": "guest",
+      "case": "vol917",
+      "durationSec": 3600
+    },
+    {
+      "code": "TEAM3",
+      "password": "403",
+      "role": "guest",
+      "case": "vol917",
+      "durationSec": 3600
     }
+
   ]
 }
+
 
