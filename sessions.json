@@ -1,7 +1,7 @@
 {
   "sessions": [
     {
-  "code": "AB12",
+  "code": "TEST",
   "password": "1",
   "role": "master",
   "case": "vol917",
@@ -9,7 +9,7 @@
 },
 
   {
-  "code": "AB12",
+  "code": "TEST",
   "password": "2",
   "role": "guest",
   "case": "vol917",
