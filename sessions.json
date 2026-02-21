@@ -1,16 +1,16 @@
 {
   "sessions": [
     {
-  "code": "TEST",
-  "password": "3",
+  "code": "CHAT",
+  "password": "18",
   "role": "master",
   "case": "vol917",
   "durationSec": 3600
 },
 
   {
-  "code": "TEST",
-  "password": "4",
+  "code": "CHAT",
+  "password": "19",
   "role": "guest",
   "case": "vol917",
   "durationSec": 3600
