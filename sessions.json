@@ -10,18 +10,18 @@
     },
 
     {
-      "code": "TEAM2A",
-      "password": "200",
+      "code": "TEST",
+      "password": "1",
       "role": "master",
       "case": "vol917",
-      "durationSec": 3600
+      "durationSec": 12000
     },
     {
-      "code": "TEAM2A",
-      "password": "201",
+      "code": "TEST",
+      "password": "2",
       "role": "guest",
       "case": "vol917",
-      "durationSec": 3600
+      "durationSec": 12000
     },
     {
       "code": "TEAM2A",
