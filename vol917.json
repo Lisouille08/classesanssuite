@@ -1,16 +1,40 @@
 {
+  "slug": "vol-917",
   "title": "Vol 917 – État Fantôme",
   "culprit": "FARAH KADIC",
+
+  "apps": [
+    {
+      "id": "camera",
+      "label": "Caméra"
+    },
+    {
+      "id": "audition",
+      "label": "Audition"
+    },
+    {
+      "id": "messages",
+      "label": "Messages"
+    },
+    {
+      "id": "documents",
+      "label": "Documents"
+    }
+  ],
+
   "suspects": [
     {
+      "id": "farah_kadic",
       "name": "FARAH KADIC",
       "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/farah.png"
     },
     {
+      "id": "capitaine_gremon",
       "name": "CAPITAINE GREMON",
       "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/gremon.png"
     },
     {
+      "id": "marc_delval",
       "name": "MARC DELVAL",
       "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/marc.png"
     }
