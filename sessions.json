@@ -2,8 +2,8 @@
   "sessions": [
 
     {
-      "code": "SOLO",
-      "password": "100",
+      "code": "LISA",
+      "password": "8",
       "role": "master",
       "case": "vol917",
       "durationSec": 5000
