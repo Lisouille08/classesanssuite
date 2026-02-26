@@ -1,0 +1,101 @@
+[
+  {
+    "nom": "Alexio Massenzio",
+
+    "identiteMedicale": {
+      "groupeSanguin": "O+",
+      "taille": 178,
+      "poids": 74,
+      "imc": 23.4,
+      "ageBiologique": 32
+    },
+
+    "allergies": {
+      "medicamenteuses": ["PENICILLINE"],
+      "alimentaires": ["ARACHIDE"]
+    },
+
+    "traitements": ["SERTRALINE"],
+
+    "vaccination": {
+      "faits": ["TETANOS", "HEPATITE B"],
+      "manquants": []
+    },
+
+    "santeMentale": {
+      "antidepresseurs": true,
+      "suiviPsy": true,
+      "trouble": "Trouble anxieux généralisé"
+    },
+
+    "addictions": {
+      "tabac": "Regulier",
+      "alcool": "Occasionnel",
+      "drogues": "Aucune"
+    },
+
+    "journal": [
+      {
+        "date": "2023-08-12",
+        "bpm": 118,
+        "sommeil": 2.1,
+        "temperature": 38.1,
+        "pas": 356,
+        "calories": 900,
+        "alcool": "Elevée",
+        "nicotine": true,
+        "drogue": "Cocaine détectée"
+      }
+    ]
+  },
+
+  {
+    "nom": "Marc Delval",
+
+    "identiteMedicale": {
+      "groupeSanguin": "A-",
+      "taille": 182,
+      "poids": 82,
+      "imc": 24.7,
+      "ageBiologique": 36
+    },
+
+    "allergies": {
+      "medicamenteuses": [],
+      "alimentaires": []
+    },
+
+    "traitements": [],
+
+    "vaccination": {
+      "faits": ["TETANOS"],
+      "manquants": ["HEPATITE B"]
+    },
+
+    "santeMentale": {
+      "antidepresseurs": false,
+      "suiviPsy": false,
+      "trouble": null
+    },
+
+    "addictions": {
+      "tabac": "Aucune",
+      "alcool": "Regulier",
+      "drogues": "Cannabis"
+    },
+
+    "journal": [
+      {
+        "date": "2023-08-12",
+        "bpm": 75,
+        "sommeil": 7.2,
+        "temperature": 36.7,
+        "pas": 9211,
+        "calories": 2400,
+        "alcool": "Faible",
+        "nicotine": false,
+        "drogue": "Aucune"
+      }
+    ]
+  }
+]
