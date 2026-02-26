@@ -1,30 +1,31 @@
-{
-  "src": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Permis_Alexio.png?v=1755957009",
-  "nom": "Alexio Massenzio",
-  "plaque": "IT-923-LM",
-  "vehicule": {
-    "marque": "Maserati",
-    "modele": "Quattroporte",
-    "couleur": "Noire"
-  },
-
-  "statut": "En règle",
-  "assurance": "À jour",
-  "categorie": ["B"],
-  "points": 10,
-
-  "infractions": [
-    {
-      "date": "2022-05-14",
-      "motif": "Excès de vitesse",
-      "amende": "135€",
-      "pointsRetires": 2
+[
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Permis_Alexio.png?v=1755957009",
+    "nom": "Alexio Massenzio",
+    "plaque": "IT-923-LM",
+    "vehicule": {
+      "marque": "Maserati",
+      "modele": "Quattroporte",
+      "couleur": "Noire"
     },
-    {
-      "date": "2021-11-03",
-      "motif": "Stationnement dangereux",
-      "amende": "35€",
-      "pointsRetires": 0
-    }
-  ]
-}
+    "statut": "En règle",
+    "assurance": "À jour",
+    "categorie": ["B"],
+    "points": 10,
+    "infractions": [
+      {
+        "date": "2022-05-14",
+        "motif": "Excès de vitesse",
+        "amende": "135€",
+        "pointsRetires": 2
+      },
+      {
+        "date": "2021-11-03",
+        "motif": "Stationnement dangereux",
+        "amende": "35€",
+        "pointsRetires": 0
+      }
+    ]
+  }
+]
+
