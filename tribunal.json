@@ -5,74 +5,67 @@
     "resume": {
       "totalAffaires": 5,
       "condamnations": 2,
-      "enCours": 1,
-      "statut": "Sous surveillance"
+      "enCours": 1
     },
 
     "infractions": [
       {
         "date": "2018-06-12",
-        "lieu": "Marseille",
         "qualification": "Escroquerie",
         "statut": "Condamné",
         "peine": "6 mois avec sursis",
-        "details": "Détournement de fonds d’un montant de 12 000€."
+        "details": "Détournement de 12 000€."
       },
       {
         "date": "2021-09-03",
-        "lieu": "Lyon",
         "qualification": "Violence légère",
         "statut": "Relaxé",
         "peine": "Aucune",
-        "details": "Altercation lors d’un différend commercial."
+        "details": "Altercation commerciale."
       }
     ],
 
     "plaintesContreLui": [
       {
-        "plaignant": "Clara Martin",
         "motif": "Menace",
+        "plaignant": "Clara Martin",
         "date": "2022-02-10",
-        "statut": "Classée sans suite"
+        "statut": "Classée"
       }
     ],
 
     "plaintesDeposees": [
       {
-        "contre": "Victor Hale",
         "motif": "Diffamation",
+        "contre": "Victor Hale",
         "date": "2021-07-09",
         "statut": "Aboutie"
       }
     ],
 
-    "mesuresJudiciaires": {
+    "mesures": {
       "interdictionContact": {
         "active": true,
         "personne": "Clara Martin",
         "dateDebut": "2022-02-15",
         "dateFin": "2024-02-15"
-      },
-      "braceletElectronique": {
-        "active": false
       }
     },
 
-    "situationFamiliale": {
+    "famille": {
       "mariage": {
         "conjoint": "Laura Massenzio",
         "date": "2014-06-21"
       },
       "divorce": {
-        "date": "2021-03-18",
-        "motif": "Séparation conflictuelle"
+        "date": "2021-03-18"
       },
-      "gardeEnfants": {
+      "garde": {
         "type": "Alternée",
         "details": "Semaine A / Semaine B"
       },
-      "pensionAlimentaire": {
-        "montantMensuel": 450,
+      "pension": {
+        "montant": 450,
         "statut": "En règle"
       }
     }
