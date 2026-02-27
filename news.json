@@ -1,0 +1,118 @@
+{
+  "cities": [
+    {
+      "name": "Lyon",
+      "dates": {
+        "2024-05-24": {
+          "faits_divers": [
+            {
+              "title": "Un immeuble en feu",
+              "time": "21:43",
+              "location": "Quartier du Tonkin",
+              "severity": "critique",
+              "author": "Adrien Chauvet",
+              "content": "Un immeuble s'est vu partir en fumée après avoir été visé par des tirs de mortiers, près du Tonkin. La gendarmerie s'est rendue sur place pour enquêter sur les motivations des individus."
+            },
+            {
+              "title": "Tentative de cambriolage",
+              "time": "19:12",
+              "location": "Rue Garibaldi",
+              "severity": "moyenne",
+              "author": "Claire Dumas",
+              "content": "Un individu a tenté de forcer l'entrée d'un appartement au 3ème étage d'un immeuble situé rue Garibaldi. Les voisins ont alerté les forces de l'ordre. L'homme a pris la fuite avant l'arrivée de la police."
+            },
+            {
+              "title": "Rixe devant un bar",
+              "time": "23:08",
+              "location": "Place des Terreaux",
+              "severity": "faible",
+              "author": "Maxime Rolland",
+              "content": "Une altercation entre plusieurs individus a dégénéré en bagarre générale devant un bar des Terreaux. Deux blessés légers ont été pris en charge par les secours."
+            }
+          ],
+          "alerte_trafic": [
+            {
+              "title": "Métro B en panne",
+              "time": "10:02",
+              "location": "Ligne B",
+              "severity": "moyenne",
+              "author": "Carole Flamant",
+              "content": "La ligne B ne repart pas de plus belle malgré les nombreuses réparations qu'elle a subi. Depuis 10h02, des agents d'entretien ont été mobilisés pour garantir sa reprise à 11h05."
+            },
+            {
+              "title": "Déviation à Grange Blanche",
+              "time": "14:26",
+              "location": "2ème arrondissement",
+              "severity": "faible",
+              "author": "Nicolas Lambert",
+              "content": "Suite à des travaux, le quartier de Grange Blanche devra être contourné et voir son trafic passé par le 2ème arrondissement de la ville."
+            }
+          ],
+          "vie_locale": [
+            {
+              "title": "Cantine scolaire fermée",
+              "time": "08:00",
+              "location": "École Victor Hugo",
+              "severity": "faible",
+              "author": "Marie Perrin",
+              "content": "La cantine de l'école Victor Hugo restera fermée toute la journée suite à un problème d'approvisionnement. Les parents sont invités à prévoir un repas froid."
+            },
+            {
+              "title": "Rénovation à la mairie",
+              "time": "09:30",
+              "location": "Mairie du 3ème",
+              "severity": "faible",
+              "author": "Romain Keller",
+              "content": "La mairie du 3ème arrondissement sera exceptionnellement fermée l'après-midi pour des travaux de rénovation électrique."
+            }
+          ],
+          "meteo": [
+            {
+              "title": "Orage violent attendu",
+              "time": "18:00",
+              "location": "Métropole de Lyon",
+              "severity": "moyenne",
+              "author": "Météo France",
+              "content": "Des rafales pouvant atteindre 85 km/h sont attendues en soirée. De fortes précipitations pourraient réduire considérablement la visibilité."
+            }
+          ],
+          "evenements_locaux": [
+            {
+              "title": "Match OL - Marseille",
+              "time": "20:45",
+              "location": "Groupama Stadium",
+              "severity": "info",
+              "author": "Service Sport",
+              "content": "Le choc entre l'OL et Marseille affiche complet ce soir. Plus de 55 000 spectateurs sont attendus au Groupama Stadium."
+            },
+            {
+              "title": "Marché nocturne",
+              "time": "19:00",
+              "location": "Vieux Lyon",
+              "severity": "info",
+              "author": "Ville de Lyon",
+              "content": "Un marché nocturne prendra place dans le Vieux Lyon avec des stands artisanaux et de la musique live jusqu'à minuit."
+            }
+          ]
+        },
+
+        "2024-05-25": {
+          "faits_divers": [
+            {
+              "title": "Agression au couteau",
+              "time": "22:17",
+              "location": "Guillotière",
+              "severity": "critique",
+              "author": "Adrien Chauvet",
+              "content": "Un homme a été blessé par arme blanche dans le quartier de la Guillotière. L'auteur présumé a été interpellé peu après les faits."
+            }
+          ],
+          "alerte_trafic": [],
+          "vie_locale": [],
+          "meteo": [],
+          "evenements_locaux": []
+        }
+      }
+    }
+  ]
+}
