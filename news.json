@@ -11,6 +11,7 @@
               "location": "Quartier du Tonkin",
               "severity": "critique",
               "author": "Adrien Chauvet",
+              "image": "https://picsum.photos/seed/incendie/300/300",
               "content": "Un immeuble s'est vu partir en fumée après avoir été visé par des tirs de mortiers, près du Tonkin. La gendarmerie s'est rendue sur place pour enquêter sur les motivations des individus."
             },
             {
@@ -19,7 +20,8 @@
               "location": "Rue Garibaldi",
               "severity": "moyenne",
               "author": "Claire Dumas",
-              "content": "Un individu a tenté de forcer l'entrée d'un appartement au 3ème étage d'un immeuble situé rue Garibaldi. Les voisins ont alerté les forces de l'ordre. L'homme a pris la fuite avant l'arrivée de la police."
+              "image": "https://picsum.photos/seed/cambriolage/300/300",
+              "content": "Un individu a tenté de forcer l'entrée d'un appartement au 3ème étage d'un immeuble situé rue Garibaldi. Les voisins ont alerté les forces de l'ordre."
             },
             {
               "title": "Rixe devant un bar",
@@ -27,9 +29,11 @@
               "location": "Place des Terreaux",
               "severity": "faible",
               "author": "Maxime Rolland",
-              "content": "Une altercation entre plusieurs individus a dégénéré en bagarre générale devant un bar des Terreaux. Deux blessés légers ont été pris en charge par les secours."
+              "image": "https://picsum.photos/seed/rixe/300/300",
+              "content": "Une altercation entre plusieurs individus a dégénéré en bagarre générale devant un bar des Terreaux."
             }
           ],
+
           "alerte_trafic": [
             {
               "title": "Métro B en panne",
@@ -37,7 +41,8 @@
               "location": "Ligne B",
               "severity": "moyenne",
               "author": "Carole Flamant",
-              "content": "La ligne B ne repart pas de plus belle malgré les nombreuses réparations qu'elle a subi. Depuis 10h02, des agents d'entretien ont été mobilisés pour garantir sa reprise à 11h05."
+              "image": "https://picsum.photos/seed/metro/300/300",
+              "content": "La ligne B est interrompue depuis 10h02. Des équipes techniques sont mobilisées."
             },
             {
               "title": "Déviation à Grange Blanche",
@@ -45,9 +50,11 @@
               "location": "2ème arrondissement",
               "severity": "faible",
               "author": "Nicolas Lambert",
-              "content": "Suite à des travaux, le quartier de Grange Blanche devra être contourné et voir son trafic passé par le 2ème arrondissement de la ville."
+              "image": "https://picsum.photos/seed/travaux/300/300",
+              "content": "Suite à des travaux, le quartier devra être contourné."
             }
           ],
+
           "vie_locale": [
             {
               "title": "Cantine scolaire fermée",
@@ -55,27 +62,19 @@
               "location": "École Victor Hugo",
               "severity": "faible",
               "author": "Marie Perrin",
-              "content": "La cantine de l'école Victor Hugo restera fermée toute la journée suite à un problème d'approvisionnement. Les parents sont invités à prévoir un repas froid."
-            },
-            {
-              "title": "Rénovation à la mairie",
-              "time": "09:30",
-              "location": "Mairie du 3ème",
-              "severity": "faible",
-              "author": "Romain Keller",
-              "content": "La mairie du 3ème arrondissement sera exceptionnellement fermée l'après-midi pour des travaux de rénovation électrique."
+              "image": "https://picsum.photos/seed/ecole/300/300",
+              "content": "La cantine restera fermée toute la journée suite à un problème d'approvisionnement."
             }
           ],
+
           "meteo": [
-            {
-              "title": "Orage violent attendu",
-              "time": "18:00",
-              "location": "Métropole de Lyon",
-              "severity": "moyenne",
-              "author": "Météo France",
-              "content": "Des rafales pouvant atteindre 85 km/h sont attendues en soirée. De fortes précipitations pourraient réduire considérablement la visibilité."
-            }
+            { "hour": "14:00", "temp": 24, "condition": "soleil" },
+            { "hour": "16:00", "temp": 23, "condition": "nuage" },
+            { "hour": "18:00", "temp": 22, "condition": "pluie" },
+            { "hour": "20:00", "temp": 19, "condition": "orage" },
+            { "hour": "22:00", "temp": 17, "condition": "nuage" }
           ],
+
           "evenements_locaux": [
             {
               "title": "Match OL - Marseille",
@@ -83,7 +82,8 @@
               "location": "Groupama Stadium",
               "severity": "info",
               "author": "Service Sport",
-              "content": "Le choc entre l'OL et Marseille affiche complet ce soir. Plus de 55 000 spectateurs sont attendus au Groupama Stadium."
+              "image": "https://picsum.photos/seed/stadium/300/300",
+              "content": "Le choc entre l'OL et Marseille affiche complet."
             },
             {
               "title": "Marché nocturne",
@@ -91,7 +91,8 @@
               "location": "Vieux Lyon",
               "severity": "info",
               "author": "Ville de Lyon",
-              "content": "Un marché nocturne prendra place dans le Vieux Lyon avec des stands artisanaux et de la musique live jusqu'à minuit."
+              "image": "https://picsum.photos/seed/marche/300/300",
+              "content": "Un marché nocturne prendra place dans le Vieux Lyon."
             }
           ]
         },
@@ -104,12 +105,21 @@
               "location": "Guillotière",
               "severity": "critique",
               "author": "Adrien Chauvet",
-              "content": "Un homme a été blessé par arme blanche dans le quartier de la Guillotière. L'auteur présumé a été interpellé peu après les faits."
+              "image": "https://picsum.photos/seed/agression/300/300",
+              "content": "Un homme a été blessé par arme blanche dans le quartier de la Guillotière."
             }
           ],
+
           "alerte_trafic": [],
           "vie_locale": [],
-          "meteo": [],
+
+          "meteo": [
+            { "hour": "12:00", "temp": 25, "condition": "soleil" },
+            { "hour": "15:00", "temp": 26, "condition": "soleil" },
+            { "hour": "18:00", "temp": 24, "condition": "nuage" },
+            { "hour": "21:00", "temp": 21, "condition": "pluie" }
+          ],
+
           "evenements_locaux": []
         }
       }
