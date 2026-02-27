@@ -15,24 +15,16 @@
         "lieu": "Marseille",
         "qualification": "Escroquerie",
         "statut": "Condamné",
-        "peine": "6 mois avec sursis"
+        "peine": "6 mois avec sursis",
+        "details": "Détournement de fonds d’un montant de 12 000€."
       },
       {
         "date": "2021-09-03",
         "lieu": "Lyon",
         "qualification": "Violence légère",
         "statut": "Relaxé",
-        "peine": "Aucune"
-      }
-    ],
-
-    "proces": [
-      {
-        "dateAudience": "2018-11-20",
-        "juridiction": "Tribunal correctionnel",
-        "juge": "Juge Bernard",
-        "chefAccusation": "Escroquerie aggravée",
-        "verdict": "Coupable"
+        "peine": "Aucune",
+        "details": "Altercation lors d’un différend commercial."
       }
     ],
 
@@ -42,12 +34,6 @@
         "motif": "Menace",
         "date": "2022-02-10",
         "statut": "Classée sans suite"
-      },
-      {
-        "plaignant": "Entreprise Delta",
-        "motif": "Abus de confiance",
-        "date": "2023-04-14",
-        "statut": "En cours"
       }
     ],
 
@@ -61,17 +47,34 @@
     ],
 
     "mesuresJudiciaires": {
-      "controleJudiciaire": false,
-      "interdictionTerritoire": false,
-      "interdictionContact": true,
-      "braceletElectronique": false
+      "interdictionContact": {
+        "active": true,
+        "personne": "Clara Martin",
+        "dateDebut": "2022-02-15",
+        "dateFin": "2024-02-15"
+      },
+      "braceletElectronique": {
+        "active": false
+      }
     },
 
     "situationFamiliale": {
-      "statutMarital": "Divorcé",
-      "gardeEnfants": "Partagée",
-      "pensionAlimentaire": "En règle",
-      "proceduresEnCours": "Aucune"
+      "mariage": {
+        "conjoint": "Laura Massenzio",
+        "date": "2014-06-21"
+      },
+      "divorce": {
+        "date": "2021-03-18",
+        "motif": "Séparation conflictuelle"
+      },
+      "gardeEnfants": {
+        "type": "Alternée",
+        "details": "Semaine A / Semaine B"
+      },
+      "pensionAlimentaire": {
+        "montantMensuel": 450,
+        "statut": "En règle"
+      }
     }
   }
 ]
