@@ -34,8 +34,8 @@
     {
       "id": "brief",
       "title": "Brief de l'enquête",
-      "type": "text",
-      "content": "Le 24 mai 2024 à 21h43, un incendie s’est déclaré dans un immeuble du quartier du Tonkin. Une victime a été retrouvée sans vie dans son appartement. Les premiers éléments suggèrent un départ de feu volontaire."
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Sous_les_projecteurs.png?v=1772274893"
     },
     {
       "id": "rapport_police",
