@@ -1,0 +1,77 @@
+{
+  "slug": "doutes",
+  "title": "Doutes et Silences",
+  "culprit": "JULIEN MOREL",
+
+  "apps": [
+    { "id": "camera", "label": "Caméra" },
+    { "id": "audition", "label": "Audition" },
+    { "id": "messages", "label": "Messages" },
+    { "id": "documents", "label": "Documents" },
+    { "id": "news", "label": "News" },
+    { "id": "tribunal", "label": "Tribunal" }
+  ],
+
+  "suspects": [
+    {
+      "id": "julien_morel",
+      "name": "JULIEN MOREL",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/suspect1.png"
+    },
+    {
+      "id": "clara_vasseur",
+      "name": "CLARA VASSEUR",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/suspect2.png"
+    },
+    {
+      "id": "thomas_bernier",
+      "name": "THOMAS BERNIER",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/suspect3.png"
+    }
+  ],
+
+  "documents": [
+    {
+      "id": "brief",
+      "title": "Brief de l'enquête",
+      "type": "text",
+      "content": "Le 24 mai 2024 à 21h43, un incendie s’est déclaré dans un immeuble du quartier du Tonkin. Une victime a été retrouvée sans vie dans son appartement. Les premiers éléments suggèrent un départ de feu volontaire."
+    },
+    {
+      "id": "rapport_police",
+      "title": "Rapport de police",
+      "type": "text",
+      "content": "Les forces de l'ordre sont intervenues à 21h52. Des traces d'accélérant ont été détectées dans la cage d’escalier. Aucun signe d’effraction n’a été constaté à l’entrée principale."
+    },
+    {
+      "id": "rapport_pompiers",
+      "title": "Rapport des pompiers",
+      "type": "text",
+      "content": "Le feu a pris au niveau du deuxième étage avant de se propager rapidement. Le foyer initial se situe devant la porte de l'appartement de la victime."
+    },
+    {
+      "id": "rapport_legiste",
+      "title": "Rapport légiste",
+      "type": "text",
+      "content": "La victime est décédée par inhalation de fumée. Aucune trace de violence physique antérieure à l'incendie n’a été relevée."
+    },
+    {
+      "id": "liste_objets",
+      "title": "Objets retrouvés",
+      "type": "text",
+      "content": "- Bidon d’essence vide\n- Briquet noir\n- Téléphone portable partiellement fondu\n- Clé USB retrouvée dans la boîte aux lettres"
+    },
+    {
+      "id": "autorisation_data",
+      "title": "Autorisation récupération données",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/autorisation.png"
+    },
+    {
+      "id": "plan_immeuble",
+      "title": "Plan du lieu du sinistre",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/plan_immeuble.png"
+    }
+  ]
+}
