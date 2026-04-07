@@ -11,13 +11,23 @@
       "posts": ["pA1", "pA2", "pA3"]
     },
     {
+      "id": "alexis",
+      "name": "Alexis Please",
+      "avatar": "",
+      "bio": "CEO • ENGICA • Paris/Milan",
+      "followers": ["elena", "adrien"],
+      "followersCount": 84231,
+      "following": ["elena"],
+      "posts": ["pX1", "pX2", "pX3"]
+    },
+    {
       "id": "elena",
       "name": "Elena Rossi",
       "avatar": "",
       "bio": "Lifestyle • Milano",
-      "followers": ["alexio"],
+      "followers": ["alexio", "alexis"],
       "followersCount": 3120,
-      "following": ["alexio"],
+      "following": ["alexio", "alexis"],
       "posts": []
     },
     {
@@ -27,7 +37,7 @@
       "bio": "Étudiant • Paris",
       "followers": [],
       "followersCount": 184,
-      "following": ["alexio"],
+      "following": ["alexio", "alexis"],
       "posts": []
     }
   ],
@@ -42,7 +52,16 @@
         "count": 12400,
         "visible": ["elena", "adrien"]
       },
-      "comments": []
+      "comments": [
+        {
+          "user": "elena",
+          "text": "Toujours un coup d’avance 👏"
+        },
+        {
+          "user": "adrien",
+          "text": "Impressionnant ce niveau de rigueur."
+        }
+      ]
     },
     {
       "id": "pA2",
@@ -59,6 +78,42 @@
     {
       "id": "pA3",
       "user": "alexio",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Conference_Alexio.png?v=1756036854",
+      "caption": "Je remercie les organisateurs de cette conférence pour leur confiance et leur professionnalisme. Engica est à la porte d'un chiffre d'affaires démentiel.",
+      "ts": "2024-09-09T23:05:00+02:00",
+      "likes": {
+        "count": 11250,
+        "visible": ["elena", "adrien"]
+      },
+      "comments": []
+    },
+    {
+      "id": "pX1",
+      "user": "alexis",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Reunion_Alexio.png?v=1756036855",
+      "caption": "#meeting #energy #leadership",
+      "ts": "2024-09-05T10:45:00+02:00",
+      "likes": {
+        "count": 12400,
+        "visible": ["elena", "adrien"]
+      },
+      "comments": []
+    },
+    {
+      "id": "pX2",
+      "user": "alexis",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Partenariat_SNCF.png?v=1756036855",
+      "caption": "C'est avec fierté qu'Engica vous présente son nouveau partenaire ! #sncf #partenariat",
+      "ts": "2024-09-08T17:20:00+02:00",
+      "likes": {
+        "count": 9800,
+        "visible": ["elena"]
+      },
+      "comments": []
+    },
+    {
+      "id": "pX3",
+      "user": "alexis",
       "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Conference_Alexio.png?v=1756036854",
       "caption": "Je remercie les organisateurs de cette conférence pour leur confiance et leur professionnalisme. Engica est à la porte d'un chiffre d'affaires démentiel.",
       "ts": "2024-09-09T23:05:00+02:00",
