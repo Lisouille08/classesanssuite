@@ -1,111 +1,288 @@
 {
   "suspects": [
     {
-      "name": "Alexio Massenzio",
-      "events": [
-        { "start": "2024-09-02T09:30:00+02:00", "end": "2024-09-02T11:00:00+02:00", "title": "Comité Stratégique ENGICA", "location": "Siège ENGICA, Paris 16e", "notes": "Point Q3, arbitrages Italie/CEE", "tags": ["business","ca"], "url": "" },
-        { "start": "2024-09-04T20:00:00+02:00", "end": "2024-09-04T22:00:00+02:00", "title": "Dîner investisseur", "location": "Le Cinq, George V", "notes": "Relations publiques", "tags": ["rp"] },
-        { "start": "2024-09-06T07:30:00+02:00", "end": "2024-09-06T08:15:00+02:00", "title": "Cardio & sauna", "location": "Ritz Club", "notes": "", "tags": ["perso","sport"] },
-        { "start": "2024-09-09T15:30:00+02:00", "end": "2024-09-09T16:00:00+02:00", "title": "Appel conseil (procédure)", "location": "Bureau", "notes": "Audience évoquée par Marc", "tags": ["juridique"] },
-        { "start": "2024-09-10T10:05:00+02:00", "end": "2024-09-10T10:35:00+02:00", "title": "Revue chiffres Q2", "location": "Siège ENGICA", "notes": "Chiffres « bons »", "tags": ["business"] },
-        { "start": "2024-09-11T18:45:00+02:00", "end": "2024-09-11T19:15:00+02:00", "title": "Call Giorgio (yacht dimanche)", "location": "Portable", "notes": "Prévoir champagne", "tags": ["perso","loisirs"] },
-        { "start": "2024-09-12T08:10:00+02:00", "end": "2024-09-12T09:00:00+02:00", "title": "Pré-CA", "location": "ENGICA - Salle Verdi", "notes": "Préparer slides", "tags": ["ca"] },
-        { "start": "2024-09-14T21:45:00+02:00", "end": "2024-09-14T22:20:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon, Hall 1", "notes": "Cabine 14", "tags": ["train","voyage"] },
-        { "start": "2024-09-15T08:30:00+02:00", "end": "2024-09-15T09:00:00+02:00", "title": "Taxi Centrale → hôtel", "location": "Milano Centrale", "notes": "Réservation confirmée", "tags": ["voyage"] }
-      ]
+      "id": "julien_morel",
+      "name": "JULIEN MOREL",
+      "label": "Suspect",
+      "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/suspect1.png"
     },
-
     {
-      "name": "Marc Delval",
-      "events": [
-        { "start": "2024-09-03T09:00:00+02:00", "end": "2024-09-03T10:30:00+02:00", "title": "Cabinet d’avocats BDL", "location": "Paris 8e", "notes": "Calendrier audience", "tags": ["juridique"] },
-        { "start": "2024-09-05T12:30:00+02:00", "end": "2024-09-05T13:45:00+02:00", "title": "Déjeuner d’affaires", "location": "Brasserie Lipp", "notes": "", "tags": ["rp"] },
-        { "start": "2024-09-07T15:00:00+02:00", "end": "2024-09-07T16:30:00+02:00", "title": "Practice golf", "location": "Racing Club", "notes": "Avec Pierre", "tags": ["perso","loisirs"] },
-        { "start": "2024-09-09T10:00:00+02:00", "end": "2024-09-09T10:30:00+02:00", "title": "Call analyste Q2", "location": "Bureau", "notes": "", "tags": ["business"] },
-        { "start": "2024-09-10T09:12:00+02:00", "end": "2024-09-10T09:20:00+02:00", "title": "Msg à Alexio (procédure)", "location": "SMS", "notes": "Echanges froids", "tags": ["conflit"] },
-        { "start": "2024-09-11T10:10:00+02:00", "end": "2024-09-11T10:20:00+02:00", "title": "Rapport Q2 – ping", "location": "Teams", "notes": "Demande d’accès", "tags": ["business"] },
-        { "start": "2024-09-12T08:05:00+02:00", "end": "2024-09-12T08:20:00+02:00", "title": "CA – préparation", "location": "Neuilly", "notes": "", "tags": ["ca"] },
-        { "start": "2024-09-14T21:45:00+02:00", "end": "2024-09-14T22:20:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon", "notes": "Place 12A – 1ère", "tags": ["train"] },
-        { "start": "2024-09-18T14:00:00+02:00", "end": "2024-09-18T16:00:00+02:00", "title": "Réunion « investisseur »", "location": "La Défense - tour Opus", "notes": "Prospect concurrentiel", "tags": ["confidentiel"] }
-      ]
+      "id": "clara_vasseur",
+      "name": "CLARA VASSEUR",
+      "label": "Suspecte",
+      "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/suspect2.png"
     },
-
     {
-      "name": "Luc Morel",
-      "events": [
-        { "start": "2024-09-03T06:00:00+02:00", "end": "2024-09-03T14:00:00+02:00", "title": "Service TGV Est", "location": "Paris Est", "notes": "", "tags": ["travail"] },
-        { "start": "2024-09-05T18:30:00+02:00", "end": "2024-09-05T19:00:00+02:00", "title": "RDV caisse mutuelle", "location": "Paris 12e", "notes": "Avance refusée", "tags": ["finances"] },
-        { "start": "2024-09-07T16:00:00+02:00", "end": "2024-09-07T18:00:00+02:00", "title": "Match avec Mathis", "location": "Parc des Princes", "notes": "Avec le neveu", "tags": ["famille"] },
-        { "start": "2024-09-10T17:20:00+02:00", "end": "2024-09-10T17:35:00+02:00", "title": "Point planning", "location": "SNCF – Chef de bord", "notes": "SMS Sophie Huguet", "tags": ["travail"] },
-        { "start": "2024-09-13T21:00:00+02:00", "end": "2024-09-13T22:00:00+02:00", "title": "RDV quartier Stalingrad", "location": "Avenue de Flandre, Paris 19e", "notes": "Contact non enregistré", "tags": ["RDV"] },
-        { "start": "2024-09-14T09:00:00+02:00", "end": "2024-09-14T18:00:00+02:00", "title": "Jour de repos", "location": "—", "notes": "Aucun service prévu", "tags": ["repos"] }
-      ]
+      "id": "thomas_bernier",
+      "name": "THOMAS BERNIER",
+      "label": "Suspect",
+      "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/suspect3.png"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_001",
+      "suspectId": "julien_morel",
+      "date": "2024-10-03",
+      "start": "08:30",
+      "end": "09:15",
+      "title": "Petit-déjeuner avec C. Vasseur",
+      "location": "Café des Terreaux, Lyon",
+      "note": "Événement enregistré dans le calendrier personnel. Aucun détail sur le motif du rendez-vous.",
+      "type": "social"
     },
-
     {
-      "name": "Elena Rossi",
-      "events": [
-        { "start": "2024-09-03T11:00:00+02:00", "end": "2024-09-03T12:00:00+02:00", "title": "Coiffeur", "location": "Via Roma, Torino", "notes": "", "tags": ["perso"] },
-        { "start": "2024-09-05T19:30:00+02:00", "end": "2024-09-05T22:30:00+02:00", "title": "Soirée caritative", "location": "Turin – Palazzo Madama", "notes": "", "tags": ["mondain"] },
-        { "start": "2024-09-07T10:30:00+02:00", "end": "2024-09-07T11:15:00+02:00", "title": "Pilates", "location": "Club privé", "notes": "", "tags": ["sport"] },
-        { "start": "2024-09-09T17:05:00+02:00", "end": "2024-09-09T17:20:00+02:00", "title": "Appel Mamma (courses viande)", "location": "Portable", "notes": "« On a déjà acheté »", "tags": ["famille"] },
-        { "start": "2024-09-11T12:30:00+02:00", "end": "2024-09-11T14:00:00+02:00", "title": "Déjeuner Chiara", "location": "Brera, Milano", "notes": "", "tags": ["perso"] },
-        { "start": "2024-09-14T21:45:00+02:00", "end": "2024-09-14T22:20:00+02:00", "title": "Train Paris–Milan (embarquement)", "location": "Gare de Lyon", "notes": "Retour maison", "tags": ["train"] },
-        { "start": "2024-09-15T09:30:00+02:00", "end": "2024-09-15T09:50:00+02:00", "title": "Taxi Centrale → domicile", "location": "Milano Centrale", "notes": "Fiat noire IT-209-CC", "tags": ["voyage"] },
-        { "start": "2024-09-18T18:00:00+02:00", "end": "2024-09-18T19:30:00+02:00", "title": "Vernissage", "location": "Fondation Prada", "notes": "", "tags": ["art"] },
-        { "start": "2024-09-21T11:00:00+02:00", "end": "2024-09-21T12:00:00+02:00", "title": "Shopping", "location": "Quadrilatero, Milano", "notes": "", "tags": ["perso"] }
-      ]
+      "id": "evt_002",
+      "suspectId": "julien_morel",
+      "date": "2024-10-03",
+      "start": "11:00",
+      "end": "12:30",
+      "title": "Passage au bureau",
+      "location": "Rue de la République, Lyon",
+      "note": "Créneau ajouté manuellement. Aucun participant indiqué.",
+      "type": "work"
     },
-
     {
-      "name": "Sofia Mendez",
-      "events": [
-        { "start": "2024-09-02T22:00:00+02:00", "end": "2024-09-03T03:00:00+02:00", "title": "Rotation nuit – nettoyage bord", "location": "Gare de Lyon / Train couchettes", "notes": "", "tags": ["travail","nuit"] },
-        { "start": "2024-09-05T09:00:00+02:00", "end": "2024-09-05T09:20:00+02:00", "title": "Loyer – virement", "location": "App Twitch SMS banque", "notes": "Ok", "tags": ["perso"] },
-        { "start": "2024-09-07T16:00:00+02:00", "end": "2024-09-07T18:00:00+02:00", "title": "Cinéma avec Claire", "location": "UGC Bercy", "notes": "", "tags": ["loisirs"] },
-        { "start": "2024-09-09T18:10:00+02:00", "end": "2024-09-09T18:30:00+02:00", "title": "Appel Mariana", "location": "WhatsApp", "notes": "Famille/Madrid", "tags": ["famille"] },
-        { "start": "2024-09-12T07:00:00+02:00", "end": "2024-09-12T07:30:00+02:00", "title": "Brief équipe", "location": "Local CleanExpress", "notes": "", "tags": ["travail"] },
-        { "start": "2024-09-14T21:30:00+02:00", "end": "2024-09-14T22:15:00+02:00", "title": "Train Paris–Milan (prise de service)", "location": "Gare de Lyon", "notes": "Wagon-lits secteur A", "tags": ["train","service"] },
-        { "start": "2024-09-17T12:30:00+02:00", "end": "2024-09-17T13:00:00+02:00", "title": "Déj rapide", "location": "Sandwicherie, Quai de Seine", "notes": "", "tags": ["perso"] },
-        { "start": "2024-09-20T22:00:00+02:00", "end": "2024-09-21T03:00:00+02:00", "title": "Rotation nuit – nettoyage bord", "location": "Gare de Lyon", "notes": "", "tags": ["travail","nuit"] }
-      ]
+      "id": "evt_003",
+      "suspectId": "julien_morel",
+      "date": "2024-10-07",
+      "start": "19:00",
+      "end": "20:30",
+      "title": "Verre avec Thomas",
+      "location": "Le Comptoir Rouge",
+      "note": "Intitulé très bref. L’heure de fin n’a pas été modifiée depuis la création.",
+      "type": "social"
     },
-
     {
-      "name": "Adrien Lambert",
-      "events": [
-        { "start": "2024-09-04T08:30:00+02:00", "end": "2024-09-04T10:00:00+02:00", "title": "CM microéconomie", "location": "Sorbonne - Amphi C", "notes": "", "tags": ["études"] },
-        { "start": "2024-09-06T22:00:00+02:00", "end": "2024-09-07T01:30:00+02:00", "title": "Bar avec Léo & Sam", "location": "Oberkampf", "notes": "", "tags": ["loisirs"] },
-        { "start": "2024-09-09T08:00:00+02:00", "end": "2024-09-09T08:20:00+02:00", "title": "Poubelles / ménage", "location": "Domicile", "notes": "Msg Evelyne", "tags": ["famille"] },
-        { "start": "2024-09-10T19:00:00+02:00", "end": "2024-09-10T20:00:00+02:00", "title": "Révisions QCM", "location": "BU Cujas", "notes": "", "tags": ["études"] },
-        { "start": "2024-09-12T15:30:00+02:00", "end": "2024-09-12T16:30:00+02:00", "title": "Job – shift soir", "location": "QuickBite St-Michel", "notes": "", "tags": ["job"] },
-        { "start": "2024-09-17T18:00:00+02:00", "end": "2024-09-17T19:00:00+02:00", "title": "TD économie", "location": "Salle 203", "notes": "", "tags": ["études"] },
-        { "start": "2024-09-19T20:30:00+02:00", "end": "2024-09-19T22:30:00+02:00", "title": "Soirée chez Léo", "location": "Nation", "notes": "", "tags": ["loisirs"] },
-        { "start": "2024-09-24T09:00:00+02:00", "end": "2024-09-24T12:00:00+02:00", "title": "Partiels blancs", "location": "Campus Panthéon", "notes": "", "tags": ["études"] }
-      ]
+      "id": "evt_004",
+      "suspectId": "julien_morel",
+      "date": "2024-10-10",
+      "start": "14:00",
+      "end": "15:00",
+      "title": "RDV assureur",
+      "location": "Agence Montluc",
+      "note": "Alerte activée 1h avant. Aucun document joint.",
+      "type": "personal"
     },
-
     {
-      "name": "RICO",
-      "events": [
-        { "start": "2025-05-28T14:00:00+02:00", "end": "2025-05-28T15:00:00+02:00", "title": "RDV logistique", "location": "Studio B", "notes": "Prépa matos — possible diversion.", "tags": ["alibi","logistique"], "url": "" },
-        { "start": "2025-06-02T09:30:00+02:00", "end": "2025-06-02T10:00:00+02:00", "title": "Café avec T.", "location": "Bellecour", "notes": "Message chiffré attendu.", "tags": ["contact"] }
-      ]
+      "id": "evt_005",
+      "suspectId": "julien_morel",
+      "date": "2024-10-14",
+      "start": "18:15",
+      "end": "19:45",
+      "title": "Déplacement discret",
+      "location": "Parking Saint-Paul",
+      "note": "Titre inhabituel. Le suspect n’a pas précisé de nom ni de rendez-vous.",
+      "type": "travel"
     },
-
     {
-      "name": "NAILA",
-      "events": [
-        { "start": "2025-05-30T18:00:00+02:00", "end": "2025-05-30T20:15:00+02:00", "title": "Répétition", "location": "Salle 3", "notes": "Présence incertaine de R.", "tags": ["couverture"] },
-        { "start": "2025-06-04T12:00:00+02:00", "end": "2025-06-04T12:30:00+02:00", "title": "Déj express", "location": "Quai du Rhône", "notes": "", "tags": [] }
-      ]
+      "id": "evt_006",
+      "suspectId": "julien_morel",
+      "date": "2024-10-14",
+      "start": "21:30",
+      "end": "22:00",
+      "title": "Ne pas oublier l’enveloppe",
+      "location": "Sans localisation",
+      "note": "Entrée très étrange pour un agenda. Peut être un simple rappel personnel.",
+      "type": "personal"
     },
-
     {
-      "name": "TYKE",
-      "events": [
-        { "start": "2025-06-01T22:00:00+02:00", "end": "2025-06-01T23:59:00+02:00", "title": "Surveillance parking", "location": "Part-Dieu P3", "notes": "Plaques à relever.", "tags": ["surveillance","nuit"] }
-      ]
+      "id": "evt_007",
+      "suspectId": "julien_morel",
+      "date": "2024-10-18",
+      "start": "09:00",
+      "end": "10:30",
+      "title": "Entretien téléphonique",
+      "location": "Domicile",
+      "note": "Événement répétitif déplacé plusieurs fois avant validation.",
+      "type": "work"
+    },
+    {
+      "id": "evt_008",
+      "suspectId": "julien_morel",
+      "date": "2024-10-22",
+      "start": "17:45",
+      "end": "18:30",
+      "title": "Aller-retour gare Part-Dieu",
+      "location": "Gare Part-Dieu",
+      "note": "Aucune personne associée. Simple déplacement inscrit la veille.",
+      "type": "travel"
+    },
+    {
+      "id": "evt_009",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-02",
+      "start": "07:45",
+      "end": "08:30",
+      "title": "Cours de yoga",
+      "location": "Studio Saône",
+      "note": "Routine hebdomadaire. Aucun lien apparent avec l’affaire.",
+      "type": "personal"
+    },
+    {
+      "id": "evt_010",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-04",
+      "start": "12:15",
+      "end": "13:30",
+      "title": "Déjeuner avec J. Morel",
+      "location": "Restaurant Les Platanes",
+      "note": "Le nom du participant a été ajouté après création de l’événement.",
+      "type": "social"
+    },
+    {
+      "id": "evt_011",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-08",
+      "start": "18:00",
+      "end": "19:30",
+      "title": "Passage pharmacie",
+      "location": "Pharmacie des Cordeliers",
+      "note": "Rappel très court, rédigé sans précision complémentaire.",
+      "type": "personal"
+    },
+    {
+      "id": "evt_012",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-11",
+      "start": "20:00",
+      "end": "22:00",
+      "title": "Soirée privée",
+      "location": "Appartement Croix-Rousse",
+      "note": "Invités non renseignés. L’événement a été verrouillé avec une note confidentielle supprimée.",
+      "type": "social"
+    },
+    {
+      "id": "evt_013",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-14",
+      "start": "16:30",
+      "end": "17:10",
+      "title": "Appel urgent",
+      "location": "Sans localisation",
+      "note": "Simple bloc agenda sans titre explicite à l’origine. Renommé ensuite.",
+      "type": "work"
+    },
+    {
+      "id": "evt_014",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-14",
+      "start": "22:10",
+      "end": "23:00",
+      "title": "Couper le téléphone",
+      "location": "Domicile",
+      "note": "Rappel très inhabituel. Peut être anodin, peut être stratégique.",
+      "type": "personal"
+    },
+    {
+      "id": "evt_015",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-17",
+      "start": "09:30",
+      "end": "11:00",
+      "title": "Rendez-vous notaire",
+      "location": "Office Vieux-Lyon",
+      "note": "Créneau validé avec notification double. Aucun document annexé.",
+      "type": "meeting"
+    },
+    {
+      "id": "evt_016",
+      "suspectId": "clara_vasseur",
+      "date": "2024-10-23",
+      "start": "18:45",
+      "end": "19:20",
+      "title": "Passer récupérer le colis",
+      "location": "Relais Bellecour",
+      "note": "Nom du colis non indiqué. Ajouté au dernier moment.",
+      "type": "personal"
+    },
+    {
+      "id": "evt_017",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-01",
+      "start": "10:00",
+      "end": "11:30",
+      "title": "Réunion chantier",
+      "location": "Rue Neyret",
+      "note": "Événement professionnel avec rappel 30 min avant.",
+      "type": "work"
+    },
+    {
+      "id": "evt_018",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-05",
+      "start": "13:00",
+      "end": "14:00",
+      "title": "Déjeuner famille",
+      "location": "Villeurbanne",
+      "note": "Aucune incohérence apparente. Calendrier très classique.",
+      "type": "social"
+    },
+    {
+      "id": "evt_019",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-09",
+      "start": "17:20",
+      "end": "18:40",
+      "title": "Aller voir Clara",
+      "location": "Quai Pierre-Scize",
+      "note": "Intitulé direct. Aucune autre information fournie.",
+      "type": "social"
+    },
+    {
+      "id": "evt_020",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-12",
+      "start": "21:00",
+      "end": "23:00",
+      "title": "Match / bar",
+      "location": "Le Corner, Lyon 7",
+      "note": "Événement récurrent importé depuis une ancienne invitation.",
+      "type": "social"
+    },
+    {
+      "id": "evt_021",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-14",
+      "start": "18:00",
+      "end": "18:35",
+      "title": "Passage rapide dépôt",
+      "location": "Entrepôt Gerland",
+      "note": "Durée courte. L’entrée a été modifiée deux fois le même jour.",
+      "type": "work"
+    },
+    {
+      "id": "evt_022",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-14",
+      "start": "23:15",
+      "end": "23:45",
+      "title": "Ne pas oublier de supprimer",
+      "location": "Sans localisation",
+      "note": "Rappel énigmatique. Impossible de savoir à quoi il faisait référence.",
+      "type": "personal"
+    },
+    {
+      "id": "evt_023",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-20",
+      "start": "08:40",
+      "end": "09:20",
+      "title": "Départ gare Perrache",
+      "location": "Gare Perrache",
+      "note": "Déplacement planifié plusieurs jours en avance.",
+      "type": "travel"
+    },
+    {
+      "id": "evt_024",
+      "suspectId": "thomas_bernier",
+      "date": "2024-10-25",
+      "start": "15:00",
+      "end": "16:10",
+      "title": "Rendez-vous banque",
+      "location": "Cours Lafayette",
+      "note": "Entrée classique. Aucun détail complémentaire.",
+      "type": "meeting"
     }
   ]
 }
