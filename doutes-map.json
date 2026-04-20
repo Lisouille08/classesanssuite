@@ -1,0 +1,41 @@
+{
+  "colors": {
+    "Rebecca Lopez": "#FF4FC3",
+    "Henri Lefevre": "#4FD8FF"
+  },
+
+  "locations": [
+    {
+      "name": "Domicile",
+      "type": "domicile",
+      "suspect": "Rebecca Lopez",
+      "lat": 44.85,
+      "lng": -0.60
+    },
+    {
+      "name": "Restaurant",
+      "type": "restaurant",
+      "suspect": "Rebecca Lopez",
+      "lat": 44.84,
+      "lng": -0.58
+    },
+    {
+      "name": "Lieu du meurtre",
+      "type": "mort",
+      "suspect": "Henri Lefevre",
+      "lat": 44.83,
+      "lng": -0.57
+    }
+  ],
+
+  "routes": [
+    {
+      "suspect": "Rebecca Lopez",
+      "points": [
+        [44.85,-0.60],
+        [44.845,-0.59],
+        [44.84,-0.58]
+      ]
+    }
+  ]
+}
