@@ -4,6 +4,17 @@
     "Henri Lefevre": "#4FD8FF"
   },
 
+  "suspects": [
+    {
+      "name": "Rebecca Lopez",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/rebecca.png"
+    },
+    {
+      "name": "Henri Lefevre",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/henri.png"
+    }
+  ],
+
   "locations": [
     {
       "name": "Domicile",
@@ -32,9 +43,9 @@
     {
       "suspect": "Rebecca Lopez",
       "points": [
-        [44.85,-0.60],
-        [44.845,-0.59],
-        [44.84,-0.58]
+        [44.85, -0.60],
+        [44.845, -0.59],
+        [44.84, -0.58]
       ]
     }
   ]
