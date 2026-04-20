@@ -1,51 +1,211 @@
 {
   "colors": {
+    "Henri Lefevre": "#4FD8FF",
     "Rebecca Lopez": "#FF4FC3",
-    "Henri Lefevre": "#4FD8FF"
+    "Jerome Touquet": "#FFD84F",
+    "Julien Roseau": "#4FFF9F",
+    "Louis Berger": "#FF8A4F",
+    "Sophie Calini": "#B86CFF",
+    "Eric Valmont": "#FF4F4F"
   },
 
   "suspects": [
+    {
+      "name": "Henri Lefevre",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/henri.png"
+    },
     {
       "name": "Rebecca Lopez",
       "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/rebecca.png"
     },
     {
-      "name": "Henri Lefevre",
-      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/henri.png"
+      "name": "Jerome Touquet",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/jerome.png"
+    },
+    {
+      "name": "Julien Roseau",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/julien.png"
+    },
+    {
+      "name": "Louis Berger",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/louis.png"
+    },
+    {
+      "name": "Sophie Calini",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/sophie.png"
+    },
+    {
+      "name": "Eric Valmont",
+      "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/eric.png"
     }
   ],
 
   "locations": [
     {
-      "name": "Domicile",
+      "name": "Domicile Henri Lefevre",
       "type": "domicile",
-      "suspect": "Rebecca Lopez",
-      "lat": 44.85,
-      "lng": -0.60
+      "suspect": "Henri Lefevre",
+      "lat": 44.841,
+      "lng": -0.580
     },
     {
-      "name": "Restaurant",
-      "type": "restaurant",
+      "name": "Bureau Henri Lefevre",
+      "type": "travail",
+      "suspect": "Henri Lefevre",
+      "lat": 44.855,
+      "lng": -0.565
+    },
+    {
+      "name": "Bar centre-ville (alibi)",
+      "type": "alibi",
+      "suspect": "Henri Lefevre",
+      "lat": 44.845,
+      "lng": -0.573
+    },
+
+    {
+      "name": "Domicile Rebecca Lopez",
+      "type": "domicile",
       "suspect": "Rebecca Lopez",
-      "lat": 44.84,
-      "lng": -0.58
+      "lat": 44.835,
+      "lng": -0.590
+    },
+    {
+      "name": "Cabinet médical",
+      "type": "travail",
+      "suspect": "Rebecca Lopez",
+      "lat": 44.842,
+      "lng": -0.570
+    },
+    {
+      "name": "Restaurant centre",
+      "type": "autre",
+      "suspect": "Rebecca Lopez",
+      "lat": 44.843,
+      "lng": -0.575
+    },
+
+    {
+      "name": "Domicile Jerome Touquet",
+      "type": "domicile",
+      "suspect": "Jerome Touquet",
+      "lat": 44.820,
+      "lng": -0.600
+    },
+    {
+      "name": "Garage automobile",
+      "type": "travail",
+      "suspect": "Jerome Touquet",
+      "lat": 44.830,
+      "lng": -0.585
+    },
+    {
+      "name": "Parking isolé",
+      "type": "alibi",
+      "suspect": "Jerome Touquet",
+      "lat": 44.825,
+      "lng": -0.590
+    },
+
+    {
+      "name": "Domicile Julien Roseau",
+      "type": "domicile",
+      "suspect": "Julien Roseau",
+      "lat": 44.810,
+      "lng": -0.570
+    },
+    {
+      "name": "Agence immobilière",
+      "type": "travail",
+      "suspect": "Julien Roseau",
+      "lat": 44.835,
+      "lng": -0.560
+    },
+    {
+      "name": "Salle de sport",
+      "type": "autre",
+      "suspect": "Julien Roseau",
+      "lat": 44.828,
+      "lng": -0.565
+    },
+
+    {
+      "name": "Domicile Louis Berger",
+      "type": "domicile",
+      "suspect": "Louis Berger",
+      "lat": 44.850,
+      "lng": -0.620
+    },
+    {
+      "name": "Entreprise BTP",
+      "type": "travail",
+      "suspect": "Louis Berger",
+      "lat": 44.860,
+      "lng": -0.600
+    },
+
+    {
+      "name": "Domicile Sophie Calini",
+      "type": "domicile",
+      "suspect": "Sophie Calini",
+      "lat": 44.870,
+      "lng": -0.610
+    },
+    {
+      "name": "Cabinet d’avocat",
+      "type": "travail",
+      "suspect": "Sophie Calini",
+      "lat": 44.845,
+      "lng": -0.560
+    },
+
+    {
+      "name": "Domicile Eric Valmont",
+      "type": "domicile",
+      "suspect": "Eric Valmont",
+      "lat": 44.780,
+      "lng": -0.550
     },
     {
       "name": "Lieu du meurtre",
       "type": "mort",
-      "suspect": "Henri Lefevre",
-      "lat": 44.83,
-      "lng": -0.57
+      "suspect": "Eric Valmont",
+      "lat": 44.835,
+      "lng": -0.575
     }
   ],
 
   "routes": [
     {
+      "suspect": "Henri Lefevre",
+      "points": [
+        [44.841,-0.580],
+        [44.848,-0.572],
+        [44.845,-0.573]
+      ]
+    },
+    {
       "suspect": "Rebecca Lopez",
       "points": [
-        [44.85, -0.60],
-        [44.845, -0.59],
-        [44.84, -0.58]
+        [44.835,-0.590],
+        [44.840,-0.580],
+        [44.843,-0.575]
+      ]
+    },
+    {
+      "suspect": "Jerome Touquet",
+      "points": [
+        [44.820,-0.600],
+        [44.825,-0.595],
+        [44.825,-0.590]
+      ]
+    },
+    {
+      "suspect": "Julien Roseau",
+      "points": [
+        [44.810,-0.570],
+        [44.820,-0.565],
+        [44.828,-0.565]
       ]
     }
   ]
