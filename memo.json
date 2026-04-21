@@ -39,17 +39,16 @@
       },
       {
         "titre": "Je deviens folle",
-        "date": "2027-09-17",
+        "date": "2025-11-26",
         "contenu": [
-          "Je crois que je deviens folle. Je regarde ton profil, tes anciennes photos, je me demande avec qui tu es, ce que tu fais, si tu penses encore à moi parfois. Je sais que ce n’est pas sain mais je n’arrive pas à m’arrêter. J’ai l’impression que si j’arrête de penser à toi tu disparais vraiment. Jsp si un jour j’aurais le courage de t’y envoyer."
+          "Je crois que je deviens folle. Je regarde ton profil, tes anciennes photos, je me demande avec qui tu es, ce que tu fais, si tu penses encore à moi parfois. Je sais que ce n’est pas sain mais je n’arrive pas à m’arrêter. J’ai l’impression que si j’arrête de penser à toi tu disparais vraiment. Je le veux pas. Je ne veux oublier aucun de nos souvenirs. Aucun je t'aime, aucune de nos sorties, aucun de nos rapports, aucune de tes rides... Et pour tout te dire, pour ne rien oublier de tout ça, je t'observe. Je t'ai regardé par la fenêtre. tu étais avec une femme, ça m'a brisé. J'essaye de me dire que ce n'était qu'une collègue mais au fond je connais la vérité... tu l'as choisi car elle a les mêmes yeux, les mêmes cheveux. Tu m'imagines en elle. Je le sais. Mais sache une dernière chose : aucune ne t'aimera autant que je t'aimes."
         ]
       },
       {
         "titre": "Dernier message",
         "date": "2025-12-19",
         "contenu": [
-          "Peut-être que je devrais arrêter là. Peut-être que tu ne reviendras jamais et que je dois l’accepter. Mais j’ai encore une partie de moi qui refuse d’y croire. J’aimerais juste que tu me dises une fois pour toutes que c’est fini, pour que je puisse enfin avancer. Jsp si un jour j’aurais le courage de t’y envoyer."
-        ]
+          "Peut-être que je devrais arrêter là. Peut-être que tu ne reviendras jamais et que je dois l’accepter. Mais j’ai encore une partie de moi qui refuse d’y croire. J’aimerais juste que tu me dises une fois pour toutes que c’est fini, pour que je puisse enfin avancer. Mais tu m'en empêches. Je sais que tu veux toujours de nous. Je sais que tu penses à moi. Et si ça peut te rassurer, moi aussi je pense à toi."
       }
     ]
   },
@@ -57,31 +56,31 @@
     "nom": "Jerome Touquet",
     "memos": [
       {
-        "titre": "Contact 1",
-        "date": "2025-04-10",
+        "titre": "Plan argent facile",
+        "date": "2026-03-10",
         "contenu": [
-          "06 54 23 91 88 - 14 rue du Professeur Arnozan, Le Bouscat"
+          "06 54 23 91 88 Ne pas s'habiller en jaune"
         ]
       },
       {
-        "titre": "Contact 2",
-        "date": "2025-04-12",
+        "titre": "20H30",
+        "date": "2025-08-12",
         "contenu": [
-          "07 12 88 45 66 - 8 rue Sainte-Catherine, Bordeaux"
+          "07 12 88 45 66 - 8 rue ou avenue Sainte-Catherine"
         ]
       },
       {
-        "titre": "Contact 3",
-        "date": "2025-04-15",
+        "titre": "BARZO",
+        "date": "2025-09-15",
         "contenu": [
-          "06 99 41 72 30 - 3 avenue Roger Salengro, Bègles"
+          "06 99 41 72 30 - Livraison 22h30 au nom de BARZO"
         ]
       },
       {
-        "titre": "Contact 4",
-        "date": "2025-04-18",
+        "titre": "Contact plan B",
+        "date": "2026-02-18",
         "contenu": [
-          "07 45 63 11 09 - 22 rue de Balzac, Talence"
+          "07 45 63 11 09 masquer numéro et modifier voix"
         ]
       }
     ]
@@ -95,7 +94,7 @@
     "memos": [
       {
         "titre": "Courses semaine",
-        "date": "2025-04-18",
+        "date": "2026-02-18",
         "contenu": [
           "Lait",
           "Pâtes",
@@ -108,17 +107,16 @@
       },
       {
         "titre": "À faire samedi",
-        "date": "2025-04-19",
+        "date": "2024-04-19",
         "contenu": [
           "Tondre la pelouse",
           "Aller à la déchetterie",
-          "Réparer la poignée de porte",
-          "Passer voir maman"
+          "Réparer la poignée de porte"
         ]
       },
       {
         "titre": "Factures",
-        "date": "2025-04-15",
+        "date": "2025-12-15",
         "contenu": [
           "Électricité",
           "Assurance voiture",
@@ -128,9 +126,9 @@
       },
       {
         "titre": "Repas famille",
-        "date": "2025-04-17",
+        "date": "2026-04-01",
         "contenu": [
-          "Inviter Louis dimanche",
+          "Inviter Hervé dimanche",
           "Prévoir viande",
           "Dessert",
           "Boissons"
