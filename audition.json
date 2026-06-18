@@ -18,8 +18,32 @@
         "r": "Un verdict favorable. Mes avocats étaient confiants et j'estimais notre dossier solide."
       },
       {
+        "q": "Depuis combien de temps dirigez-vous votre entreprise ?",
+        "r": "Un peu plus de vingt ans maintenant."
+      },
+      {
+        "q": "Votre société rencontre-t-elle actuellement des difficultés financières ?",
+        "r": "Non. Malgré la procédure en cours, l'entreprise reste parfaitement stable."
+      },
+      {
+        "q": "Êtes-vous marié ?",
+        "r": "Oui, depuis vingt-deux ans."
+      },
+      {
+        "q": "Avez-vous des enfants ?",
+        "r": "Oui, deux."
+      },
+      {
+        "q": "Comment votre famille a-t-elle vécu cette procédure judiciaire ?",
+        "r": "Très difficilement. Mes enfants ont notamment souffert des rumeurs qui ont circulé."
+      },
+      {
         "q": "Que faisiez-vous l'après-midi du 20 avril ?",
         "r": "J'étais à mon travail, comme à mon habitude."
+      },
+      {
+        "q": "Comment s'est déroulée votre journée de travail ?",
+        "r": "Comme n'importe quelle autre journée. Plusieurs rendez-vous et quelques dossiers à traiter."
       },
       {
         "q": "Où étiez-vous aux alentours de 23 heures le soir des faits ?",
@@ -38,6 +62,22 @@
         "r": "Évidemment. Même lorsqu'on se sait innocent, ce genre de situation reste éprouvant."
       },
       {
+        "q": "Avez-vous dormi correctement la nuit précédant les faits ?",
+        "r": "Pas vraiment. J'avais plusieurs dossiers en tête."
+      },
+      {
+        "q": "Consommez-vous régulièrement de l'alcool ?",
+        "r": "Occasionnellement lors de repas ou d'événements professionnels."
+      },
+      {
+        "q": "Avez-vous déjà été entendu par les services de police auparavant ?",
+        "r": "Jamais."
+      },
+      {
+        "q": "Comment avez-vous appris le décès du juge Valmont ?",
+        "r": "Par les informations relayées sur internet le lendemain."
+      },
+      {
         "q": "La victime avait-elle des ennemis selon vous ?",
         "r": "Je ne saurais pas vous répondre. Je ne connaissais pas cet homme en dehors du cadre judiciaire."
       },
@@ -47,6 +87,7 @@
       }
     ]
   },
+
   {
     "nom": "Rebecca Lopez",
     "dateAudition": "2026-04-27",
@@ -56,6 +97,22 @@
       {
         "q": "Connaissiez-vous Éric Valmont ?",
         "r": "Je le croisais régulièrement au tribunal mais je ne le connaissais pas personnellement."
+      },
+      {
+        "q": "Depuis combien de temps travaillez-vous au tribunal ?",
+        "r": "Environ sept ans."
+      },
+      {
+        "q": "Quel est votre poste exact ?",
+        "r": "Je suis agente d'entretien."
+      },
+      {
+        "q": "Appréciez-vous votre travail ?",
+        "r": "Ça dépend des jours. Comme tout le monde, j'imagine."
+      },
+      {
+        "q": "Comment décririez-vous Éric Valmont dans le cadre professionnel ?",
+        "r": "Discret. Poli quand on lui adressait la parole."
       },
       {
         "q": "Quand l'avez-vous vu pour la dernière fois ?",
@@ -70,8 +127,20 @@
         "r": "Je voulais simplement que ma version des faits soit entendue."
       },
       {
+        "q": "Étiez-vous inquiète concernant l'issue du procès ?",
+        "r": "Oui. Forcément."
+      },
+      {
         "q": "Que faisiez-vous l'après-midi du 20 avril ?",
         "r": "Je dormais chez moi."
+      },
+      {
+        "q": "Vivez-vous seule ?",
+        "r": "Oui."
+      },
+      {
+        "q": "Quelqu'un est-il venu vous rendre visite ce jour-là ?",
+        "r": "Non."
       },
       {
         "q": "Où étiez-vous aux alentours de 23 heures ?",
@@ -82,20 +151,31 @@
         "r": "Non."
       },
       {
-        "q": "Étiez-vous stressée à l'approche du procès ?",
-        "r": "Oui, un peu."
+        "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
+        "r": "Non."
+      },
+      {
+        "q": "Avez-vous déjà eu des problèmes avec la justice auparavant ?",
+        "r": "Non."
+      },
+      {
+        "q": "Comment avez-vous appris la mort du juge Valmont ?",
+        "r": "Par des collègues du tribunal."
       },
       {
         "q": "La victime avait-elle des ennemis selon vous ?",
         "r": "Je ne sais pas. Après, au tribunal, certaines personnes parlaient souvent de problèmes dans son couple."
       },
       {
+        "q": "Pensez-vous que quelqu'un pouvait lui en vouloir ?",
+        "r": "Vu son métier, ça ne me surprendrait pas."
+      },
+      {
         "q": "Souhaitez-vous ajouter quelque chose ?",
         "r": "Oui. Maintenant que j'ai répondu à vos questions, j'aimerais qu'on me laisse tranquille."
       }
     ]
-  },
-  {
+  },  {
     "nom": "Julien Roseau",
     "dateAudition": "2026-04-27",
     "lieu": "Bordeaux",
@@ -114,6 +194,18 @@
         "r": "Franchement ? Je préférais ne pas trop y penser."
       },
       {
+        "q": "Depuis combien de temps travaillez-vous chez Idea Elec ?",
+        "r": "Presque trois ans."
+      },
+      {
+        "q": "Appréciez-vous votre travail ?",
+        "r": "Oui. Ça me plaît plutôt bien."
+      },
+      {
+        "q": "Comment s'est déroulée votre journée du 20 avril ?",
+        "r": "Normalement. Boulot, maison, puis soirée tranquille."
+      },
+      {
         "q": "Que faisiez-vous l'après-midi du 20 avril ?",
         "r": "J'étais au travail."
       },
@@ -130,8 +222,20 @@
         "r": "Enzo Calpetard et Mathis Dumas."
       },
       {
+        "q": "Depuis combien de temps les connaissez-vous ?",
+        "r": "Depuis le lycée pour Enzo. Un peu moins longtemps pour Mathis."
+      },
+      {
+        "q": "Vous voyez-vous régulièrement en dehors des jeux vidéo ?",
+        "r": "Oui, de temps en temps."
+      },
+      {
         "q": "À quel jeu jouiez-vous ?",
         "r": "FIFA."
+      },
+      {
+        "q": "Jouez-vous souvent à ce jeu ?",
+        "r": "Oui, quasiment tous les soirs."
       },
       {
         "q": "Qui a remporté la dernière partie ?",
@@ -146,6 +250,14 @@
         "r": "Pas spécialement."
       },
       {
+        "q": "Vous considérez-vous comme quelqu'un de bagarreur ?",
+        "r": "Non. J'ai fait quelques conneries plus jeune mais ça s'arrête là."
+      },
+      {
+        "q": "Comment avez-vous appris le décès du juge Valmont ?",
+        "r": "J'ai vu passer l'information sur internet."
+      },
+      {
         "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
         "r": "Non."
       },
@@ -155,6 +267,7 @@
       }
     ]
   },
+
   {
     "nom": "Jerome Touquet",
     "dateAudition": "2026-04-27",
@@ -172,6 +285,26 @@
       {
         "q": "Quel verdict pensiez-vous obtenir ?",
         "r": "J'en sais rien."
+      },
+      {
+        "q": "Depuis combien de temps êtes-vous sans emploi ?",
+        "r": "Un peu plus d'un an."
+      },
+      {
+        "q": "Comment vivez-vous financièrement ?",
+        "r": "Comme je peux."
+      },
+      {
+        "q": "Vivez-vous seul ?",
+        "r": "Oui."
+      },
+      {
+        "q": "Avez-vous de la famille dans la région ?",
+        "r": "Oui."
+      },
+      {
+        "q": "Êtes-vous proche d'eux ?",
+        "r": "Pas vraiment."
       },
       {
         "q": "Que faisiez-vous l'après-midi du 20 avril ?",
@@ -198,8 +331,20 @@
         "r": "J'avais besoin de prendre l'air."
       },
       {
+        "q": "Conduisez-vous souvent la nuit ?",
+        "r": "Ça m'arrive."
+      },
+      {
+        "q": "Pourquoi ?",
+        "r": "Parce qu'il y a moins de monde et que ça me permet de réfléchir."
+      },
+      {
         "q": "Étiez-vous stressé à l'approche du procès ?",
         "r": "Non."
+      },
+      {
+        "q": "Comment avez-vous appris la mort du juge Valmont ?",
+        "r": "Aux informations."
       },
       {
         "q": "La victime avait-elle des ennemis selon vous ?",
@@ -214,8 +359,7 @@
         "r": "Bonne soirée."
       }
     ]
-  },
-  {
+  },  {
     "nom": "Veronique Lefevre",
     "dateAudition": "2026-04-27",
     "lieu": "Bordeaux",
@@ -228,6 +372,18 @@
       {
         "q": "Pourquoi avez-vous été convoquée aujourd'hui ?",
         "r": "Parce que mon mari m'a expliqué qu'un juge avait été retrouvé mort et que vous souhaitiez vérifier son emploi du temps."
+      },
+      {
+        "q": "Depuis combien de temps êtes-vous mariés ?",
+        "r": "Vingt-deux ans."
+      },
+      {
+        "q": "Comment décririez-vous votre relation avec votre mari ?",
+        "r": "Nous sommes très proches malgré les difficultés que nous avons traversées récemment."
+      },
+      {
+        "q": "La procédure judiciaire a-t-elle eu un impact sur votre famille ?",
+        "r": "Oui. Cela a été très difficile pour nous tous."
       },
       {
         "q": "Avez-vous vu votre mari le soir du 20 avril ?",
@@ -250,11 +406,16 @@
         "r": "Non. Il était préoccupé par son procès mais rien d'inhabituel."
       },
       {
+        "q": "Semblait-il inquiet à l'approche de son jugement ?",
+        "r": "Oui, mais sans plus. C'est normal dans une telle situation."
+      },
+      {
         "q": "Souhaitez-vous ajouter quelque chose ?",
         "r": "Non."
       }
     ]
   },
+
   {
     "nom": "Enzo Calpetard",
     "dateAudition": "2026-04-27",
@@ -264,6 +425,14 @@
       {
         "q": "Pouvez-vous vous présenter ?",
         "r": "Je m'appelle Enzo Calpetard. Je connais Julien Roseau depuis plusieurs années."
+      },
+      {
+        "q": "Depuis combien de temps le connaissez-vous ?",
+        "r": "Depuis le lycée."
+      },
+      {
+        "q": "Vous considérez-vous comme proche de lui ?",
+        "r": "Oui."
       },
       {
         "q": "Étiez-vous en contact avec Julien Roseau le soir du 20 avril ?",
@@ -290,6 +459,10 @@
         "r": "Oui."
       },
       {
+        "q": "Avez-vous discuté vocalement avec lui ?",
+        "r": "Oui, pendant une bonne partie de la soirée."
+      },
+      {
         "q": "Qui a remporté la dernière partie ?",
         "r": "Moi."
       },
@@ -303,6 +476,7 @@
       }
     ]
   },
+
   {
     "nom": "Mathis Dumas",
     "dateAudition": "2026-04-27",
@@ -312,6 +486,14 @@
       {
         "q": "Pouvez-vous vous présenter ?",
         "r": "Je m'appelle Mathis Dumas. Je suis un ami de Julien Roseau."
+      },
+      {
+        "q": "Depuis combien de temps le connaissez-vous ?",
+        "r": "Quelques années maintenant."
+      },
+      {
+        "q": "Vous voyez-vous régulièrement ?",
+        "r": "Oui, assez souvent."
       },
       {
         "q": "Étiez-vous en contact avec Julien Roseau le soir du 20 avril ?",
@@ -336,6 +518,10 @@
       {
         "q": "Julien Roseau était-il présent durant toute la session ?",
         "r": "Oui."
+      },
+      {
+        "q": "Avez-vous discuté avec lui durant la soirée ?",
+        "r": "Oui, plusieurs fois."
       },
       {
         "q": "Qui a remporté la dernière partie ?",
