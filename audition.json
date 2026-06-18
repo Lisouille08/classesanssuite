@@ -47,7 +47,6 @@
       }
     ]
   },
-
   {
     "nom": "Rebecca Lopez",
     "dateAudition": "2026-04-27",
@@ -95,265 +94,261 @@
         "r": "Oui. Maintenant que j'ai répondu à vos questions, j'aimerais qu'on me laisse tranquille."
       }
     ]
+  },
+  {
+    "nom": "Julien Roseau",
+    "dateAudition": "2026-04-27",
+    "lieu": "Bordeaux",
+    "agent": "Richard Gonzalez",
+    "questions": [
+      {
+        "q": "Connaissiez-vous Éric Valmont ?",
+        "r": "Pas du tout. Je savais juste que c'était le juge chargé de mon dossier."
+      },
+      {
+        "q": "Quel était l'objet de la procédure vous concernant ?",
+        "r": "Des bagarres en sortie de boîte et quelques histoires liées à l'alcool."
+      },
+      {
+        "q": "Quel verdict pensiez-vous obtenir ?",
+        "r": "Franchement ? Je préférais ne pas trop y penser."
+      },
+      {
+        "q": "Que faisiez-vous l'après-midi du 20 avril ?",
+        "r": "J'étais au travail."
+      },
+      {
+        "q": "Où étiez-vous aux alentours de 23 heures le soir des faits ?",
+        "r": "Chez moi. Je jouais à la PlayStation."
+      },
+      {
+        "q": "Jouiez-vous seul ?",
+        "r": "Non. J'étais en ligne avec deux amis."
+      },
+      {
+        "q": "Quels sont leurs noms ?",
+        "r": "Enzo Calpetard et Mathis Dumas."
+      },
+      {
+        "q": "À quel jeu jouiez-vous ?",
+        "r": "FIFA."
+      },
+      {
+        "q": "Qui a remporté la dernière partie ?",
+        "r": "Enzo."
+      },
+      {
+        "q": "Vos amis peuvent-ils confirmer votre présence ?",
+        "r": "Oui."
+      },
+      {
+        "q": "Étiez-vous stressé à l'approche du procès ?",
+        "r": "Pas spécialement."
+      },
+      {
+        "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
+        "r": "Non."
+      },
+      {
+        "q": "Souhaitez-vous ajouter quelque chose ?",
+        "r": "Non."
+      }
+    ]
+  },
+  {
+    "nom": "Jerome Touquet",
+    "dateAudition": "2026-04-27",
+    "lieu": "Bordeaux",
+    "agent": "Richard Gonzalez",
+    "questions": [
+      {
+        "q": "Connaissiez-vous Éric Valmont ?",
+        "r": "Non."
+      },
+      {
+        "q": "Quel était l'objet de la procédure vous concernant ?",
+        "r": "Des loyers impayés. Et des prêts."
+      },
+      {
+        "q": "Quel verdict pensiez-vous obtenir ?",
+        "r": "J'en sais rien."
+      },
+      {
+        "q": "Que faisiez-vous l'après-midi du 20 avril ?",
+        "r": "J'étais chez moi."
+      },
+      {
+        "q": "Où étiez-vous aux alentours de 23 heures ?",
+        "r": "Chez moi."
+      },
+      {
+        "q": "Quelqu'un peut-il confirmer vos déclarations ?",
+        "r": "Non."
+      },
+      {
+        "q": "Possédez-vous un véhicule ?",
+        "r": "Oui. Une Renault Clio rouge."
+      },
+      {
+        "q": "Êtes-vous sorti de votre domicile durant la soirée ?",
+        "r": "Oui. Pour rouler un peu."
+      },
+      {
+        "q": "Pour quelle raison ?",
+        "r": "J'avais besoin de prendre l'air."
+      },
+      {
+        "q": "Étiez-vous stressé à l'approche du procès ?",
+        "r": "Non."
+      },
+      {
+        "q": "La victime avait-elle des ennemis selon vous ?",
+        "r": "Vu le métier qu'il faisait ? Certainement."
+      },
+      {
+        "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
+        "r": "Non."
+      },
+      {
+        "q": "Souhaitez-vous ajouter quelque chose ?",
+        "r": "Bonne soirée."
+      }
+    ]
+  },
+  {
+    "nom": "Veronique Lefevre",
+    "dateAudition": "2026-04-27",
+    "lieu": "Bordeaux",
+    "agent": "Richard Gonzalez",
+    "questions": [
+      {
+        "q": "Pouvez-vous vous présenter ?",
+        "r": "Je m'appelle Véronique Lefevre. Je suis l'épouse d'Henri Lefevre depuis vingt-deux ans."
+      },
+      {
+        "q": "Pourquoi avez-vous été convoquée aujourd'hui ?",
+        "r": "Parce que mon mari m'a expliqué qu'un juge avait été retrouvé mort et que vous souhaitiez vérifier son emploi du temps."
+      },
+      {
+        "q": "Avez-vous vu votre mari le soir du 20 avril ?",
+        "r": "Oui."
+      },
+      {
+        "q": "À quelle heure est-il rentré à son domicile ?",
+        "r": "Vers 22 heures. Peut-être quelques minutes après."
+      },
+      {
+        "q": "Est-il ressorti par la suite ?",
+        "r": "Non."
+      },
+      {
+        "q": "Que faisait-il durant la soirée ?",
+        "r": "Nous avons regardé la télévision ensemble puis nous sommes allés nous coucher."
+      },
+      {
+        "q": "Son comportement vous a-t-il semblé inhabituel ?",
+        "r": "Non. Il était préoccupé par son procès mais rien d'inhabituel."
+      },
+      {
+        "q": "Souhaitez-vous ajouter quelque chose ?",
+        "r": "Non."
+      }
+    ]
+  },
+  {
+    "nom": "Enzo Calpetard",
+    "dateAudition": "2026-04-27",
+    "lieu": "Bordeaux",
+    "agent": "Richard Gonzalez",
+    "questions": [
+      {
+        "q": "Pouvez-vous vous présenter ?",
+        "r": "Je m'appelle Enzo Calpetard. Je connais Julien Roseau depuis plusieurs années."
+      },
+      {
+        "q": "Étiez-vous en contact avec Julien Roseau le soir du 20 avril ?",
+        "r": "Oui."
+      },
+      {
+        "q": "De quelle manière ?",
+        "r": "Nous jouions ensemble en ligne."
+      },
+      {
+        "q": "À quel jeu jouiez-vous ?",
+        "r": "FIFA."
+      },
+      {
+        "q": "Qui participait à cette session ?",
+        "r": "Julien, Mathis et moi."
+      },
+      {
+        "q": "À quelle heure environ ?",
+        "r": "Entre 22 heures et minuit."
+      },
+      {
+        "q": "Julien Roseau était-il présent durant toute la session ?",
+        "r": "Oui."
+      },
+      {
+        "q": "Qui a remporté la dernière partie ?",
+        "r": "Moi."
+      },
+      {
+        "q": "Êtes-vous certain de votre réponse ?",
+        "r": "Oui."
+      },
+      {
+        "q": "Souhaitez-vous ajouter quelque chose ?",
+        "r": "Non."
+      }
+    ]
+  },
+  {
+    "nom": "Mathis Dumas",
+    "dateAudition": "2026-04-27",
+    "lieu": "Bordeaux",
+    "agent": "Richard Gonzalez",
+    "questions": [
+      {
+        "q": "Pouvez-vous vous présenter ?",
+        "r": "Je m'appelle Mathis Dumas. Je suis un ami de Julien Roseau."
+      },
+      {
+        "q": "Étiez-vous en contact avec Julien Roseau le soir du 20 avril ?",
+        "r": "Oui."
+      },
+      {
+        "q": "De quelle manière ?",
+        "r": "Nous jouions ensemble en ligne."
+      },
+      {
+        "q": "À quel jeu jouiez-vous ?",
+        "r": "FIFA."
+      },
+      {
+        "q": "Qui participait à cette session ?",
+        "r": "Julien, Enzo et moi."
+      },
+      {
+        "q": "À quelle heure environ ?",
+        "r": "Entre 22 heures et minuit."
+      },
+      {
+        "q": "Julien Roseau était-il présent durant toute la session ?",
+        "r": "Oui."
+      },
+      {
+        "q": "Qui a remporté la dernière partie ?",
+        "r": "Moi."
+      },
+      {
+        "q": "Êtes-vous certain de votre réponse ?",
+        "r": "Oui. Enfin... il me semble."
+      },
+      {
+        "q": "Souhaitez-vous ajouter quelque chose ?",
+        "r": "Non."
+      }
+    ]
   }
-],
-{
-  "nom": "Julien Roseau",
-  "dateAudition": "2026-04-27",
-  "lieu": "Bordeaux",
-  "agent": "Richard Gonzalez",
-  "questions": [
-    {
-      "q": "Connaissiez-vous Éric Valmont ?",
-      "r": "Pas du tout. Je savais juste que c'était le juge chargé de mon dossier."
-    },
-    {
-      "q": "Quel était l'objet de la procédure vous concernant ?",
-      "r": "Des bagarres en sortie de boîte et quelques histoires liées à l'alcool."
-    },
-    {
-      "q": "Quel verdict pensiez-vous obtenir ?",
-      "r": "Franchement ? Je préférais ne pas trop y penser."
-    },
-    {
-      "q": "Que faisiez-vous l'après-midi du 20 avril ?",
-      "r": "J'étais au travail."
-    },
-    {
-      "q": "Où étiez-vous aux alentours de 23 heures le soir des faits ?",
-      "r": "Chez moi. Je jouais à la PlayStation."
-    },
-    {
-      "q": "Jouiez-vous seul ?",
-      "r": "Non. J'étais en ligne avec deux amis."
-    },
-    {
-      "q": "Quels sont leurs noms ?",
-      "r": "Enzo Calpetard et Mathis Dumas."
-    },
-    {
-      "q": "À quel jeu jouiez-vous ?",
-      "r": "FIFA."
-    },
-    {
-      "q": "Qui a remporté la dernière partie ?",
-      "r": "Enzo."
-    },
-    {
-      "q": "Vos amis peuvent-ils confirmer votre présence ?",
-      "r": "Oui."
-    },
-    {
-      "q": "Étiez-vous stressé à l'approche du procès ?",
-      "r": "Pas spécialement."
-    },
-    {
-      "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
-      "r": "Non."
-    },
-    {
-      "q": "Souhaitez-vous ajouter quelque chose ?",
-      "r": "Non."
-    }
-  ]
-},
-
-{
-  "nom": "Jerome Touquet",
-  "dateAudition": "2026-04-27",
-  "lieu": "Bordeaux",
-  "agent": "Richard Gonzalez",
-  "questions": [
-    {
-      "q": "Connaissiez-vous Éric Valmont ?",
-      "r": "Non."
-    },
-    {
-      "q": "Quel était l'objet de la procédure vous concernant ?",
-      "r": "Des loyers impayés. Et des prêts."
-    },
-    {
-      "q": "Quel verdict pensiez-vous obtenir ?",
-      "r": "J'en sais rien."
-    },
-    {
-      "q": "Que faisiez-vous l'après-midi du 20 avril ?",
-      "r": "J'étais chez moi."
-    },
-    {
-      "q": "Où étiez-vous aux alentours de 23 heures ?",
-      "r": "Chez moi."
-    },
-    {
-      "q": "Quelqu'un peut-il confirmer vos déclarations ?",
-      "r": "Non."
-    },
-    {
-      "q": "Possédez-vous un véhicule ?",
-      "r": "Oui. Une Renault Clio rouge."
-    },
-    {
-      "q": "Êtes-vous sorti de votre domicile durant la soirée ?",
-      "r": "Oui. Pour rouler un peu."
-    },
-    {
-      "q": "Pour quelle raison ?",
-      "r": "J'avais besoin de prendre l'air."
-    },
-    {
-      "q": "Étiez-vous stressé à l'approche du procès ?",
-      "r": "Non."
-    },
-    {
-      "q": "La victime avait-elle des ennemis selon vous ?",
-      "r": "Vu le métier qu'il faisait ? Certainement."
-    },
-    {
-      "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
-      "r": "Non."
-    },
-    {
-      "q": "Souhaitez-vous ajouter quelque chose ?",
-      "r": "Bonne soirée."
-    }
-  ]
-},
-{
-  "nom": "Veronique Lefevre",
-  "dateAudition": "2026-04-27",
-  "lieu": "Bordeaux",
-  "agent": "Richard Gonzalez",
-  "questions": [
-    {
-      "q": "Pouvez-vous vous présenter ?",
-      "r": "Je m'appelle Véronique Lefevre. Je suis l'épouse d'Henri Lefevre depuis vingt-deux ans."
-    },
-    {
-      "q": "Pourquoi avez-vous été convoquée aujourd'hui ?",
-      "r": "Parce que mon mari m'a expliqué qu'un juge avait été retrouvé mort et que vous souhaitiez vérifier son emploi du temps."
-    },
-    {
-      "q": "Avez-vous vu votre mari le soir du 20 avril ?",
-      "r": "Oui."
-    },
-    {
-      "q": "À quelle heure est-il rentré à son domicile ?",
-      "r": "Vers 22 heures. Peut-être quelques minutes après."
-    },
-    {
-      "q": "Est-il ressorti par la suite ?",
-      "r": "Non."
-    },
-    {
-      "q": "Que faisait-il durant la soirée ?",
-      "r": "Nous avons regardé la télévision ensemble puis nous sommes allés nous coucher."
-    },
-    {
-      "q": "Son comportement vous a-t-il semblé inhabituel ?",
-      "r": "Non. Il était préoccupé par son procès mais rien d'inhabituel."
-    },
-    {
-      "q": "Souhaitez-vous ajouter quelque chose ?",
-      "r": "Non."
-    }
-  ]
-},
-
-{
-  "nom": "Enzo Calpetard",
-  "dateAudition": "2026-04-27",
-  "lieu": "Bordeaux",
-  "agent": "Richard Gonzalez",
-  "questions": [
-    {
-      "q": "Pouvez-vous vous présenter ?",
-      "r": "Je m'appelle Enzo Calpetard. Je connais Julien Roseau depuis plusieurs années."
-    },
-    {
-      "q": "Étiez-vous en contact avec Julien Roseau le soir du 20 avril ?",
-      "r": "Oui."
-    },
-    {
-      "q": "De quelle manière ?",
-      "r": "Nous jouions ensemble en ligne."
-    },
-    {
-      "q": "À quel jeu jouiez-vous ?",
-      "r": "FIFA."
-    },
-    {
-      "q": "Qui participait à cette session ?",
-      "r": "Julien, Mathis et moi."
-    },
-    {
-      "q": "À quelle heure environ ?",
-      "r": "Entre 22 heures et minuit."
-    },
-    {
-      "q": "Julien Roseau était-il présent durant toute la session ?",
-      "r": "Oui."
-    },
-    {
-      "q": "Qui a remporté la dernière partie ?",
-      "r": "Moi."
-    },
-    {
-      "q": "Êtes-vous certain de votre réponse ?",
-      "r": "Oui."
-    },
-    {
-      "q": "Souhaitez-vous ajouter quelque chose ?",
-      "r": "Non."
-    }
-  ]
-},
-
-{
-  "nom": "Mathis Dumas",
-  "dateAudition": "2026-04-27",
-  "lieu": "Bordeaux",
-  "agent": "Richard Gonzalez",
-  "questions": [
-    {
-      "q": "Pouvez-vous vous présenter ?",
-      "r": "Je m'appelle Mathis Dumas. Je suis un ami de Julien Roseau."
-    },
-    {
-      "q": "Étiez-vous en contact avec Julien Roseau le soir du 20 avril ?",
-      "r": "Oui."
-    },
-    {
-      "q": "De quelle manière ?",
-      "r": "Nous jouions ensemble en ligne."
-    },
-    {
-      "q": "À quel jeu jouiez-vous ?",
-      "r": "FIFA."
-    },
-    {
-      "q": "Qui participait à cette session ?",
-      "r": "Julien, Enzo et moi."
-    },
-    {
-      "q": "À quelle heure environ ?",
-      "r": "Entre 22 heures et minuit."
-    },
-    {
-      "q": "Julien Roseau était-il présent durant toute la session ?",
-      "r": "Oui."
-    },
-    {
-      "q": "Qui a remporté la dernière partie ?",
-      "r": "Moi."
-    },
-    {
-      "q": "Êtes-vous certain de votre réponse ?",
-      "r": "Oui. Enfin... il me semble."
-    },
-    {
-      "q": "Souhaitez-vous ajouter quelque chose ?",
-      "r": "Non."
-    }
-  ]
-}
 ]
