@@ -18,24 +18,24 @@
         "r": "Un verdict favorable. Mes avocats étaient confiants et j'estimais notre dossier solide."
       },
       {
-        "q": "Depuis combien de temps dirigez-vous votre entreprise ?",
-        "r": "Un peu plus de vingt ans maintenant."
+        "q": "Depuis combien de temps travaillez vous chez AEC Conseils ?",
+        "r": "De nombreuses années maintenant."
       },
       {
-        "q": "Votre société rencontre-t-elle actuellement des difficultés financières ?",
-        "r": "Non. Malgré la procédure en cours, l'entreprise reste parfaitement stable."
+        "q": "Cette société rencontre-t-elle actuellement des difficultés financières ?",
+        "r": "Ces informations sont sensibles et je n'ai pas le droit de les divulguer sans la présence d'un avocat."
       },
       {
         "q": "Êtes-vous marié ?",
-        "r": "Oui, depuis vingt-deux ans."
+        "r": "Oui."
       },
       {
         "q": "Avez-vous des enfants ?",
-        "r": "Oui, deux."
+        "r": "Oui."
       },
       {
         "q": "Comment votre famille a-t-elle vécu cette procédure judiciaire ?",
-        "r": "Très difficilement. Mes enfants ont notamment souffert des rumeurs qui ont circulé."
+        "r": "Très difficilement. Mes enfants ont notamment souffert des rumeurs qui ont circulé. Les parents d'élèves raffolent de ces sujets là et le font sans pitié devant leurs enfants."
       },
       {
         "q": "Que faisiez-vous l'après-midi du 20 avril ?",
@@ -52,6 +52,10 @@
       {
         "q": "Votre épouse peut-elle confirmer vos déclarations ?",
         "r": "Oui, elle était présente toute la soirée."
+      },
+      {
+        "q": "Afin que nous puissions l'auditionner, quelle est son nom ?",
+        "r": "Véronique Lefevre."
       },
       {
         "q": "Êtes-vous sorti de chez vous durant la nuit ?",
@@ -100,7 +104,7 @@
       },
       {
         "q": "Depuis combien de temps travaillez-vous au tribunal ?",
-        "r": "Environ sept ans."
+        "r": "Ce n'est pas toujours mon lieu de travail. L'entreprise pour laquelle je bosse à plusieurs chantiers. Nous on nous affecte juste à un lieu, bien sûr ça tourne. "
       },
       {
         "q": "Quel est votre poste exact ?",
@@ -108,7 +112,11 @@
       },
       {
         "q": "Appréciez-vous votre travail ?",
-        "r": "Ça dépend des jours. Comme tout le monde, j'imagine."
+        "r": "Ça dépend des jours. Comme tout le monde, j'imagine. C'est sûr que c'est pas le boulot que je rêvais de faire quand j'étais petite mais bon, faut payer les factures."
+      },
+      {
+        "q": "Quel était le métier de vos rêves ?",
+        "r": "Oula ça changeait souvent. Maîtresse, psychologue, gendarme, vétérinaire et j'en passe."
       },
       {
         "q": "Comment décririez-vous Éric Valmont dans le cadre professionnel ?",
@@ -116,7 +124,11 @@
       },
       {
         "q": "Quand l'avez-vous vu pour la dernière fois ?",
-        "r": "Je ne saurais pas vous dire exactement. Je croise beaucoup de monde dans mon travail."
+        "r": "Je ne saurais pas vous dire exactement. Mais quand je le crois c'est tout le temps sur un coup de vent. On nettoie les bureaux d'entreprises assez tard donc quand je le croisais c'est qu'il faisait des heures supp. "
+      },
+       {
+        "q": "Ca lui arrivait souvent d'en faire?",
+        "r": "Oui mais je pense que c'est la profession qui veut ça. Ses collègues restent tard aussi."
       },
       {
         "q": "Quel était l'objet de la procédure qui vous concernait ?",
@@ -148,11 +160,11 @@
       },
       {
         "q": "Quelqu'un peut-il confirmer vos déclarations ?",
-        "r": "Non."
+        "r": "J'aimerai bien mais je vous l'ai dis, j'habite seule. Personne n'était avec moi ce jour-là."
       },
       {
         "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
-        "r": "Non."
+        "r": "Non. J'en consomme pas tout court."
       },
       {
         "q": "Avez-vous déjà eu des problèmes avec la justice auparavant ?",
@@ -160,15 +172,15 @@
       },
       {
         "q": "Comment avez-vous appris la mort du juge Valmont ?",
-        "r": "Par des collègues du tribunal."
+        "r": "Par des collègues qui entretenait aussi les bureaux du tribunal."
       },
       {
         "q": "La victime avait-elle des ennemis selon vous ?",
-        "r": "Je ne sais pas. Après, au tribunal, certaines personnes parlaient souvent de problèmes dans son couple."
+        "r": "Je ne sais pas."
       },
       {
         "q": "Pensez-vous que quelqu'un pouvait lui en vouloir ?",
-        "r": "Vu son métier, ça ne me surprendrait pas."
+        "r": "Sa femme, peut-être. Je la comprendrais. Je sais ce que c'est de se faire trahir par la personne avec qui on a construit une famille."
       },
       {
         "q": "Souhaitez-vous ajouter quelque chose ?",
@@ -183,7 +195,7 @@
     "questions": [
       {
         "q": "Connaissiez-vous Éric Valmont ?",
-        "r": "Pas du tout. Je savais juste que c'était le juge chargé de mon dossier."
+        "r": "Pas du tout. J'avais même pas fait le lien que le type retrouvé mort aux infos c'était le juge qui allait tenir mon procès."
       },
       {
         "q": "Quel était l'objet de la procédure vous concernant ?",
@@ -195,7 +207,7 @@
       },
       {
         "q": "Depuis combien de temps travaillez-vous chez Idea Elec ?",
-        "r": "Presque trois ans."
+        "r": "Ca fait déjà plusieurs années."
       },
       {
         "q": "Appréciez-vous votre travail ?",
@@ -255,15 +267,15 @@
       },
       {
         "q": "Comment avez-vous appris le décès du juge Valmont ?",
-        "r": "J'ai vu passer l'information sur internet."
+        "r": "Je vous l'ai dis, j'ai vu passer l'information sur internet."
       },
       {
         "q": "Avez-vous consommé de l'alcool ou des stupéfiants ce jour-là ?",
-        "r": "Non."
+        "r": "Pas du tout."
       },
       {
         "q": "Souhaitez-vous ajouter quelque chose ?",
-        "r": "Non."
+        "r": "Non. Rien à ajouter."
       }
     ]
   },
@@ -288,7 +300,7 @@
       },
       {
         "q": "Depuis combien de temps êtes-vous sans emploi ?",
-        "r": "Un peu plus d'un an."
+        "r": "Je vois pas le rapport."
       },
       {
         "q": "Comment vivez-vous financièrement ?",
@@ -320,7 +332,7 @@
       },
       {
         "q": "Possédez-vous un véhicule ?",
-        "r": "Oui. Une Renault Clio rouge."
+        "r": "J'ai une voiture."
       },
       {
         "q": "Êtes-vous sorti de votre domicile durant la soirée ?",
@@ -344,7 +356,7 @@
       },
       {
         "q": "Comment avez-vous appris la mort du juge Valmont ?",
-        "r": "Aux informations."
+        "r": "C'est vous qui venez de me l'apprendre."
       },
       {
         "q": "La victime avait-elle des ennemis selon vous ?",
@@ -367,7 +379,7 @@
     "questions": [
       {
         "q": "Pouvez-vous vous présenter ?",
-        "r": "Je m'appelle Véronique Lefevre. Je suis l'épouse d'Henri Lefevre depuis vingt-deux ans."
+        "r": "Je m'appelle Véronique Lefevre. Je suis l'épouse d'Henri Lefevre."
       },
       {
         "q": "Pourquoi avez-vous été convoquée aujourd'hui ?",
@@ -375,7 +387,7 @@
       },
       {
         "q": "Depuis combien de temps êtes-vous mariés ?",
-        "r": "Vingt-deux ans."
+        "r": "Beaucoup trop d'années pour ne pas le connaitre par coeur et savoir qu'il ne pourrait jamais tuer un homme."
       },
       {
         "q": "Comment décririez-vous votre relation avec votre mari ?",
@@ -391,7 +403,7 @@
       },
       {
         "q": "À quelle heure est-il rentré à son domicile ?",
-        "r": "Vers 22 heures. Peut-être quelques minutes après."
+        "r": "Directement après qu'il ait fini le boulot."
       },
       {
         "q": "Est-il ressorti par la suite ?",
@@ -411,7 +423,7 @@
       },
       {
         "q": "Souhaitez-vous ajouter quelque chose ?",
-        "r": "Non."
+        "r": "Oui, j'aimerai être mise au courant de toutes accusations que vous pourrez porter contre lui. Je refuse de laisser ma moitié porter de si gros problèmes seul. Nous sommes un couple. Nous ne faisons qu'un. De ce fait, enregistrez mon numéro."
       }
     ]
   },
@@ -465,10 +477,6 @@
       {
         "q": "Qui a remporté la dernière partie ?",
         "r": "Moi."
-      },
-      {
-        "q": "Êtes-vous certain de votre réponse ?",
-        "r": "Oui."
       },
       {
         "q": "Souhaitez-vous ajouter quelque chose ?",
@@ -526,10 +534,6 @@
       {
         "q": "Qui a remporté la dernière partie ?",
         "r": "Moi."
-      },
-      {
-        "q": "Êtes-vous certain de votre réponse ?",
-        "r": "Oui. Enfin... il me semble."
       },
       {
         "q": "Souhaitez-vous ajouter quelque chose ?",
