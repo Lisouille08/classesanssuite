@@ -1,90 +1,2667 @@
 [
   {
-    "person": "alexio",
-    "avatar": "URL_ALEXIO_PORTRAIT",
+    "person": "julien",
+    "avatar": "URL_JULIEN_PORTRAIT",
     "contacts": [
       {
-        "id": "elena",
-        "name": "Elena Rossi",
-        "avatar": "URL_ELENA_PORTRAIT",
+        "id": "enzo",
+        "name": "Enzo",
+        "avatar": "URL_ENZO_PORTRAIT",
         "messages": [
-          { "from": "them", "text": "Tu as pensé à prendre ton traitement ce soir ?", "timestamp": "2024-09-13T20:12:00+02:00" },
-          { "from": "me",   "text": "Oui, je n’oublie plus depuis la dernière fois.", "timestamp": "2024-09-13T20:13:10+02:00" },
-          { "from": "them", "text": "Parfait. Et n’oublie pas que dimanche nous avons le déjeuner chez mes parents.", "timestamp": "2024-09-13T20:15:00+02:00" },
-          { "from": "me",   "text": "Oui, j’y serai. J’apporterai une bouteille de vin italien.", "timestamp": "2024-09-13T20:17:25+02:00" },
-          { "from": "them", "text": "Bonne idée. Ils apprécient toujours ça.", "timestamp": "2024-09-13T20:18:50+02:00" },
-          { "from": "me",   "text": "Ton père apprécie surtout d’avoir quelqu’un à qui parler affaires.", "timestamp": "2024-09-13T20:20:10+02:00" },
-          { "from": "them", "text": "Arrête 😅. Dors tôt ce soir, tu as l’air fatigué.", "timestamp": "2024-09-14T22:05:00+02:00" },
-          { "from": "me",   "text": "Je dors dans le train. Ne t’inquiète pas.", "timestamp": "2024-09-14T22:07:00+02:00" },
-          { "from": "them", "text": "Fais attention, tu forces trop.", "timestamp": "2024-09-14T22:08:00+02:00" },
-          { "from": "me",   "text": "Je gère. À demain ❤️", "timestamp": "2024-09-14T22:09:00+02:00" }
+          {
+            "from": "them",
+            "text": "Tu te co ce soir ?",
+            "timestamp": "2026-01-14T19:42:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui vers 21h je pense",
+            "timestamp": "2026-01-14T19:44:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Mathis est déjà chaud",
+            "timestamp": "2026-01-14T19:44:30+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Comme tous les jours quoi",
+            "timestamp": "2026-01-14T19:45:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "T'as vu le match du PSG ?",
+            "timestamp": "2026-01-22T22:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui quelle purge",
+            "timestamp": "2026-01-22T22:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "On est d'accord mdr",
+            "timestamp": "2026-01-22T22:13:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu bosses demain ?",
+            "timestamp": "2026-02-03T20:01:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui chantier à 8h",
+            "timestamp": "2026-02-03T20:03:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Force à toi",
+            "timestamp": "2026-02-03T20:03:40+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai encore perdu 40€ sur un pari",
+            "timestamp": "2026-02-11T23:22:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Arrête de parier alors 😂",
+            "timestamp": "2026-02-11T23:24:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "C'est facile à dire",
+            "timestamp": "2026-02-11T23:25:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Bar samedi ?",
+            "timestamp": "2026-02-18T18:31:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pourquoi pas",
+            "timestamp": "2026-02-18T18:33:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Mathis vient aussi",
+            "timestamp": "2026-02-18T18:34:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Ça marche",
+            "timestamp": "2026-02-18T18:35:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je crois que je vais me faire virer",
+            "timestamp": "2026-02-27T17:12:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Encore qu'est-ce que t'as fait ?",
+            "timestamp": "2026-02-27T17:14:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Rien cette fois 😒",
+            "timestamp": "2026-02-27T17:15:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu viens sur FC ?",
+            "timestamp": "2026-03-05T21:04:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'arrive",
+            "timestamp": "2026-03-05T21:05:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Dépêche on est déjà 2-0",
+            "timestamp": "2026-03-05T21:05:40+01:00"
+          },
+          {
+            "from": "them",
+            "text": "T'as une perceuse à me prêter ?",
+            "timestamp": "2026-03-12T16:17:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui passe quand tu veux",
+            "timestamp": "2026-03-12T16:18:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je passe demain",
+            "timestamp": "2026-03-12T16:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai match ce soir",
+            "timestamp": "2026-03-19T18:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Encore ?",
+            "timestamp": "2026-03-19T18:03:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Oui et on va perdre",
+            "timestamp": "2026-03-19T18:04:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Mathis a encore cassé son casque",
+            "timestamp": "2026-03-28T22:48:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Impossible 😂",
+            "timestamp": "2026-03-28T22:49:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je te jure",
+            "timestamp": "2026-03-28T22:49:40+01:00"
+          },
+          {
+            "from": "them",
+            "text": "T'as vu la météo pour ce week-end ?",
+            "timestamp": "2026-04-03T18:16:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui ça annonce de la pluie",
+            "timestamp": "2026-04-03T18:17:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "FC ce soir ?",
+            "timestamp": "2026-04-08T20:34:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui vers 21h",
+            "timestamp": "2026-04-08T20:35:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai faim",
+            "timestamp": "2026-04-14T23:01:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci pour l'info",
+            "timestamp": "2026-04-14T23:02:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je partage ma souffrance",
+            "timestamp": "2026-04-14T23:03:00+02:00"
+          }
         ]
       },
       {
-        "id": "marc",
-        "name": "Marc Delval",
-        "avatar": "URL_MARC_PORTRAIT",
+        "id": "contact_sans_nom",
+        "name": "PLACEHOLDER",
+        "avatar": "URL_AVATAR",
         "messages": [
-          { "from": "them", "text": "Nos avocats veulent avancer l’audience au 3 octobre.", "timestamp": "2024-09-10T09:12:00+02:00" },
-          { "from": "me",   "text": "Ils peuvent bien faire ce qu’ils veulent, je ne céderai pas.", "timestamp": "2024-09-10T09:15:00+02:00" },
-          { "from": "them", "text": "Tu n’as pas intérêt à ce que ça traîne non plus. Ça coûte à tout le monde.", "timestamp": "2024-09-10T09:16:30+02:00" },
-          { "from": "me",   "text": "C’est toi qui as ouvert ce conflit, pas moi.", "timestamp": "2024-09-10T09:18:00+02:00" },
-          { "from": "them", "text": "Soit. Mais Engica continue de tourner. As-tu vu le rapport Q2 ?", "timestamp": "2024-09-11T10:11:00+02:00" },
-          { "from": "me",   "text": "Oui, les chiffres sont bons. Dommage qu’on en soit arrivé là.", "timestamp": "2024-09-11T10:13:00+02:00" },
-          { "from": "them", "text": "C’était inévitable, tu le sais.", "timestamp": "2024-09-11T10:14:00+02:00" },
-          { "from": "me",   "text": "Inévitable ou pas, il faudra en assumer les conséquences.", "timestamp": "2024-09-11T10:15:00+02:00" },
-          { "from": "them", "text": "Toujours aussi théâtral. Tu viens au CA lundi ?", "timestamp": "2024-09-12T08:10:00+02:00" },
-          { "from": "me",   "text": "Oui, bien sûr. J’ai encore des choses à dire.", "timestamp": "2024-09-12T08:12:00+02:00" }
+          {
+            "from": "them",
+            "text": "T'es vivant ?",
+            "timestamp": "2026-01-17T14:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Non",
+            "timestamp": "2026-01-17T14:03:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ok repose en paix alors",
+            "timestamp": "2026-01-17T14:03:40+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai croisé Mathis ce matin",
+            "timestamp": "2026-01-24T11:12:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Et ?",
+            "timestamp": "2026-01-24T11:13:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Il avait encore oublié ses clés",
+            "timestamp": "2026-01-24T11:14:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Ça lui ressemble bien",
+            "timestamp": "2026-01-24T11:15:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "T'as vu la nouvelle carte sur FC ?",
+            "timestamp": "2026-02-06T20:27:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui elle est complètement pétée",
+            "timestamp": "2026-02-06T20:28:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ils abusent cette année",
+            "timestamp": "2026-02-06T20:29:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je passe à Talence demain",
+            "timestamp": "2026-02-14T18:01:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pourquoi faire ?",
+            "timestamp": "2026-02-14T18:02:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Aucune idée",
+            "timestamp": "2026-02-14T18:03:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu regardes le match ?",
+            "timestamp": "2026-02-21T21:18:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui",
+            "timestamp": "2026-02-21T21:18:45+01:00"
+          },
+          {
+            "from": "them",
+            "text": "On est nuls",
+            "timestamp": "2026-02-21T21:19:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Comme d'habitude",
+            "timestamp": "2026-02-21T21:20:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai encore oublié de payer mon abonnement",
+            "timestamp": "2026-03-02T17:08:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Champion du monde",
+            "timestamp": "2026-03-02T17:09:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je sais merci",
+            "timestamp": "2026-03-02T17:09:40+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ce soir je vous détruis sur FC",
+            "timestamp": "2026-03-09T19:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "On verra ça",
+            "timestamp": "2026-03-09T19:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Prépare les mouchoirs",
+            "timestamp": "2026-03-09T19:13:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je viens de voir une Clio tunée horrible",
+            "timestamp": "2026-03-17T16:47:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "C'était peut-être Jérôme 😂",
+            "timestamp": "2026-03-17T16:48:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Possible",
+            "timestamp": "2026-03-17T16:49:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "On fait quelque chose samedi ?",
+            "timestamp": "2026-03-26T18:24:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Bar peut-être",
+            "timestamp": "2026-03-26T18:25:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ça me va",
+            "timestamp": "2026-03-26T18:26:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Mathis est déjà connecté",
+            "timestamp": "2026-04-02T20:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Impossible",
+            "timestamp": "2026-04-02T20:43:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je te jure",
+            "timestamp": "2026-04-02T20:43:30+02:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai commandé une pizza",
+            "timestamp": "2026-04-07T20:06:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci pour cette information capitale",
+            "timestamp": "2026-04-07T20:07:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je fais ma part",
+            "timestamp": "2026-04-07T20:08:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je vais dormir",
+            "timestamp": "2026-04-15T00:11:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Bonne nuit papi",
+            "timestamp": "2026-04-15T00:12:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Va te faire voir 😂",
+            "timestamp": "2026-04-15T00:13:00+02:00"
+          }
         ]
       },
       {
-        "id": "evelyne",
-        "name": "Evelyne Lambert",
-        "avatar": "URL_EVELYNE_PORTRAIT",
+        "id": "maman",
+        "name": "Maman",
+        "avatar": "URL_MAMAN_PORTRAIT",
         "messages": [
-          { "from": "them", "text": "Je l’ai aperçu à l’université hier.", "timestamp": "2024-09-09T16:22:00+02:00" },
-          { "from": "me",   "text": "Je sais… inutile de revenir là-dessus.", "timestamp": "2024-09-09T16:24:00+02:00" },
-          { "from": "them", "text": "Il a beaucoup grandi. Tu ne trouves pas ?", "timestamp": "2024-09-09T16:25:00+02:00" },
-          { "from": "me",   "text": "Arrête. Tu sais que c’est compliqué.", "timestamp": "2024-09-09T16:26:00+02:00" },
-          { "from": "them", "text": "Un jour tu devras lui dire quelque chose.", "timestamp": "2024-09-09T16:27:00+02:00" },
-          { "from": "me",   "text": "Peut-être… mais pas maintenant.", "timestamp": "2024-09-09T16:28:00+02:00" }
+          {
+            "from": "them",
+            "text": "Tu as pensé à manger ce midi ?",
+            "timestamp": "2026-01-11T12:41:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui maman",
+            "timestamp": "2026-01-11T12:44:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "N'oublie pas ton rendez-vous chez le dentiste demain.",
+            "timestamp": "2026-01-23T19:08:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je sais",
+            "timestamp": "2026-01-23T19:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu viens dimanche ?",
+            "timestamp": "2026-02-04T18:27:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui normalement",
+            "timestamp": "2026-02-04T18:31:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Fais attention sur la route avec toute cette pluie.",
+            "timestamp": "2026-02-18T08:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "T'inquiète",
+            "timestamp": "2026-02-18T08:04:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai fait une tartiflette ce soir.",
+            "timestamp": "2026-03-07T17:18:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'arrive",
+            "timestamp": "2026-03-07T17:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ton frère demande de tes nouvelles.",
+            "timestamp": "2026-03-19T20:14:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Dis-lui que je vais bien.",
+            "timestamp": "2026-03-19T20:15:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu travailles encore ce week-end ?",
+            "timestamp": "2026-04-05T18:11:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Non pour une fois",
+            "timestamp": "2026-04-05T18:12:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu pourrais passer prendre un café un de ces jours.",
+            "timestamp": "2026-04-11T16:43:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui faut que je passe",
+            "timestamp": "2026-04-11T16:45:00+02:00"
+          }
         ]
       },
       {
-        "id": "inconnu",
-        "name": "Inconnu",
+        "id": "papa",
+        "name": "Papa",
+        "avatar": "URL_PAPA_PORTRAIT",
+        "messages": [
+          {
+            "from": "me",
+            "text": "Bonne année.",
+            "timestamp": "2026-01-01T11:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Bonne année à toi.",
+            "timestamp": "2026-01-01T14:48:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Bon anniversaire.",
+            "timestamp": "2026-01-09T08:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci.",
+            "timestamp": "2026-01-09T08:41:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Comment va la voiture ?",
+            "timestamp": "2026-02-16T18:04:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Bien.",
+            "timestamp": "2026-02-16T18:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu travailles toujours chez Idea Elec ?",
+            "timestamp": "2026-03-08T09:15:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-03-08T09:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "D'accord.",
+            "timestamp": "2026-03-08T09:20:00+01:00"
+          }
+        ]
+      },
+      {
+        "id": "playstation",
+        "name": "PlayStation",
+        "avatar": "URL_PLAYSTATION_AVATAR",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Votre abonnement PlayStation Plus a été renouvelé.",
+            "timestamp": "2026-01-03T04:01:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "MathisDumas vous a envoyé une invitation de jeu.",
+            "timestamp": "2026-02-07T21:17:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "EnzoC a rejoint votre groupe.",
+            "timestamp": "2026-02-19T21:05:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "FC 26 est disponible en téléchargement.",
+            "timestamp": "2026-03-01T11:22:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Votre espace de stockage est presque plein.",
+            "timestamp": "2026-03-16T07:42:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "MathisDumas vous a envoyé une invitation de jeu.",
+            "timestamp": "2026-04-09T20:58:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "sarah",
+        "name": "Sarah Lopez",
+        "avatar": "URL_SARAH_PORTRAIT",
+        "messages": [
+          {
+            "from": "me",
+            "text": "Salut 🙂",
+            "timestamp": "2026-02-03T19:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Salut 😊",
+            "timestamp": "2026-02-03T19:48:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Comment va ta semaine ?",
+            "timestamp": "2026-02-03T19:50:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ça va, beaucoup de boulot 😅 Et toi ?",
+            "timestamp": "2026-02-03T20:17:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pareil, les chantiers n'arrêtent pas.",
+            "timestamp": "2026-02-03T20:19:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Au fait, tu fais quoi comme travail ?",
+            "timestamp": "2026-02-07T18:31:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je travaille dans le commerce 🙂",
+            "timestamp": "2026-02-07T21:05:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Ça doit être plus fatigant que ça en a l'air.",
+            "timestamp": "2026-02-07T21:11:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Les clients surtout 😂",
+            "timestamp": "2026-02-07T21:15:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu regardes des séries ?",
+            "timestamp": "2026-02-14T20:04:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Oui pas mal, surtout Netflix.",
+            "timestamp": "2026-02-15T09:37:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Il faut que tu m'en conseilles une alors 😄",
+            "timestamp": "2026-02-15T09:42:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Outer Banks si tu connais pas.",
+            "timestamp": "2026-02-15T09:45:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je viens seulement de finir le boulot.",
+            "timestamp": "2026-02-26T18:23:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Bonne douche et canapé alors 😂",
+            "timestamp": "2026-02-26T18:46:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "C'est exactement le programme.",
+            "timestamp": "2026-02-26T18:48:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu fais quoi de beau ce week-end ?",
+            "timestamp": "2026-03-05T17:41:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Rien de prévu, je vais sûrement voir des potes.",
+            "timestamp": "2026-03-05T17:46:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Profites-en 😄",
+            "timestamp": "2026-03-05T17:48:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai commencé Outer Banks 😅",
+            "timestamp": "2026-03-16T20:22:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Alors ? 😁",
+            "timestamp": "2026-03-16T21:01:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Franchement j'accroche bien.",
+            "timestamp": "2026-03-16T21:03:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je t'avais dit 😎",
+            "timestamp": "2026-03-16T21:05:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu as prévu quelque chose pour les beaux jours ?",
+            "timestamp": "2026-04-04T18:17:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "J'aimerais bien partir quelques jours à la mer.",
+            "timestamp": "2026-04-04T19:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Ça donne envie 😅",
+            "timestamp": "2026-04-04T19:44:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Au fait, bon courage pour ta semaine 🙂",
+            "timestamp": "2026-04-10T08:14:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci ! Toi aussi 😊",
+            "timestamp": "2026-04-10T08:21:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "J'espère que tu passes une bonne journée.",
+            "timestamp": "2026-04-15T17:36:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Oui merci 😄 Et toi ?",
+            "timestamp": "2026-04-15T18:19:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Fatigué mais ça va 😂",
+            "timestamp": "2026-04-15T18:22:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "xavier",
+        "name": "Xavier Martin",
+        "avatar": "URL_XAVIER_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "T'as pris le stock de gaines ce matin ?",
+            "timestamp": "2026-01-15T07:12:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui il est dans le camion",
+            "timestamp": "2026-01-15T07:14:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le client a encore changé d'avis",
+            "timestamp": "2026-02-04T10:44:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Comme d'habitude",
+            "timestamp": "2026-02-04T10:45:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu sais brancher un télérupteur Schneider ?",
+            "timestamp": "2026-02-23T16:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui je t'envoie une photo après",
+            "timestamp": "2026-02-23T16:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Pause café ?",
+            "timestamp": "2026-03-03T09:54:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Toujours",
+            "timestamp": "2026-03-03T09:55:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le chantier de Mérignac est enfin terminé",
+            "timestamp": "2026-03-18T17:18:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pas trop tôt",
+            "timestamp": "2026-03-18T17:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu bosses vendredi ?",
+            "timestamp": "2026-04-08T18:41:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui normalement",
+            "timestamp": "2026-04-08T18:42:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai encore oublié mon casse-croûte",
+            "timestamp": "2026-04-15T11:48:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Ça devient une habitude",
+            "timestamp": "2026-04-15T11:49:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "eric",
+        "name": "Eric Moreau",
+        "avatar": "URL_ERIC_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "N'oublie pas le chantier de Pessac demain.",
+            "timestamp": "2026-01-12T17:14:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "C'est noté.",
+            "timestamp": "2026-01-12T17:18:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le fournisseur passe à 8h.",
+            "timestamp": "2026-02-02T18:26:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je serai là.",
+            "timestamp": "2026-02-02T18:28:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Merci pour le chantier de la semaine dernière.",
+            "timestamp": "2026-02-25T17:41:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pas de souci.",
+            "timestamp": "2026-02-25T17:43:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu peux récupérer du matériel demain matin ?",
+            "timestamp": "2026-03-09T18:03:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-03-09T18:05:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai reçu les nouveaux plannings.",
+            "timestamp": "2026-03-30T16:12:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu peux me les transférer ?",
+            "timestamp": "2026-03-30T16:13:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu commences à 9h jeudi.",
+            "timestamp": "2026-04-10T17:06:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Parfait.",
+            "timestamp": "2026-04-10T17:07:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Pense à compléter ta feuille d'heures.",
+            "timestamp": "2026-04-16T18:19:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je le fais ce soir.",
+            "timestamp": "2026-04-16T18:21:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "mathis",
+        "name": "Mathis Dumas",
+        "avatar": "URL_MATHIS_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Tu te co ?",
+            "timestamp": "2026-01-08T20:14:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Dans 10 min",
+            "timestamp": "2026-01-08T20:15:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ptn je me suis fait ban 24h 💀",
+            "timestamp": "2026-01-19T22:31:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Encore ?? T'as insulté qui cette fois ?",
+            "timestamp": "2026-01-19T22:32:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Personne... enfin presque 😂",
+            "timestamp": "2026-01-19T22:33:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Viens on lance une classée",
+            "timestamp": "2026-02-02T21:06:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Invite",
+            "timestamp": "2026-02-02T21:07:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai ouvert un pack de zinzin",
+            "timestamp": "2026-02-11T19:54:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Montre",
+            "timestamp": "2026-02-11T19:55:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je t'envoie la capture",
+            "timestamp": "2026-02-11T19:56:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "On est déjà 3 dans le groupe",
+            "timestamp": "2026-02-26T20:47:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'arrive faut que je mange vite",
+            "timestamp": "2026-02-26T20:48:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Nan mais t'es éclaté à FC 😂",
+            "timestamp": "2026-03-05T22:18:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Parle pas toi tu prends City",
+            "timestamp": "2026-03-05T22:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Les vrais savent 😎",
+            "timestamp": "2026-03-05T22:20:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le serveur est encore down",
+            "timestamp": "2026-03-14T21:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "EA c'est vraiment des peintres",
+            "timestamp": "2026-03-14T21:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu joues à quoi en ce moment ?",
+            "timestamp": "2026-03-29T18:07:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Que FC et COD",
+            "timestamp": "2026-03-29T18:08:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Viens vocal",
+            "timestamp": "2026-04-06T20:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "2 min",
+            "timestamp": "2026-04-06T20:43:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Ptn j'ai cassé mon casque 😭",
+            "timestamp": "2026-04-11T22:56:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Encore ??? 😂",
+            "timestamp": "2026-04-11T22:57:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Il a volé tout seul contre le mur 😅",
+            "timestamp": "2026-04-11T22:58:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Ce soir on fait que des matchs à 3 ?",
+            "timestamp": "2026-04-16T19:18:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Carrément",
+            "timestamp": "2026-04-16T19:19:00+02:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "jerome",
+    "avatar": "URL_JEROME_PORTRAIT",
+    "contacts": [
+      {
+        "id": "0664837437",
+        "name": "06 64 83 74 37",
         "avatar": "URL_GENERIC_AVATAR",
         "messages": [
-          { "from": "them", "text": "Je n’aurais jamais dû te donner mon numéro.", "timestamp": "2024-09-08T21:05:00+02:00" },
-          { "from": "me",   "text": "Trop tard. Je sais ce que tu fais à la SNCF.", "timestamp": "2024-09-08T21:07:00+02:00" },
-          { "from": "them", "text": "Parle pas de ça, je peux me faire virer !", "timestamp": "2024-09-08T21:09:00+02:00" },
-          { "from": "me",   "text": "Alors arrête tes combines avant que ça n’explose.", "timestamp": "2024-09-08T21:10:30+02:00" },
-          { "from": "them", "text": "Tu crois que c’est facile ? J’ai des dettes partout.", "timestamp": "2024-09-08T21:12:00+02:00" },
-          { "from": "me",   "text": "Tes dettes, ça ne me regarde pas.", "timestamp": "2024-09-08T21:13:20+02:00" },
-          { "from": "them", "text": "Si tu parles, c’est fini pour moi.", "timestamp": "2024-09-08T21:15:00+02:00" },
-          { "from": "me",   "text": "Alors tiens-toi à carreau.", "timestamp": "2024-09-08T21:16:30+02:00" },
-          { "from": "them", "text": "Je ne me laisserai pas couler seul. Tu me comprends ?", "timestamp": "2024-09-08T21:18:00+02:00" },
-          { "from": "me",   "text": "Fais ce que tu veux. Mais tôt ou tard, tout se paie.", "timestamp": "2024-09-08T21:20:00+02:00" },
-          { "from": "them", "text": "Tu verras bien ce soir.", "timestamp": "2024-09-14T21:12:00+02:00" }
+          {
+            "from": "them",
+            "text": "Oublie pas.",
+            "timestamp": "2026-04-09T18:42:00+02:00"
+          }
         ]
       },
       {
-        "id": "giorgio",
-        "name": "Giorgio Bianchi",
-        "avatar": "URL_AMI_PORTRAIT",
+        "id": "0747483742",
+        "name": "07 47 48 37 42",
+        "avatar": "URL_GENERIC_AVATAR",
         "messages": [
-          { "from": "me",   "text": "Toujours partant pour le yacht dimanche ?", "timestamp": "2024-09-11T18:45:00+02:00" },
-          { "from": "them", "text": "Évidemment ! Et tu t’occupes du champagne.", "timestamp": "2024-09-11T18:47:00+02:00" },
-          { "from": "me",   "text": "J’amène trois caisses, ça suffira ?", "timestamp": "2024-09-11T18:48:30+02:00" },
-          { "from": "them", "text": "Parfait. Et prépare ton maillot, cette fois tu viens nager.", "timestamp": "2024-09-11T18:49:00+02:00" },
-          { "from": "me",   "text": "On verra, l’eau de septembre est glaciale.", "timestamp": "2024-09-11T18:50:00+02:00" },
-          { "from": "them", "text": "Trop tard, j’ai parié que tu plongerais.", "timestamp": "2024-09-11T18:51:30+02:00" },
-          { "from": "me",   "text": "Encore un pari ? Décidément.", "timestamp": "2024-09-11T18:53:00+02:00" },
-          { "from": "them", "text": "Tu verras, ça te fera du bien.", "timestamp": "2024-09-11T18:54:00+02:00" }
+          {
+            "from": "me",
+            "text": "Je suis sur place.",
+            "timestamp": "2026-04-11T20:17:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Bien reçu.",
+            "timestamp": "2026-04-11T20:18:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "0642476638",
+        "name": "06 42 47 66 38",
+        "avatar": "URL_GENERIC_AVATAR",
+        "messages": [
+          {
+            "from": "them",
+            "text": "T'as reçu ?",
+            "timestamp": "2026-04-13T16:08:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "0665856483",
+        "name": "06 65 85 64 83",
+        "avatar": "URL_GENERIC_AVATAR",
+        "messages": [
+          {
+            "from": "me",
+            "text": "Je le sens pas.",
+            "timestamp": "2026-04-14T21:54:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "0763480137",
+        "name": "07 63 48 01 37",
+        "avatar": "URL_GENERIC_AVATAR",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Y en a pour combien ?",
+            "timestamp": "2026-04-16T11:26:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je dirais 4000€.",
+            "timestamp": "2026-04-16T11:29:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "0701463890",
+        "name": "07 01 46 38 90",
+        "avatar": "URL_GENERIC_AVATAR",
+        "messages": [
+          {
+            "from": "me",
+            "text": "C'est bon.",
+            "timestamp": "2026-04-17T17:43:00+02:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "rebecca",
+    "avatar": "URL_REBECCA_PORTRAIT",
+    "contacts": [
+      {
+        "id": "mon_amour",
+        "name": "Mon amour ❤️",
+        "avatar": "URL_MON_AMOUR_PORTRAIT",
+        "messages": [
+          {
+            "from": "me",
+            "text": "Salut... J'espère que tu vas bien.",
+            "timestamp": "2026-01-03T19:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Oui merci.",
+            "timestamp": "2026-01-03T20:41:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu me manques...",
+            "timestamp": "2026-01-06T21:08:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Rebecca, je t'ai déjà demandé d'arrêter.",
+            "timestamp": "2026-01-06T22:17:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je voulais juste savoir comment tu allais.",
+            "timestamp": "2026-01-06T22:20:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai encore rêvé de nous cette nuit.",
+            "timestamp": "2026-01-10T00:18:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Il faut que tu avances.",
+            "timestamp": "2026-01-10T08:41:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Comment tu veux que j'avance sans toi ?",
+            "timestamp": "2026-01-10T08:44:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je repense tout le temps à notre voyage à Arcachon...",
+            "timestamp": "2026-01-14T22:02:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ces souvenirs appartiennent au passé.",
+            "timestamp": "2026-01-15T08:23:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pas pour moi.",
+            "timestamp": "2026-01-15T08:24:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu pourrais au moins répondre plus souvent...",
+            "timestamp": "2026-01-20T19:15:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Chaque réponse te donne de faux espoirs.",
+            "timestamp": "2026-01-20T20:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Parce que j'espère encore...",
+            "timestamp": "2026-01-20T20:05:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai gardé toutes nos photos.",
+            "timestamp": "2026-01-27T22:41:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Moi non.",
+            "timestamp": "2026-01-28T08:37:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Ça fait mal de lire ça...",
+            "timestamp": "2026-01-28T08:40:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je peux changer, je te le promets.",
+            "timestamp": "2026-02-02T18:54:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le problème n'est pas là.",
+            "timestamp": "2026-02-02T20:21:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Alors c'est quoi le problème ?",
+            "timestamp": "2026-02-02T20:23:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je ne t'aime plus comme avant.",
+            "timestamp": "2026-02-02T20:31:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Moi je t'aime toujours autant...",
+            "timestamp": "2026-02-02T20:35:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je pense à toi tous les jours.",
+            "timestamp": "2026-02-09T22:17:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Même au travail j'arrive pas à penser à autre chose.",
+            "timestamp": "2026-02-09T22:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Rebecca, ce n'est plus sain.",
+            "timestamp": "2026-02-10T07:52:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu crois que j'ai choisi d'être comme ça ?",
+            "timestamp": "2026-02-10T07:55:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai encore ton pull chez moi.",
+            "timestamp": "2026-02-18T21:48:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu peux le jeter.",
+            "timestamp": "2026-02-19T09:06:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Jamais.",
+            "timestamp": "2026-02-19T09:08:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu étais toute ma vie...",
+            "timestamp": "2026-03-01T23:27:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Il faut vraiment que tu tournes la page.",
+            "timestamp": "2026-03-02T08:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je n'y arrive pas.",
+            "timestamp": "2026-03-02T08:14:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je t'aimerai toujours.",
+            "timestamp": "2026-03-11T22:56:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je suis désolé Rebecca.",
+            "timestamp": "2026-03-12T07:45:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu me détestes vraiment ?",
+            "timestamp": "2026-03-15T21:43:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Non. Mais je ne veux plus être avec toi.",
+            "timestamp": "2026-03-16T08:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pourtant je nous revois encore tous les deux...",
+            "timestamp": "2026-03-16T08:06:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai relu toutes nos anciennes conversations hier soir.",
+            "timestamp": "2026-03-18T22:18:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu te fais du mal pour rien.",
+            "timestamp": "2026-03-19T08:24:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je donnerais tout pour revivre une seule journée avec toi.",
+            "timestamp": "2026-03-19T08:28:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu penses encore parfois à moi ?",
+            "timestamp": "2026-03-22T20:51:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Bien sûr que oui. On a partagé beaucoup d'années. Mais ça ne veut pas dire que je veux revenir.",
+            "timestamp": "2026-03-22T21:36:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'aurais préféré que tu me détestes plutôt que ça...",
+            "timestamp": "2026-03-22T21:40:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je me demande souvent ce que j'ai raté.",
+            "timestamp": "2026-03-26T23:02:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ce n'est pas une question de faute. Les sentiments changent.",
+            "timestamp": "2026-03-27T07:57:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Les miens n'ont jamais changé...",
+            "timestamp": "2026-03-27T08:01:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai encore ton numéro enregistré 'Mon amour'. Je n'arrive pas à le changer.",
+            "timestamp": "2026-04-01T21:14:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Rebecca...",
+            "timestamp": "2026-04-01T21:36:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je sais que tu trouves ça ridicule.",
+            "timestamp": "2026-04-01T21:38:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai essayé de rencontrer quelqu'un. J'ai tenu dix minutes avant de rentrer chez moi.",
+            "timestamp": "2026-04-04T22:11:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu devrais peut-être voir quelqu'un pour t'aider.",
+            "timestamp": "2026-04-05T08:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "La seule personne qui pourrait m'aider, c'est toi.",
+            "timestamp": "2026-04-05T08:46:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Ce n'est plus possible.",
+            "timestamp": "2026-04-05T08:48:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu as déjà aimé quelqu'un d'autre que moi ?",
+            "timestamp": "2026-04-09T20:37:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Rebecca... n'insiste pas.",
+            "timestamp": "2026-04-09T21:10:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je voudrais juste comprendre comment on peut arrêter d'aimer quelqu'un du jour au lendemain.",
+            "timestamp": "2026-04-09T21:14:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je passe devant notre ancien appartement parfois...",
+            "timestamp": "2026-04-13T22:24:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Arrête de vivre dans le passé.",
+            "timestamp": "2026-04-14T08:16:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "J'essaie... mais je n'y arrive vraiment pas.",
+            "timestamp": "2026-04-14T08:20:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu me manques chaque jour un peu plus.",
+            "timestamp": "2026-04-16T22:41:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je te souhaite sincèrement d'être heureuse un jour.",
+            "timestamp": "2026-04-17T08:03:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Ce jour-là ne viendra jamais sans toi.",
+            "timestamp": "2026-04-17T08:07:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je sais que tu ne veux plus me répondre...",
+            "timestamp": "2026-04-17T19:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Mais je t'aime toujours autant.",
+            "timestamp": "2026-04-17T19:43:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Rebecca... je te l'ai déjà dit. Il faut que tu avances.",
+            "timestamp": "2026-04-17T20:11:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Comment tu veux que j'avance alors que toi tu m'as remplacée ?",
+            "timestamp": "2026-04-17T20:14:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je ne t'ai remplacée par personne. Notre histoire est juste terminée.",
+            "timestamp": "2026-04-17T20:19:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Pour moi elle ne sera jamais terminée...",
+            "timestamp": "2026-04-17T20:21:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu étais toute ma vie...",
+            "timestamp": "2026-04-17T20:58:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu dois arrêter de dire ça.",
+            "timestamp": "2026-04-17T21:12:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu penses encore parfois à nous ?",
+            "timestamp": "2026-04-17T21:15:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Bien sûr que j'y pense. On a partagé une partie de notre vie. Mais je ne reviendrai pas.",
+            "timestamp": "2026-04-17T21:34:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "J'aurais préféré que tu me détestes...",
+            "timestamp": "2026-04-17T21:36:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je ne te déteste pas. Je veux juste vivre ma vie.",
+            "timestamp": "2026-04-17T21:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je regarde encore toutes nos photos...",
+            "timestamp": "2026-04-17T22:11:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu devrais les supprimer. Elles t'empêchent d'avancer.",
+            "timestamp": "2026-04-17T22:29:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je préfère souffrir que t'oublier.",
+            "timestamp": "2026-04-17T22:31:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Ne contacte plus Claire, s'il te plaît.",
+            "timestamp": "2026-04-17T22:46:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je voulais juste savoir qui elle était...",
+            "timestamp": "2026-04-17T22:48:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu lui fais peur. Elle n'a rien demandé.",
+            "timestamp": "2026-04-17T22:52:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je suis désolée...",
+            "timestamp": "2026-04-17T22:54:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je sais que tu n'es pas méchante. Tu souffres. Mais il faut vraiment arrêter.",
+            "timestamp": "2026-04-17T23:02:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je t'aimerai jusqu'à mon dernier souffle.",
+            "timestamp": "2026-04-17T23:05:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "J'espère qu'un jour tu rencontreras quelqu'un qui te rendra heureuse.",
+            "timestamp": "2026-04-17T23:17:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je ne veux personne d'autre.",
+            "timestamp": "2026-04-17T23:19:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Bonne nuit... je t'aime.",
+            "timestamp": "2026-04-17T23:58:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "salope",
+        "name": "salope",
+        "avatar": "URL_GENERIC_AVATAR",
+        "messages": [
+          {
+            "from": "me",
+            "text": "C'est toi sa nouvelle pouffiasse ?",
+            "timestamp": "2026-04-11T19:26:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "amina",
+        "name": "Amina",
+        "avatar": "URL_AMINA_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Elle est encore en pause café ?",
+            "timestamp": "2026-03-04T10:16:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Évidemment... Sabrina travaille 30 minutes par jour.",
+            "timestamp": "2026-03-04T10:18:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Et après elle vient donner des leçons 😂",
+            "timestamp": "2026-03-04T10:19:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Elle est forte pour ça.",
+            "timestamp": "2026-03-04T10:20:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le chef ne voit jamais rien.",
+            "timestamp": "2026-03-29T15:41:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Ou alors il fait semblant 😂",
+            "timestamp": "2026-03-29T15:42:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Elle est encore arrivée en retard ce matin.",
+            "timestamp": "2026-04-08T08:37:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Comme tous les matins finalement.",
+            "timestamp": "2026-04-08T08:38:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu crois qu'elle sait où sont rangés les balais ? 😂",
+            "timestamp": "2026-04-15T18:24:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je crois qu'elle ne les a jamais vus.",
+            "timestamp": "2026-04-15T18:26:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Demain on va encore faire son boulot...",
+            "timestamp": "2026-04-17T17:31:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Ça change pas de d'habitude 😒",
+            "timestamp": "2026-04-17T17:33:00+02:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "henri",
+    "avatar": "URL_HENRI_PORTRAIT",
+    "contacts": [
+      {
+        "id": "ma_femme",
+        "name": "Ma femme ❤️",
+        "avatar": "URL_MA_FEMME_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Tu as bien pensé au spectacle de Léa vendredi ?",
+            "timestamp": "2026-01-05T18:21:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui, je quitterai le bureau un peu plus tôt.",
+            "timestamp": "2026-01-05T18:28:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Elle sera tellement contente de te voir.",
+            "timestamp": "2026-01-05T18:30:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je ne raterais ça pour rien au monde.",
+            "timestamp": "2026-01-05T18:33:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je vais rentrer un peu plus tard ce soir, réunion qui s'éternise.",
+            "timestamp": "2026-01-14T18:42:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Pas de souci, je garde ton assiette au chaud ❤️",
+            "timestamp": "2026-01-14T18:44:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Il n'y a plus de café.",
+            "timestamp": "2026-01-22T17:09:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'en prendrai en rentrant.",
+            "timestamp": "2026-01-22T17:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu peux aussi prendre du lait et des céréales pour les enfants ?",
+            "timestamp": "2026-01-22T17:13:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "C'est noté.",
+            "timestamp": "2026-01-22T17:14:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu stresses encore pour le dossier de la semaine prochaine ?",
+            "timestamp": "2026-02-02T20:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Un peu... C'est un client important.",
+            "timestamp": "2026-02-02T20:13:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu as toujours réussi. Celui-là ne sera pas différent.",
+            "timestamp": "2026-02-02T20:15:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci... Ça me rassure de t'entendre dire ça.",
+            "timestamp": "2026-02-02T20:17:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Nathan a besoin d'une nouvelle paire de baskets.",
+            "timestamp": "2026-02-11T18:37:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "On ira samedi tous les quatre.",
+            "timestamp": "2026-02-11T18:40:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je pense qu'on pourra enfin partir quelques jours cet été.",
+            "timestamp": "2026-02-25T21:16:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Les enfants vont être ravis 😍",
+            "timestamp": "2026-02-25T21:18:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu n'oublies pas la réunion parents-professeurs demain ?",
+            "timestamp": "2026-03-09T19:04:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Impossible d'oublier avec tous tes rappels 😄",
+            "timestamp": "2026-03-09T19:06:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Comment s'est passée ta journée ?",
+            "timestamp": "2026-03-23T18:56:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Fatiguante... Beaucoup de rendez-vous aujourd'hui.",
+            "timestamp": "2026-03-23T18:59:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Repose-toi ce soir. Tu en fais toujours trop.",
+            "timestamp": "2026-03-23T19:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'essaierai ❤️",
+            "timestamp": "2026-03-23T19:04:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Le procès approche... Je ne te cache pas que je commence à le sentir.",
+            "timestamp": "2026-04-07T21:11:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu t'es préparé pendant des semaines. Fais-toi confiance.",
+            "timestamp": "2026-04-07T21:14:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "J'espère être à la hauteur.",
+            "timestamp": "2026-04-07T21:16:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu l'es toujours. Peu importe le résultat, je serai fière de toi.",
+            "timestamp": "2026-04-07T21:19:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu as pu manger ce midi au moins ?",
+            "timestamp": "2026-04-08T13:04:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Rapidement entre deux rendez-vous.",
+            "timestamp": "2026-04-08T13:11:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu devrais lever un peu le pied...",
+            "timestamp": "2026-04-08T13:12:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Après ce gros dossier, promis.",
+            "timestamp": "2026-04-08T13:15:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Nathan a encore oublié son sac de sport 😂",
+            "timestamp": "2026-04-10T17:24:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Il tient de son père...",
+            "timestamp": "2026-04-10T17:26:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je confirme 😄",
+            "timestamp": "2026-04-10T17:27:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je risque encore de finir tard ce soir.",
+            "timestamp": "2026-04-13T18:07:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Ne t'inquiète pas, on t'attendra pour dîner.",
+            "timestamp": "2026-04-13T18:09:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci ❤️",
+            "timestamp": "2026-04-13T18:10:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Léa aimerait que tu viennes la voir répéter son spectacle.",
+            "timestamp": "2026-04-14T18:02:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je vais faire mon maximum.",
+            "timestamp": "2026-04-14T18:04:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Elle sera tellement heureuse si tu peux venir.",
+            "timestamp": "2026-04-14T18:05:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu veux que je prépare quelque chose de particulier ce week-end ?",
+            "timestamp": "2026-04-15T11:53:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Une raclette en avril ? 😄",
+            "timestamp": "2026-04-15T11:56:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu serais capable de dire oui 😂",
+            "timestamp": "2026-04-15T11:58:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Évidemment.",
+            "timestamp": "2026-04-15T11:59:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai acheté les places pour le zoo le mois prochain.",
+            "timestamp": "2026-04-16T19:14:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Les enfants vont adorer.",
+            "timestamp": "2026-04-16T19:17:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Moi aussi je suis impatiente 😊",
+            "timestamp": "2026-04-16T19:19:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je ne te le dis sûrement pas assez...",
+            "timestamp": "2026-04-17T21:06:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Quoi donc ? ❤️",
+            "timestamp": "2026-04-17T21:07:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci d'être toujours là pour moi.",
+            "timestamp": "2026-04-17T21:08:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je le serai toujours.",
+            "timestamp": "2026-04-17T21:09:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je t'aime.",
+            "timestamp": "2026-04-17T21:10:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Moi aussi. Plus que tout ❤️",
+            "timestamp": "2026-04-17T21:11:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "louis",
+        "name": "Louis Berger",
+        "avatar": "URL_LOUIS_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Alors, comment ça se passe chez AEC ?",
+            "timestamp": "2026-01-09T18:12:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pas mal, beaucoup de rendez-vous en ce moment.",
+            "timestamp": "2026-01-09T18:15:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Toujours aussi débordé 😄",
+            "timestamp": "2026-01-09T18:16:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "On se fait un resto la semaine prochaine ?",
+            "timestamp": "2026-02-01T11:27:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Avec plaisir, ça fait longtemps.",
+            "timestamp": "2026-02-01T11:31:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je réserve alors.",
+            "timestamp": "2026-02-01T11:33:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu as déjà réfléchi aux vacances de cet été ?",
+            "timestamp": "2026-02-18T20:08:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Claire veut retourner en Corse.",
+            "timestamp": "2026-02-18T20:14:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "On avait adoré la dernière fois.",
+            "timestamp": "2026-02-18T20:16:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu te souviens de notre randonnée près de Bonifacio ?",
+            "timestamp": "2026-03-03T19:22:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Et de ton coup de soleil surtout 😂",
+            "timestamp": "2026-03-03T19:24:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je savais que tu allais ressortir ça...",
+            "timestamp": "2026-03-03T19:25:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Barbecue à la maison dimanche midi ?",
+            "timestamp": "2026-03-21T17:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Avec plaisir. On viendra tous les quatre.",
+            "timestamp": "2026-03-21T17:13:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Parfait, les enfants seront contents de se revoir.",
+            "timestamp": "2026-03-21T17:14:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Comment ça se passe au cabinet ?",
+            "timestamp": "2026-04-05T18:36:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Pas mal, beaucoup de dossiers fiscaux en ce moment.",
+            "timestamp": "2026-04-05T18:40:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "La période est chargée pour tout le monde.",
+            "timestamp": "2026-04-05T18:42:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Alors ce fameux procès approche ?",
+            "timestamp": "2026-04-11T09:24:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui... je commence à ressentir un peu de pression.",
+            "timestamp": "2026-04-11T09:29:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Je te connais, tu maîtrises parfaitement ton dossier.",
+            "timestamp": "2026-04-11T09:31:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "J'espère que tu as raison.",
+            "timestamp": "2026-04-11T09:33:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Quand tout ça sera derrière toi, on s'organise un week-end golf ?",
+            "timestamp": "2026-04-17T16:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Avec grand plaisir. Ça me fera du bien de penser à autre chose.",
+            "timestamp": "2026-04-17T16:46:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Marché conclu 👍",
+            "timestamp": "2026-04-17T16:47:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "andre",
+        "name": "André Morel",
+        "avatar": "URL_ANDRE_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Le rendez-vous avec Bati Concept est confirmé pour demain à 9h.",
+            "timestamp": "2026-01-12T17:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Parfait. Prépare le dossier avant 8h30.",
+            "timestamp": "2026-01-12T17:15:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le client Martin hésite toujours.",
+            "timestamp": "2026-01-29T11:42:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Relance-le jeudi. Il faut conclure avant la fin du mois.",
+            "timestamp": "2026-01-29T11:46:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai signé le dossier Dupont.",
+            "timestamp": "2026-02-10T16:28:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Excellent. Beau travail.",
+            "timestamp": "2026-02-10T16:30:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le rendez-vous de vendredi est repoussé.",
+            "timestamp": "2026-02-24T14:07:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Décale-le à lundi matin si possible.",
+            "timestamp": "2026-02-24T14:09:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Tu peux m'envoyer le tableau des ventes de février ?",
+            "timestamp": "2026-03-03T08:14:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je te l'envoie dans cinq minutes.",
+            "timestamp": "2026-03-03T08:16:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Le client Avenir Habitat demande une remise.",
+            "timestamp": "2026-03-15T10:48:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Maximum 8%. Au-delà ce n'est plus rentable.",
+            "timestamp": "2026-03-15T10:52:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "On est au-dessus des objectifs ce trimestre.",
+            "timestamp": "2026-03-31T17:36:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Félicitations à toute l'équipe.",
+            "timestamp": "2026-03-31T17:38:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu veux que je prenne le rendez-vous de Mérignac ?",
+            "timestamp": "2026-04-07T09:21:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui, ça me libérera un créneau.",
+            "timestamp": "2026-04-07T09:24:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Le client Garonne Immo a signé.",
+            "timestamp": "2026-04-11T16:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Excellente nouvelle.",
+            "timestamp": "2026-04-11T16:45:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je serai moins disponible cette semaine. Gère les urgences si besoin.",
+            "timestamp": "2026-04-15T08:02:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Pas de problème, je m'en occupe.",
+            "timestamp": "2026-04-15T08:05:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Bon courage pour ton audience.",
+            "timestamp": "2026-04-17T12:14:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci. J'ai hâte que ce soit derrière moi.",
+            "timestamp": "2026-04-17T12:18:00+02:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person": "eric",
+    "avatar": "URL_ERIC_PORTRAIT",
+    "contacts": [
+      {
+        "id": "marie",
+        "name": "Marie ❤️",
+        "avatar": "URL_MARIE_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Tu rentres vers quelle heure ce soir ?",
+            "timestamp": "2026-01-07T17:41:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Vers 19h30 je pense.",
+            "timestamp": "2026-01-07T17:45:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu peux passer chercher du pain ?",
+            "timestamp": "2026-01-07T17:46:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-01-07T17:47:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "La révision de la voiture est mardi, tu peux t'en occuper ?",
+            "timestamp": "2026-01-22T19:08:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je déposerai les clés avant d'aller au tribunal.",
+            "timestamp": "2026-01-22T19:12:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Emma a besoin d'une autorisation signée pour la sortie scolaire.",
+            "timestamp": "2026-02-03T18:17:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Laisse-la sur la table, je signerai en rentrant.",
+            "timestamp": "2026-02-03T18:22:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu seras là dimanche midi ?",
+            "timestamp": "2026-02-14T11:02:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-02-14T11:05:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai fait les courses, il manque juste du café.",
+            "timestamp": "2026-02-27T18:54:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'en prendrai demain.",
+            "timestamp": "2026-02-27T18:58:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu pourrais appeler le plombier ?",
+            "timestamp": "2026-03-06T20:16:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je m'en occupe demain matin.",
+            "timestamp": "2026-03-06T20:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Les enfants demandent si on partira cet été.",
+            "timestamp": "2026-03-18T19:43:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "On verra selon mon planning.",
+            "timestamp": "2026-03-18T19:47:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu pourrais rentrer un peu plus tôt un soir cette semaine ?",
+            "timestamp": "2026-04-04T18:08:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je vais essayer.",
+            "timestamp": "2026-04-04T18:10:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu peux récupérer les colis au point relais en rentrant ?",
+            "timestamp": "2026-04-08T17:18:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-04-08T17:21:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Merci.",
+            "timestamp": "2026-04-08T17:22:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "L'assurance de la maison arrive à échéance.",
+            "timestamp": "2026-04-10T19:06:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je m'en occuperai ce week-end.",
+            "timestamp": "2026-04-10T19:09:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Le garagiste dit que les pneus sont à changer.",
+            "timestamp": "2026-04-11T17:36:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Fais-les changer.",
+            "timestamp": "2026-04-11T17:39:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu peux appeler Laura demain ? Elle voulait confirmer son passage.",
+            "timestamp": "2026-04-12T18:27:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je lui écrirai.",
+            "timestamp": "2026-04-12T18:30:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Le professeur de Lucas souhaite te rencontrer la semaine prochaine.",
+            "timestamp": "2026-04-13T17:14:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Très bien. Fixe un créneau.",
+            "timestamp": "2026-04-13T17:17:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu pourras passer à la pharmacie ?",
+            "timestamp": "2026-04-14T18:03:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-04-14T18:05:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Les enfants veulent savoir si tu viens au match samedi prochain.",
+            "timestamp": "2026-04-15T19:42:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je ferai en sorte d'être là.",
+            "timestamp": "2026-04-15T19:46:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Il n'y a plus de lessive.",
+            "timestamp": "2026-04-16T08:11:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "J'en prendrai ce soir.",
+            "timestamp": "2026-04-16T08:13:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu n'as rien oublié pour demain ?",
+            "timestamp": "2026-04-17T20:31:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Non, tout est prêt.",
+            "timestamp": "2026-04-17T20:33:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Bonne nuit.",
+            "timestamp": "2026-04-17T22:47:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Bonne nuit.",
+            "timestamp": "2026-04-17T22:49:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "À demain.",
+            "timestamp": "2026-04-17T22:50:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je resterai au boulot plus tard que prévu, j'ai oublié qu'on avait un dîner pro.",
+            "timestamp": "2026-04-20T11:30:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "D'accord. Tu me préviendras quand tu rentreras ?",
+            "timestamp": "2026-04-20T11:34:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-04-20T11:35:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Les enfants seront déjà couchés.",
+            "timestamp": "2026-04-20T11:36:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Je sais.",
+            "timestamp": "2026-04-20T11:37:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Bonne journée.",
+            "timestamp": "2026-04-20T11:38:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Toi aussi.",
+            "timestamp": "2026-04-20T11:39:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "louis",
+        "name": "Louis Berger",
+        "avatar": "URL_LOUIS_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Alors, cette semaine d'audience ?",
+            "timestamp": "2026-01-15T18:16:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Épuisante. Trois dossiers sensibles en deux jours.",
+            "timestamp": "2026-01-15T18:19:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu ne t'ennuies jamais au moins 😂",
+            "timestamp": "2026-01-15T18:20:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'aimerais bien parfois.",
+            "timestamp": "2026-01-15T18:22:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "On se fait un déjeuner la semaine prochaine ?",
+            "timestamp": "2026-02-06T12:11:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Avec plaisir. Ça me changera les idées.",
+            "timestamp": "2026-02-06T12:18:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tout va bien à la maison ?",
+            "timestamp": "2026-02-27T20:43:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "On fait bonne figure devant les enfants... mais c'est devenu compliqué.",
+            "timestamp": "2026-02-27T20:48:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Vous devriez peut-être prendre un peu de temps pour vous deux.",
+            "timestamp": "2026-02-27T20:50:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "J'ai l'impression que c'est déjà trop tard.",
+            "timestamp": "2026-02-27T20:54:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu tiens le coup ?",
+            "timestamp": "2026-03-18T19:21:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je me réfugie dans le travail.",
+            "timestamp": "2026-03-18T19:25:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Ça ne règle jamais vraiment les problèmes.",
+            "timestamp": "2026-03-18T19:26:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Je sais... mais ça occupe l'esprit.",
+            "timestamp": "2026-03-18T19:28:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai une audience fiscale mardi, je sens que ça va être interminable.",
+            "timestamp": "2026-04-08T17:14:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Bon courage. Avec un peu de chance tu tomberas sur un juge moins pénible que moi 😄",
+            "timestamp": "2026-04-08T17:17:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Impossible 😂",
+            "timestamp": "2026-04-08T17:18:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Tu viens toujours au dîner des anciens du tribunal le mois prochain ?",
+            "timestamp": "2026-04-15T18:06:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui, ça me fera plaisir de revoir tout le monde.",
+            "timestamp": "2026-04-15T18:09:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Parfait. Ça nous changera un peu du boulot.",
+            "timestamp": "2026-04-15T18:10:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "sophie",
+        "name": "Sophie",
+        "avatar": "URL_SOPHIE_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Tu es bien arrivé ?",
+            "timestamp": "2026-02-11T22:08:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-02-11T22:10:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je n'aurais pas dû...",
+            "timestamp": "2026-03-04T21:41:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Moi non plus.",
+            "timestamp": "2026-03-04T21:43:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "...",
+            "timestamp": "2026-03-04T21:45:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "On en reparlera.",
+            "timestamp": "2026-03-04T21:46:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai encore pensé à hier.",
+            "timestamp": "2026-03-27T18:22:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Évite les messages.",
+            "timestamp": "2026-03-27T18:24:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "D'accord.",
+            "timestamp": "2026-03-27T18:25:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Même heure ?",
+            "timestamp": "2026-04-16T11:08:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Oui.",
+            "timestamp": "2026-04-16T11:10:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "❤️",
+            "timestamp": "2026-04-16T11:11:00+02:00"
+          }
+        ]
+      },
+      {
+        "id": "laura",
+        "name": "Laura",
+        "avatar": "URL_LAURA_PORTRAIT",
+        "messages": [
+          {
+            "from": "them",
+            "text": "Bonjour Monsieur Valmont, je passerai demain vers 9h30.",
+            "timestamp": "2026-01-12T18:04:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Très bien, merci Laura.",
+            "timestamp": "2026-01-12T18:16:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'aurai une quinzaine de minutes de retard demain matin.",
+            "timestamp": "2026-02-05T19:08:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Aucun problème.",
+            "timestamp": "2026-02-05T19:21:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Pourriez-vous insister sur les vitres de la véranda cette semaine ?",
+            "timestamp": "2026-03-03T20:17:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Bien reçu, je m'en occuperai.",
+            "timestamp": "2026-03-03T20:34:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "J'ai remplacé l'ampoule de l'entrée qui était grillée.",
+            "timestamp": "2026-03-19T11:46:00+01:00"
+          },
+          {
+            "from": "me",
+            "text": "Merci beaucoup.",
+            "timestamp": "2026-03-19T11:59:00+01:00"
+          },
+          {
+            "from": "them",
+            "text": "Je passerai jeudi à partir de 14h au lieu du matin si cela vous convient.",
+            "timestamp": "2026-04-09T18:52:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "C'est parfait, je vous laisserai les clés comme d'habitude.",
+            "timestamp": "2026-04-09T19:07:00+02:00"
+          },
+          {
+            "from": "me",
+            "text": "Pourriez-vous également arroser les plantes du salon ?",
+            "timestamp": "2026-04-15T18:41:00+02:00"
+          },
+          {
+            "from": "them",
+            "text": "Bien sûr, je m'en occuperai.",
+            "timestamp": "2026-04-15T18:58:00+02:00"
+          }
         ]
       }
     ]
   }
 ]
-
-
