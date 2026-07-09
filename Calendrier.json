@@ -63,7 +63,7 @@
       "end": "18:30",
       "title": "Dentiste",
       "location": "Cabinet dentaire Bordeaux",
-      "note": "Rendez-vous classique, alerte activée 30 min avant.",
+      "note": "Prendre carte vitale",
       "type": "personal"
     },
     {
@@ -73,8 +73,8 @@
       "start": "20:00",
       "end": "23:30",
       "title": "Anniversaire Mathis 🍻",
-      "location": "Bar La Purge, Bordeaux",
-      "note": "Soirée entre amis. Plusieurs participants attendus.",
+      "location": "X",
+      "note": "Prendre son cadeau",
       "type": "social"
     },
     {
@@ -84,8 +84,8 @@
       "start": "18:00",
       "end": "19:00",
       "title": "Changer pneus utilitaire",
-      "location": "Garage Talence",
-      "note": "Deuxième passage au garage ce mois-ci.",
+      "location": "X",
+      "note": "Retirer de l'argent au DAB",
       "type": "personal"
     },
     {
@@ -95,8 +95,8 @@
       "start": "20:30",
       "end": "22:30",
       "title": "Match de foot avec les potes",
-      "location": "Stade municipal Talence",
-      "note": "Événement récurrent. Aucun détail supplémentaire.",
+      "location": "X",
+      "note": "X",
       "type": "social"
     },
     {
@@ -106,8 +106,8 @@
       "start": "12:30",
       "end": "14:30",
       "title": "Déjeuner chez maman",
-      "location": "Domicile familial",
-      "note": "Visite régulière. Aucune note complémentaire.",
+      "location": "X",
+      "note": "X",
       "type": "social"
     },
     {
@@ -117,8 +117,8 @@
       "start": "14:00",
       "end": "15:30",
       "title": "Coiffeur",
-      "location": "Salon Bordeaux centre",
-      "note": "Rendez-vous habituel. Aucun détail supplémentaire.",
+      "location": "X",
+      "note": "X",
       "type": "personal"
     },
     {
@@ -127,20 +127,9 @@
       "date": "2026-04-04",
       "start": "18:00",
       "end": "19:00",
-      "title": "Courses Carrefour",
-      "location": "Carrefour Bordeaux",
-      "note": "Simple rappel de courses. Ajouté le matin même.",
-      "type": "personal"
-    },
-    {
-      "id": "evt_009",
-      "suspectId": "rebecca_lopez",
-      "date": "2026-04-08",
-      "start": "09:00",
-      "end": "12:00",
-      "title": "Lessive + ménage",
-      "location": "Domicile",
-      "note": "Bloc réservé pour tâches ménagères. Aucune précision.",
+      "title": "Courses pour apéro",
+      "location": "X",
+      "note": "Ne pas oublier les lingettes",
       "type": "personal"
     },
     {
@@ -151,18 +140,7 @@
       "end": "11:30",
       "title": "Appeler mutuelle",
       "location": "Sans localisation",
-      "note": "Rappel téléphonique. Aucun numéro noté.",
-      "type": "personal"
-    },
-    {
-      "id": "evt_011",
-      "suspectId": "rebecca_lopez",
-      "date": "2026-04-15",
-      "start": "16:30",
-      "end": "17:30",
-      "title": "Esthéticienne",
-      "location": "Institut Bordeaux centre",
-      "note": "Rendez-vous régulier.",
+      "note": "X",
       "type": "personal"
     },
     {
@@ -173,7 +151,7 @@
       "end": "19:30",
       "title": "Trier les papiers administratifs",
       "location": "Domicile",
-      "note": "Bloc personnel sans précision. Ajouté plusieurs jours avant.",
+      "note": "X",
       "type": "personal"
     },
     {
@@ -184,7 +162,7 @@
       "end": "10:30",
       "title": "Réunion commerciale hebdomadaire",
       "location": "Bureau AEC Pessac",
-      "note": "Réunion récurrente chaque semaine. Ordre du jour non renseigné.",
+      "note": "X",
       "type": "work"
     },
     {
@@ -195,7 +173,7 @@
       "end": "14:00",
       "title": "Déjeuner client",
       "location": "Restaurant Pessac",
-      "note": "Nom du client non renseigné. Alerte 1h avant.",
+      "note": "X",
       "type": "meeting"
     },
     {
@@ -216,8 +194,8 @@
       "start": "18:00",
       "end": "20:00",
       "title": "Golf avec Louis",
-      "location": "Golf de Bordeaux-Lac",
-      "note": "Sortie planifiée depuis plusieurs semaines.",
+      "location": "X",
+      "note": "X",
       "type": "social"
     },
     {
@@ -228,7 +206,7 @@
       "end": "20:30",
       "title": "Spectacle de danse de Léa",
       "location": "École de danse Pessac",
-      "note": "Événement familial. Ajouté avec une alerte anticipée.",
+      "note": "X",
       "type": "social"
     },
     {
@@ -239,7 +217,7 @@
       "end": "18:30",
       "title": "Réunion parents-professeurs",
       "location": "École Nathan",
-      "note": "Rendez-vous scolaire. Rappel activé 30 min avant.",
+      "note": "X",
       "type": "meeting"
     },
     {
@@ -250,7 +228,7 @@
       "end": "12:00",
       "title": "Audience correctionnelle",
       "location": "Tribunal de Bordeaux",
-      "note": "Audience professionnelle. Aucun détail complémentaire noté.",
+      "note": "X",
       "type": "work"
     },
     {
@@ -261,7 +239,7 @@
       "end": "14:00",
       "title": "Déjeuner président du tribunal",
       "location": "Restaurant Bordeaux centre",
-      "note": "Repas professionnel avec un supérieur hiérarchique.",
+      "note": "X",
       "type": "social"
     },
     {
@@ -272,7 +250,7 @@
       "end": "18:30",
       "title": "Réunion magistrats",
       "location": "Salle des délibérations, Tribunal Bordeaux",
-      "note": "Réunion interne. Ordre du jour non renseigné dans l'agenda.",
+      "note": "Réunion interne.",
       "type": "work"
     },
     {
@@ -283,7 +261,7 @@
       "end": "11:00",
       "title": "Contrôle technique voiture",
       "location": "Garage Bordeaux",
-      "note": "Rappel classique. Ajouté une semaine avant.",
+      "note": "X",
       "type": "personal"
     },
     {
@@ -294,7 +272,7 @@
       "end": "19:30",
       "title": "Rendez-vous garagiste",
       "location": "Garage Bordeaux",
-      "note": "Second passage au garage. Motif non précisé.",
+      "note": "X",
       "type": "personal"
     },
     {
@@ -360,140 +338,8 @@
       "end": "19:00",
       "title": "Jour J ✅",
       "location": "Sans localisation",
-      "note": "Entrée énigmatique. Aucune localisation ni participant renseigné. Marqué comme accompli.",
+      "note": "X.",
       "type": "personal"
-    },
-    {
-      "id": "evt_030",
-      "suspectId": "louis_berger",
-      "date": "2026-04-02",
-      "start": "09:30",
-      "end": "11:00",
-      "title": "Rendez-vous client",
-      "location": "Cabinet Berger, Bordeaux",
-      "note": "Nom du client non précisé. Alerte 15 min avant.",
-      "type": "meeting"
-    },
-    {
-      "id": "evt_031",
-      "suspectId": "louis_berger",
-      "date": "2026-04-06",
-      "start": "12:30",
-      "end": "14:00",
-      "title": "Déjeuner avec Henri",
-      "location": "Restaurant Bordeaux",
-      "note": "Déjeuner planifié à l'avance. Lieu non précisé.",
-      "type": "social"
-    },
-    {
-      "id": "evt_032",
-      "suspectId": "louis_berger",
-      "date": "2026-04-09",
-      "start": "18:00",
-      "end": "20:00",
-      "title": "Préparation dossier fiscal",
-      "location": "Cabinet Berger",
-      "note": "Bloc de travail en soirée. Aucun participant renseigné.",
-      "type": "work"
-    },
-    {
-      "id": "evt_033",
-      "suspectId": "louis_berger",
-      "date": "2026-04-14",
-      "start": "19:30",
-      "end": "22:00",
-      "title": "Barbecue chez Henri",
-      "location": "Domicile Henri Lefevre, Pessac",
-      "note": "Soirée entre amis. Événement ajouté après invitation directe.",
-      "type": "social"
-    },
-    {
-      "id": "evt_034",
-      "suspectId": "louis_berger",
-      "date": "2026-04-16",
-      "start": "17:30",
-      "end": "19:30",
-      "title": "Golf",
-      "location": "Golf de Bordeaux-Lac",
-      "note": "Sortie récurrente. Aucun participant renseigné cette fois.",
-      "type": "personal"
-    },
-    {
-      "id": "evt_035",
-      "suspectId": "louis_berger",
-      "date": "2026-04-17",
-      "start": "08:30",
-      "end": "10:00",
-      "title": "Réunion cabinet",
-      "location": "Cabinet Berger, Bordeaux",
-      "note": "Réunion interne hebdomadaire.",
-      "type": "work"
-    },
-    {
-      "id": "evt_036",
-      "suspectId": "sophie",
-      "date": "2026-04-03",
-      "start": "18:30",
-      "end": "19:30",
-      "title": "Yoga",
-      "location": "Studio Bordeaux",
-      "note": "Cours hebdomadaire. Aucun lien apparent avec l'affaire.",
-      "type": "personal"
-    },
-    {
-      "id": "evt_037",
-      "suspectId": "sophie",
-      "date": "2026-04-06",
-      "start": "17:00",
-      "end": "18:00",
-      "title": "Esthéticienne",
-      "location": "Institut Bordeaux centre",
-      "note": "Rendez-vous habituel. Aucune note complémentaire.",
-      "type": "personal"
-    },
-    {
-      "id": "evt_038",
-      "suspectId": "sophie",
-      "date": "2026-04-09",
-      "start": "12:15",
-      "end": "13:30",
-      "title": "Déjeuner avec Camille",
-      "location": "Restaurant Bordeaux",
-      "note": "Déjeuner entre amies. Lieu non précisé.",
-      "type": "social"
-    },
-    {
-      "id": "evt_039",
-      "suspectId": "sophie",
-      "date": "2026-04-12",
-      "start": "10:00",
-      "end": "11:30",
-      "title": "Coiffeur",
-      "location": "Salon Bordeaux centre",
-      "note": "Rendez-vous planifié à l'avance.",
-      "type": "personal"
-    },
-    {
-      "id": "evt_040",
-      "suspectId": "sophie",
-      "date": "2026-04-15",
-      "start": "15:30",
-      "end": "18:00",
-      "title": "Shopping Bordeaux Lac",
-      "location": "Centre commercial Bordeaux Lac",
-      "note": "Bloc shopping en après-midi. Aucune précision.",
-      "type": "personal"
-    },
-    {
-      "id": "evt_041",
-      "suspectId": "sophie",
-      "date": "2026-04-17",
-      "start": "19:00",
-      "end": "22:00",
-      "title": "Anniversaire maman",
-      "location": "Domicile familial",
-      "note": "Événement familial. Ajouté plusieurs semaines en avance.",
-      "type": "social"
     }
   ]
 }
