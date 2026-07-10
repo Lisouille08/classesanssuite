@@ -100,17 +100,6 @@
       "type": "social"
     },
     {
-      "id": "evt_006",
-      "suspectId": "julien_roseau",
-      "date": "2026-04-19",
-      "start": "12:30",
-      "end": "14:30",
-      "title": "Déjeuner chez maman",
-      "location": "X",
-      "note": "X",
-      "type": "social"
-    },
-    {
       "id": "evt_007",
       "suspectId": "rebecca_lopez",
       "date": "2026-04-01",
