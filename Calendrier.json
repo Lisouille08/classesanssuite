@@ -29,18 +29,6 @@
       "name": "JÉRÔME TOUQUET",
       "label": "Suspect",
       "avatar": "URL_JEROME_PORTRAIT"
-    },
-    {
-      "id": "louis_berger",
-      "name": "LOUIS BERGER",
-      "label": "Suspect",
-      "avatar": "URL_LOUIS_PORTRAIT"
-    },
-    {
-      "id": "sophie",
-      "name": "SOPHIE",
-      "label": "Suspecte",
-      "avatar": "URL_SOPHIE_PORTRAIT"
     }
   ],
   "events": [
@@ -72,7 +60,7 @@
       "date": "2026-04-10",
       "start": "20:00",
       "end": "23:30",
-      "title": "Anniversaire Mathis 🍻",
+      "title": "Anniversaire Bastien 🍻",
       "location": "X",
       "note": "Prendre son cadeau",
       "type": "social"
@@ -199,17 +187,6 @@
       "type": "social"
     },
     {
-      "id": "evt_018",
-      "suspectId": "henri_lefevre",
-      "date": "2026-04-17",
-      "start": "17:30",
-      "end": "18:30",
-      "title": "Réunion parents-professeurs",
-      "location": "École Nathan",
-      "note": "X",
-      "type": "meeting"
-    },
-    {
       "id": "evt_019",
       "suspectId": "eric_valmont",
       "date": "2026-04-01",
@@ -322,7 +299,7 @@
     {
       "id": "evt_029",
       "suspectId": "jerome_touquet",
-      "date": "2026-04-20",
+      "date": "2026-04-19",
       "start": "18:00",
       "end": "19:00",
       "title": "Jour J ✅",
