@@ -1,7 +1,7 @@
 [
   {
     "nom": "Henri Lefevre",
-    "photo": "URL_HENRI_PORTRAIT",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_henri.png?v=1783757317",
     "jobs": [
       {
         "employeur": "AEC Conseils",
@@ -25,7 +25,7 @@
   },
   {
     "nom": "Rebecca Lopez",
-    "photo": "URL_REBECCA_PORTRAIT",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_rebecca.png?v=1783757317",
     "jobs": [
       {
         "employeur": "DNA Propreté et Services",
@@ -49,7 +49,7 @@
   },
   {
     "nom": "Jerome Touquet",
-    "photo": "URL_JEROME_PORTRAIT",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_jerome.png?v=1783757317",
     "jobs": [
       {
         "employeur": "Newrest",
@@ -64,7 +64,7 @@
   },
   {
     "nom": "Julien Roseau",
-    "photo": "URL_JULIEN_PORTRAIT",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_julien.png?v=1783757317",
     "jobs": [
       {
         "employeur": "Idea Elec",
@@ -79,7 +79,7 @@
   },
   {
     "nom": "Louis Berger",
-    "photo": "URL_LOUIS_PORTRAIT",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_louis.png?v=1783757316",
     "jobs": [
       {
         "employeur": "Tribunal de Bordeaux",
@@ -103,7 +103,7 @@
   },
   {
     "nom": "Sophie Callini",
-    "photo": "URL_SOPHIE_PORTRAIT",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_sophie.png?v=1783757317",
     "jobs": [
       {
         "employeur": "BeautyCallini",
@@ -118,7 +118,7 @@
   },
   {
     "nom": "Eric Valmont",
-    "photo": "URL_ERIC_PORTRAIT",
+    "photo": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Profil_eric.png?v=1783757317",
     "jobs": [
       {
         "employeur": "Tribunal de Bordeaux",
