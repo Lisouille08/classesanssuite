@@ -8,8 +8,8 @@
     "credits": [
       {
         "type": "Prêt automobile",
-        "montant_emprunte": 13800.0,
-        "montant_rembourse": 9150.0,
+        "montant_emprunte": 5500.0,
+        "montant_rembourse": 3200.0,
         "echeance": "2029-02"
       }
     ],
@@ -20,14 +20,8 @@
         "depenses": [
           {
             "date": "01/04",
-            "libelle": "Salaire IDEA ELEC",
-            "montant": 1948.73,
-            "categorie": "Salaire"
-          },
-          {
-            "date": "01/04",
             "libelle": "Loyer",
-            "montant": 690.0,
+            "montant": 490.0,
             "categorie": "Logement"
           },
           {
@@ -197,13 +191,19 @@
             "libelle": "Retrait DAB Crédit Agricole",
             "montant": 40.0,
             "categorie": "Retrait espèces"
-          }
+          },
+          {
+            "date": "20/04",
+            "libelle": "BAR La Purge",
+            "montant": 48.0,
+            "categorie": "Divers"
+          },
         ],
         "recettes": [
           {
             "date": "01/04",
             "libelle": "Salaire IDEA ELEC",
-            "montant": 1948.73,
+            "montant": 1712.08,
             "categorie": "Salaire"
           }
         ]
@@ -229,12 +229,6 @@
       {
         "mois": "Avril 2026",
         "depenses": [
-          {
-            "date": "01/04",
-            "libelle": "Salaire Tribunal de Bordeaux",
-            "montant": 1743.52,
-            "categorie": "Salaire"
-          },
           {
             "date": "01/04",
             "libelle": "Loyer",
@@ -413,8 +407,8 @@
         "recettes": [
           {
             "date": "01/04",
-            "libelle": "Salaire Tribunal de Bordeaux",
-            "montant": 1743.52,
+            "libelle": "DNA Propeté et Services",
+            "montant": 1412.67,
             "categorie": "Salaire"
           }
         ]
@@ -440,12 +434,6 @@
       {
         "mois": "Avril 2026",
         "depenses": [
-          {
-            "date": "01/04",
-            "libelle": "RSA CAF",
-            "montant": 635.71,
-            "categorie": "Prestations sociales"
-          },
           {
             "date": "01/04",
             "libelle": "Loyer",
@@ -830,13 +818,19 @@
             "libelle": "Leclerc Pessac",
             "montant": 96.33,
             "categorie": "Courses"
+          },
+          {
+            "date": "20/04",
+            "libelle": "McDonald's Cadaujac",
+            "montant": 13.60,
+            "categorie": "Alimentation"
           }
         ],
         "recettes": [
           {
             "date": "01/04",
-            "libelle": "Salaire AEC Conseils",
-            "montant": 5682.91,
+            "libelle": "AEC Conseils",
+            "montant": 4700.00,
             "categorie": "Salaire"
           }
         ]
@@ -1041,13 +1035,19 @@
             "libelle": "Boulangerie Ange",
             "montant": 9.4,
             "categorie": "Alimentation"
+          },
+          {
+            "date": "20/04",
+            "libelle": "Restaurant Belami",
+            "montant": 68.00,
+            "categorie": "Alimentation"
           }
         ],
         "recettes": [
           {
             "date": "01/04",
             "libelle": "Salaire Ministère de la Justice",
-            "montant": 6382.14,
+            "montant": 9800.00,
             "categorie": "Salaire"
           }
         ]
