@@ -3,7 +3,7 @@
     "nom": "Julien Roseau",
     "banque": "CSS Bank",
     "iban": "FR76 3004 1000 5801 4587 2109 421",
-    "compte_courant": 1847.36,
+    "compte_courant": 1147.36,
     "livret_a": 4200.0,
     "credits": [
       {
@@ -232,7 +232,7 @@
           {
             "date": "01/04",
             "libelle": "Loyer",
-            "montant": 612.0,
+            "montant": 412.0,
             "categorie": "Logement"
           },
           {
@@ -300,12 +300,6 @@
             "libelle": "Spotify Premium",
             "montant": 11.12,
             "categorie": "Abonnement"
-          },
-          {
-            "date": "07/04",
-            "libelle": "La Vie Claire",
-            "montant": 17.46,
-            "categorie": "Courses"
           },
           {
             "date": "08/04",
@@ -381,12 +375,6 @@
           },
           {
             "date": "16/04",
-            "libelle": "Nocibé",
-            "montant": 31.5,
-            "categorie": "Beauté"
-          },
-          {
-            "date": "16/04",
             "libelle": "Boulangerie Ange",
             "montant": 7.8,
             "categorie": "Alimentation"
@@ -423,9 +411,9 @@
     "livret_a": 50.0,
     "credits": [
       {
-        "type": "Crédit automobile",
+        "type": "Crédit consommation",
         "montant_emprunte": 4800.0,
-        "montant_rembourse": 4015.0,
+        "montant_rembourse": 465.0,
         "echeance": "2027-09"
       }
     ],
@@ -586,7 +574,7 @@
           },
           {
             "date": "15/04",
-            "libelle": "Boulangerie Ange",
+            "libelle": "Le pain doré",
             "montant": 5.9,
             "categorie": "Alimentation"
           },
@@ -665,7 +653,7 @@
             "categorie": "Virement"
           },
           {
-            "date": "19/04",
+            "date": "20/04",
             "libelle": "Virement reçu",
             "montant": 120.0,
             "categorie": "Virement"
@@ -688,7 +676,7 @@
         "echeance": "2040-08"
       },
       {
-        "type": "Porsche Macan",
+        "type": "Crédit voiture",
         "montant_emprunte": 61500.0,
         "montant_rembourse": 34700.0,
         "echeance": "2029-11"
@@ -905,7 +893,7 @@
         "echeance": "2042-03"
       },
       {
-        "type": "Peugeot 508",
+        "type": "Immobilier 2",
         "montant_emprunte": 38900.0,
         "montant_rembourse": 27800.0,
         "echeance": "2028-12"
@@ -924,7 +912,7 @@
           },
           {
             "date": "01/04",
-            "libelle": "Crédit Peugeot 508",
+            "libelle": "Prêt immobilier 2",
             "montant": 618.52,
             "categorie": "Crédit"
           },
@@ -1086,7 +1074,7 @@
           },
           {
             "date": "18/04",
-            "libelle": "Boulangerie Ange",
+            "libelle": "Le pain doré",
             "montant": 9.4,
             "categorie": "Alimentation"
           },
