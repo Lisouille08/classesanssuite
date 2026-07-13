@@ -194,9 +194,9 @@
           },
           {
             "date": "20/04",
-            "libelle": "BAR La Purge",
+            "libelle": "Bar La Purge",
             "montant": 48.0,
-            "categorie": "Divers"
+            "categorie": "Bar"
           }
         ],
         "recettes": [
@@ -407,7 +407,7 @@
         "recettes": [
           {
             "date": "01/04",
-            "libelle": "DNA Propeté et Services",
+            "libelle": "DNA Propreté et Services",
             "montant": 1412.67,
             "categorie": "Salaire"
           }
@@ -495,6 +495,12 @@
             "categorie": "Tabac"
           },
           {
+            "date": "06/04",
+            "libelle": "Virement émis",
+            "montant": 100.0,
+            "categorie": "Virement"
+          },
+          {
             "date": "07/04",
             "libelle": "Carrefour City",
             "montant": 19.74,
@@ -547,6 +553,12 @@
             "libelle": "Le Kebab du Centre",
             "montant": 10.5,
             "categorie": "Restauration"
+          },
+          {
+            "date": "12/04",
+            "libelle": "Virement émis",
+            "montant": 75.0,
+            "categorie": "Virement"
           },
           {
             "date": "13/04",
@@ -607,6 +619,12 @@
             "libelle": "McDonald's Bordeaux",
             "montant": 11.9,
             "categorie": "Restauration"
+          },
+          {
+            "date": "19/04",
+            "libelle": "Virement émis",
+            "montant": 130.0,
+            "categorie": "Virement"
           }
         ],
         "recettes": [
@@ -615,6 +633,42 @@
             "libelle": "RSA CAF",
             "montant": 635.71,
             "categorie": "Prestations sociales"
+          },
+          {
+            "date": "04/04",
+            "libelle": "Virement reçu",
+            "montant": 80.0,
+            "categorie": "Virement"
+          },
+          {
+            "date": "07/04",
+            "libelle": "Virement reçu",
+            "montant": 150.0,
+            "categorie": "Virement"
+          },
+          {
+            "date": "10/04",
+            "libelle": "Virement reçu",
+            "montant": 60.0,
+            "categorie": "Virement"
+          },
+          {
+            "date": "13/04",
+            "libelle": "Virement reçu",
+            "montant": 200.0,
+            "categorie": "Virement"
+          },
+          {
+            "date": "16/04",
+            "libelle": "Virement reçu",
+            "montant": 95.0,
+            "categorie": "Virement"
+          },
+          {
+            "date": "19/04",
+            "libelle": "Virement reçu",
+            "montant": 120.0,
+            "categorie": "Virement"
           }
         ]
       }
@@ -822,7 +876,7 @@
           {
             "date": "20/04",
             "libelle": "McDonald's Cadaujac",
-            "montant": 13.60,
+            "montant": 13.6,
             "categorie": "Alimentation"
           }
         ],
@@ -830,7 +884,7 @@
           {
             "date": "01/04",
             "libelle": "AEC Conseils",
-            "montant": 4700.00,
+            "montant": 4700.0,
             "categorie": "Salaire"
           }
         ]
@@ -1039,15 +1093,15 @@
           {
             "date": "20/04",
             "libelle": "Restaurant Belami",
-            "montant": 68.00,
-            "categorie": "Alimentation"
+            "montant": 68.0,
+            "categorie": "Restaurant"
           }
         ],
         "recettes": [
           {
             "date": "01/04",
             "libelle": "Salaire Ministère de la Justice",
-            "montant": 9800.00,
+            "montant": 9800.0,
             "categorie": "Salaire"
           }
         ]
