@@ -56,8 +56,8 @@
     "vehicule": {
       "marque": "Renault",
       "modele": "Clio II",
-      "couleur": "ok",
-      "statut": "Défaut d'assurance"
+      "couleur": "rouge",
+      "statut": "ok"
     },
     "assurance": "défaut d'assurance",
     "categories": ["B"],
