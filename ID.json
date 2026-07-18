@@ -1,99 +1,231 @@
 {
   "people": [
     {
-      "nom": "Alexio Massenzio",
-      "naissance": { "date": "1970-11-23", "lieu": "Milan (Italie)" },
-      "adresse": "27 Avenue Montaigne, 75008 Paris",
-      "taille": "1m85",
+      "nom": "Eric Valmont",
+      "naissance": {
+        "date": "1985-05-18",
+        "lieu": "Bordeaux"
+      },
+      "adresse": "28 Allée des Aulnes, 33650 Martillac",
+      "taille": "1m81",
       "yeux": "Marrons",
-      "profession": "PDG Engica",
-      "identifiant": "FR-70-1123-ALE",
-      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CI_Alexio.png?v=1755961391",
-      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/alexio.png?v=1755961638",
-      "tags": ["alexio","massenzio","pdg","engica"],
+      "profession": "Juge",
+      "identifiant": "FR-85-0518-EVA",
+      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CNI_ERIC_VALMONT.png",
+      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/eric.png",
+      "tags": [
+        "eric",
+        "valmont",
+        "juge",
+        "tribunal"
+      ],
       "genealogie": [
-        { "id":"a1","name":"Alexio Massenzio","relation":"sujet" },
-        { "id":"a2","name":"Evelyne Lambert","relation":"ex-épouse","parentId":"a1" }
+        {
+          "id": "e1",
+          "name": "Eric Valmont",
+          "relation": "sujet"
+        },
+        {
+          "id": "e2",
+          "name": "Marie Valmont",
+          "relation": "épouse",
+          "parentId": "e1"
+        },
+        {
+          "id": "e3",
+          "name": "Emma Valmont",
+          "relation": "fille",
+          "parentId": "e1"
+        },
+        {
+          "id": "e4",
+          "name": "Lucas Valmont",
+          "relation": "fils",
+          "parentId": "e1"
+        }
       ]
     },
     {
-      "nom": "Marc Delval",
-      "naissance": { "date": "1972-03-15", "lieu": "Paris (75)" },
-      "adresse": "14 Rue de la Pompe, 75116 Paris",
-      "taille": "1m80",
-      "yeux": "Verts",
-      "profession": "Ancien associé Engica",
-      "identifiant": "FR-72-0315-MAR",
-      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CI_Marc.png?v=1755961392",
-      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/marc.png?v=1755961637",
-      "tags": ["marc","delval","pdg","engica"],
-      "genealogie": [
-        { "id":"m1","name":"Marc Delval","relation":"sujet" },
-        { "id":"m2","name":"Claire","relation":"épouse","parentId":"m1" },
-        { "id":"m3","name":"Thomas","relation":"fils","parentId":"m1" }
-      ]
-    },
-    {
-      "nom": "Elena Rossi",
-      "naissance": { "date": "1981-07-12", "lieu": "Rome (Italie)" },
-      "adresse": "Via della Conciliazione 45, Rome",
-      "taille": "1m72",
-      "yeux": "Verts",
-      "profession": "Femme au foyer",
-      "identifiant": "IT-81-0712-ELE",
-      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CI_Elena.png?v=1755961392",
-      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/elena.png?v=1755961638",
-      "tags": ["elena","rossi","italie","foyer"],
-      "genealogie": [
-        { "id":"e1","name":"Elena Rossi","relation":"sujet" },
-        { "id":"e2","name":"Alessandro Rossi","relation":"époux","parentId":"e1" }
-      ]
-    },
-    {
-      "nom": "Luc Morel",
-      "naissance": { "date": "1978-05-09", "lieu": "Lille (59)" },
-      "adresse": "22 Rue du Faubourg Saint-Antoine, 75011 Paris",
-      "taille": "1m79",
-      "yeux": "Marron",
-      "profession": "Contrôleur SNCF",
-      "identifiant": "FR-78-0509-LUC",
-      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CI_Luc.png?v=1755961392",
-      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/luc.png?v=1755961640",
-      "tags": ["luc","morel","sncf","controleur"],
-      "genealogie": [
-        { "id":"l1","name":"Luc Morel","relation":"sujet" }
-      ]
-    },
-    {
-      "nom": "Sofia Mendez",
-      "naissance": { "date": "1995-02-28", "lieu": "Madrid (Espagne)" },
-      "adresse": "8 Rue de la Villette, 75019 Paris",
-      "taille": "1m65",
-      "yeux": "Noisette",
-      "profession": "Femme de chambre",
-      "identifiant": "ES-95-0228-SOF",
-      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CI_Sofia.png?v=1755961392",
-      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/sofia.png?v=1755961639",
-      "tags": ["sofia","mendez","madrid","femme de chambre"],
-      "genealogie": [
-        { "id":"s1","name":"Sofia Mendez","relation":"sujet" }
-      ]
-    },
-    {
-      "nom": "Adrien Lambert",
-      "naissance": { "date": "2002-11-05", "lieu": "Paris (75)" },
-      "adresse": "14 Rue de la Pompe, 75116 Paris",
+      "nom": "Henri Lefevre",
+      "naissance": {
+        "date": "1980-05-06",
+        "lieu": "Bordeaux"
+      },
+      "adresse": "1 Rue Millet, 33600 Pessac",
       "taille": "1m78",
-      "yeux": "Bleus",
-      "profession": "Étudiant",
-      "identifiant": "FR-02-1105-ADR",
-      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CI_Adrien.png?v=1755961392",
-      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/adrien.png?v=1755961638",
-      "tags": ["adrien","lambert","etudiant","paris"],
+      "yeux": "Marrons",
+      "profession": "Directeur commercial",
+      "identifiant": "FR-80-0506-HLE",
+      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CNI_HENRI_LEFEVRE.png",
+      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/henri.png",
+      "tags": [
+        "henri",
+        "lefevre",
+        "directeur",
+        "commercial"
+      ],
       "genealogie": [
-        { "id":"ad1","name":"Adrien Lambert","relation":"sujet" },
-        { "id":"ad2","name":"Evelyne Lambert","relation":"mère","parentId":"ad1" },
-        { "id":"ad3","name":"Inconnu","relation":"père","parentId":"ad1" }
+        {
+          "id": "h1",
+          "name": "Henri Lefevre",
+          "relation": "sujet"
+        },
+        {
+          "id": "h2",
+          "name": "Veronique Lefevre",
+          "relation": "épouse",
+          "parentId": "h1"
+        },
+        {
+          "id": "h3",
+          "name": "Lea Lefevre",
+          "relation": "fille",
+          "parentId": "h1"
+        },
+        {
+          "id": "h4",
+          "name": "Nathan Lefevre",
+          "relation": "fils",
+          "parentId": "h1"
+        }
+      ]
+    },
+    {
+      "nom": "Jerome Touquet",
+      "naissance": {
+        "date": "1980-08-29",
+        "lieu": "Bordeaux"
+      },
+      "adresse": "99 Rue Charles Tournemire, 33300 Bordeaux",
+      "taille": "1m82",
+      "yeux": "Marrons",
+      "profession": "Sans emploi",
+      "identifiant": "FR-80-0829-JTO",
+      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CNI_JEROME_TOUQUET.png",
+      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/jerome.png",
+      "tags": [
+        "jerome",
+        "touquet",
+        "chomage"
+      ],
+      "genealogie": [
+        {
+          "id": "j1",
+          "name": "Jerome Touquet",
+          "relation": "sujet"
+        }
+      ]
+    },
+    {
+      "nom": "Julien Roseau",
+      "naissance": {
+        "date": "2000-03-24",
+        "lieu": "Bordeaux"
+      },
+      "adresse": "22 Rue de Balzac, 33400 Talence",
+      "taille": "1m80",
+      "yeux": "Bleus",
+      "profession": "Électricien",
+      "identifiant": "FR-00-0324-JRO",
+      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CNI_JULIEN_ROSEAU.png",
+      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/julien.png",
+      "tags": [
+        "julien",
+        "roseau",
+        "electricien",
+        "idea elec"
+      ],
+      "genealogie": [
+        {
+          "id": "jr1",
+          "name": "Julien Roseau",
+          "relation": "sujet"
+        }
+      ]
+    },
+    {
+      "nom": "Rebecca Lopez",
+      "naissance": {
+        "date": "1992-12-01",
+        "lieu": "Bordeaux"
+      },
+      "adresse": "92 Rue Jacques Thibaud, 33300 Bordeaux",
+      "taille": "1m66",
+      "yeux": "Marrons",
+      "profession": "Agent d'entretien",
+      "identifiant": "FR-92-1201-RLO",
+      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CNI_REBECCA_LOPEZ.png",
+      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/rebecca.png",
+      "tags": [
+        "rebecca",
+        "lopez",
+        "menage",
+        "tribunal"
+      ],
+      "genealogie": [
+        {
+          "id": "r1",
+          "name": "Rebecca Lopez",
+          "relation": "sujet"
+        },
+        {
+          "id": "r2",
+          "name": "Mathieu Galliet",
+          "relation": "ex-mari",
+          "parentId": "r1"
+        }
+      ]
+    },
+    {
+      "nom": "Louis Berger",
+      "naissance": {
+        "date": "1987-11-02",
+        "lieu": "Bordeaux"
+      },
+      "adresse": "13 Avenue Roger Salengro, 33130 Bègles",
+      "taille": "1m83",
+      "yeux": "Bleus",
+      "profession": "Avocat fiscaliste",
+      "identifiant": "FR-87-1102-LBE",
+      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CNI_LOUIS_BERGER.png",
+      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/louis.png",
+      "tags": [
+        "louis",
+        "berger",
+        "avocat",
+        "fiscaliste"
+      ],
+      "genealogie": [
+        {
+          "id": "l1",
+          "name": "Louis Berger",
+          "relation": "sujet"
+        }
+      ]
+    },
+    {
+      "nom": "Sophie Callini",
+      "naissance": {
+        "date": "1988-02-02",
+        "lieu": "Paris"
+      },
+      "adresse": "14 Rue du Professeur Arnozan, 33110 Le Bouscat",
+      "taille": "1m68",
+      "yeux": "Marrons",
+      "profession": "Responsable commerciale",
+      "identifiant": "FR-88-0202-SCA",
+      "cni": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/CNI_SOPHIE_CALLINI.png",
+      "portrait": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/sophie.png",
+      "tags": [
+        "sophie",
+        "callini"
+      ],
+      "genealogie": [
+        {
+          "id": "s1",
+          "name": "Sophie Callini",
+          "relation": "sujet"
+        }
       ]
     }
   ]
