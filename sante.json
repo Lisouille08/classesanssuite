@@ -1,98 +1,209 @@
 [
   {
-    "nom": "Alexio Massenzio",
-
+    "nom": "Henri Lefevre",
     "identiteMedicale": {
-      "groupeSanguin": "O+",
+      "groupeSanguin": null,
       "taille": 178,
-      "poids": 74,
-      "imc": 23.4,
-      "ageBiologique": 32
+      "poids": 85,
+      "imc": 27,
+      "ageBiologique": 43
     },
-
-    "allergies": {
-      "medicamenteuses": ["PENICILLINE"],
-      "alimentaires": ["ARACHIDE"]
-    },
-
-    "traitements": ["SERTRALINE"],
-
-    "vaccination": {
-      "faits": ["TETANOS", "HEPATITE B"],
-      "manquants": []
-    },
-
-    "santeMentale": {
-      "antidepresseurs": true,
-      "suiviPsy": true,
-      "trouble": "Trouble anxieux généralisé"
-    },
-
-    "addictions": {
-      "tabac": "Regulier",
-      "alcool": "Occasionnel",
-      "drogues": "Aucune"
-    },
-
-    "journal": [
-      {
-        "date": "2023-08-12",
-        "bpm": 118,
-        "sommeil": 2.1,
-        "temperature": 38.1,
-        "pas": 356,
-        "calories": 900,
-        "alcool": "Elevée",
-        "nicotine": true,
-        "drogue": "Cocaine détectée"
-      }
-    ]
-  },
-
-  {
-    "nom": "Marc Delval",
-
-    "identiteMedicale": {
-      "groupeSanguin": "A-",
-      "taille": 182,
-      "poids": 82,
-      "imc": 24.7,
-      "ageBiologique": 36
-    },
-
     "allergies": {
       "medicamenteuses": [],
       "alimentaires": []
     },
-
     "traitements": [],
-
     "vaccination": {
-      "faits": ["TETANOS"],
-      "manquants": ["HEPATITE B"]
+      "faits": [],
+      "manquants": []
     },
-
+    "santeMentale": {
+      "antidepresseurs": true,
+      "suiviPsy": false,
+      "trouble": null
+    },
+    "addictions": {
+      "tabac": "Occasionnel",
+      "alcool": "Occasionnel",
+      "drogues": "Aucun"
+    },
+    "journal": [
+      {
+        "date": "",
+        "bpm": "ELEVEE",
+        "sommeil": 3,
+        "temperature": 37.5,
+        "pas": "Journée normale",
+        "calories": "Journée normale",
+        "alcool": "oui",
+        "nicotine": true,
+        "drogue": "Cocaïne"
+      }
+    ]
+  },
+  {
+    "nom": "Rebecca Lopez",
+    "identiteMedicale": {
+      "groupeSanguin": null,
+      "taille": 166,
+      "poids": 60,
+      "imc": 22,
+      "ageBiologique": 34
+    },
+    "allergies": {
+      "medicamenteuses": [],
+      "alimentaires": []
+    },
+    "traitements": [],
+    "vaccination": {
+      "faits": [],
+      "manquants": []
+    },
+    "santeMentale": {
+      "antidepresseurs": true,
+      "suiviPsy": true,
+      "trouble": null
+    },
+    "addictions": {
+      "tabac": "Regulier",
+      "alcool": "Occasionnel",
+      "drogues": "Aucun"
+    },
+    "journal": [
+      {
+        "date": "",
+        "bpm": "ELEVEE",
+        "sommeil": 6,
+        "temperature": 37.6,
+        "pas": "beaucoup",
+        "calories": "Journée normale",
+        "alcool": "non",
+        "nicotine": true,
+        "drogue": "Aucune"
+      }
+    ]
+  },
+  {
+    "nom": "Jerome Touquet",
+    "identiteMedicale": {
+      "groupeSanguin": null,
+      "taille": 182,
+      "poids": 58,
+      "imc": 17.5,
+      "ageBiologique": 49
+    },
+    "allergies": {
+      "medicamenteuses": [],
+      "alimentaires": []
+    },
+    "traitements": [],
+    "vaccination": {
+      "faits": [],
+      "manquants": []
+    },
     "santeMentale": {
       "antidepresseurs": false,
       "suiviPsy": false,
       "trouble": null
     },
-
     "addictions": {
-      "tabac": "Aucune",
+      "tabac": "Regulier",
       "alcool": "Regulier",
-      "drogues": "Cannabis"
+      "drogues": "Regulier"
     },
-
     "journal": [
       {
-        "date": "2023-08-12",
-        "bpm": 75,
-        "sommeil": 7.2,
-        "temperature": 36.7,
-        "pas": 9211,
-        "calories": 2400,
-        "alcool": "Faible",
+        "date": "",
+        "bpm": "ELEVEE",
+        "sommeil": 3,
+        "temperature": 37.7,
+        "pas": "Journée normale",
+        "calories": "Journée normale",
+        "alcool": "oui",
+        "nicotine": true,
+        "drogue": "Cannabis"
+      }
+    ]
+  },
+  {
+    "nom": "Julien Roseau",
+    "identiteMedicale": {
+      "groupeSanguin": null,
+      "taille": 180,
+      "poids": 57,
+      "imc": 17.5,
+      "ageBiologique": 24
+    },
+    "allergies": {
+      "medicamenteuses": [],
+      "alimentaires": []
+    },
+    "traitements": [],
+    "vaccination": {
+      "faits": [],
+      "manquants": []
+    },
+    "santeMentale": {
+      "antidepresseurs": false,
+      "suiviPsy": false,
+      "trouble": null
+    },
+    "addictions": {
+      "tabac": "Regulier",
+      "alcool": "Regulier",
+      "drogues": "Regulier"
+    },
+    "journal": [
+      {
+        "date": "",
+        "bpm": "ELEVEE",
+        "sommeil": 4,
+        "temperature": 37.8,
+        "pas": "beaucoup",
+        "calories": "Journée normale",
+        "alcool": "oui",
+        "nicotine": true,
+        "drogue": "Cannabis"
+      }
+    ]
+  },
+  {
+    "nom": "Eric Valmont",
+    "identiteMedicale": {
+      "groupeSanguin": null,
+      "taille": 181,
+      "poids": 72,
+      "imc": 22,
+      "ageBiologique": 39
+    },
+    "allergies": {
+      "medicamenteuses": [],
+      "alimentaires": []
+    },
+    "traitements": [],
+    "vaccination": {
+      "faits": [],
+      "manquants": []
+    },
+    "santeMentale": {
+      "antidepresseurs": false,
+      "suiviPsy": false,
+      "trouble": null
+    },
+    "addictions": {
+      "tabac": "Aucune",
+      "alcool": "Occasionnel",
+      "drogues": "Aucune"
+    },
+    "journal": [
+      {
+        "date": "",
+        "bpm": "ELEVEE",
+        "sommeil": null,
+        "temperature": 37.5,
+        "pas": "Journée normale",
+        "calories": "Journée normale",
+        "alcool": "oui",
         "nicotine": false,
         "drogue": "Aucune"
       }
