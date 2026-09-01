@@ -2,7 +2,7 @@
   {
     "nom": "Henri Lefevre",
     "identiteMedicale": {
-      "groupeSanguin": null,
+      "groupeSanguin": "O+",
       "taille": 178,
       "poids": 85,
       "imc": 27,
@@ -30,12 +30,12 @@
     "journal": [
       {
         "date": "",
-        "bpm": "ELEVEE",
+        "bpm": 122,
         "sommeil": 3,
         "temperature": 37.5,
-        "pas": "Journée normale",
-        "calories": "Journée normale",
-        "alcool": "oui",
+        "pas": 7500,
+        "calories": 2200,
+        "alcool": "Détecté",
         "nicotine": true,
         "drogue": "Cocaïne"
       }
@@ -44,7 +44,7 @@
   {
     "nom": "Rebecca Lopez",
     "identiteMedicale": {
-      "groupeSanguin": null,
+      "groupeSanguin": "A+",
       "taille": 166,
       "poids": 60,
       "imc": 22,
@@ -72,12 +72,12 @@
     "journal": [
       {
         "date": "",
-        "bpm": "ELEVEE",
+        "bpm": 115,
         "sommeil": 6,
         "temperature": 37.6,
-        "pas": "beaucoup",
-        "calories": "Journée normale",
-        "alcool": "non",
+        "pas": 13500,
+        "calories": 2000,
+        "alcool": "Non détecté",
         "nicotine": true,
         "drogue": "Aucune"
       }
@@ -86,7 +86,7 @@
   {
     "nom": "Jerome Touquet",
     "identiteMedicale": {
-      "groupeSanguin": null,
+      "groupeSanguin": "B-",
       "taille": 182,
       "poids": 58,
       "imc": 17.5,
@@ -114,12 +114,12 @@
     "journal": [
       {
         "date": "",
-        "bpm": "ELEVEE",
+        "bpm": 128,
         "sommeil": 3,
         "temperature": 37.7,
-        "pas": "Journée normale",
-        "calories": "Journée normale",
-        "alcool": "oui",
+        "pas": 7200,
+        "calories": 2100,
+        "alcool": "Détecté",
         "nicotine": true,
         "drogue": "Cannabis"
       }
@@ -128,7 +128,7 @@
   {
     "nom": "Julien Roseau",
     "identiteMedicale": {
-      "groupeSanguin": null,
+      "groupeSanguin": "AB+",
       "taille": 180,
       "poids": 57,
       "imc": 17.5,
@@ -156,12 +156,12 @@
     "journal": [
       {
         "date": "",
-        "bpm": "ELEVEE",
+        "bpm": 119,
         "sommeil": 4,
         "temperature": 37.8,
-        "pas": "beaucoup",
-        "calories": "Journée normale",
-        "alcool": "oui",
+        "pas": 14200,
+        "calories": 2300,
+        "alcool": "Détecté",
         "nicotine": true,
         "drogue": "Cannabis"
       }
@@ -170,7 +170,7 @@
   {
     "nom": "Eric Valmont",
     "identiteMedicale": {
-      "groupeSanguin": null,
+      "groupeSanguin": "O-",
       "taille": 181,
       "poids": 72,
       "imc": 22,
@@ -198,12 +198,12 @@
     "journal": [
       {
         "date": "",
-        "bpm": "ELEVEE",
+        "bpm": 111,
         "sommeil": null,
         "temperature": 37.5,
-        "pas": "Journée normale",
-        "calories": "Journée normale",
-        "alcool": "oui",
+        "pas": 7800,
+        "calories": 2150,
+        "alcool": "Détecté",
         "nicotine": false,
         "drogue": "Aucune"
       }
