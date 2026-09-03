@@ -1,13 +1,11 @@
 [
   {
     "nom": "Alexio Massenzio",
-
     "resume": {
       "totalAffaires": 5,
       "condamnations": 2,
       "enCours": 1
     },
-
     "infractions": [
       {
         "date": "2018-06-12",
@@ -24,7 +22,6 @@
         "details": "Altercation commerciale."
       }
     ],
-
     "plaintesContreLui": [
       {
         "motif": "Menace",
@@ -33,7 +30,6 @@
         "statut": "Classée"
       }
     ],
-
     "plaintesDeposees": [
       {
         "motif": "Diffamation",
@@ -42,7 +38,6 @@
         "statut": "Aboutie"
       }
     ],
-
     "mesures": {
       "interdictionContact": {
         "active": true,
@@ -51,7 +46,6 @@
         "dateFin": "2024-02-15"
       }
     },
-
     "famille": {
       "mariage": {
         "conjoint": "Laura Massenzio",
@@ -61,14 +55,201 @@
         "date": "2021-03-18"
       },
       "garde": {
-  "enfants": "Lucas (2016) – Emma (2018)",
-  "details": "Semaine A chez la mère / Semaine B chez le père"
-},
+        "enfants": "Lucas (2016) – Emma (2018)",
+        "details": "Semaine A chez la mère / Semaine B chez le père"
+      },
       "pension": {
         "montant": 450,
         "statut": "En règle"
       }
     }
+  },
+  {
+    "nom": "Julien Roseau",
+    "resume": {
+      "totalAffaires": 2,
+      "condamnations": 1,
+      "enCours": 1
+    },
+    "infractions": [
+      {
+        "date": "2026-01-01",
+        "qualification": "Violence aggravée",
+        "statut": "En cours",
+        "peine": "Aucune (procédure en cours)",
+        "details": ""
+      },
+      {
+        "date": "2025-09-14",
+        "qualification": "Ivresse sur voie publique",
+        "statut": "Condamné",
+        "peine": "Amende de 460€",
+        "details": ""
+      }
+    ],
+    "plaintesContreLui": [],
+    "plaintesDeposees": [],
+    "mesures": {
+      "interdictionContact": null,
+      "interdictionLieu": {
+        "active": true,
+        "lieu": "Bar XXX",
+        "dateDebut": null,
+        "dateFin": null
+      }
+    },
+    "famille": {
+      "mariage": null,
+      "divorce": null,
+      "garde": null,
+      "pension": null
+    }
+  },
+  {
+    "nom": "Henri Lefevre",
+    "resume": {
+      "totalAffaires": 1,
+      "condamnations": 0,
+      "enCours": 1
+    },
+    "infractions": [
+      {
+        "date": "2025-11-04",
+        "qualification": "Fraude fiscale",
+        "statut": "En cours",
+        "peine": "Aucune (procédure en cours)",
+        "details": ""
+      }
+    ],
+    "plaintesContreLui": [],
+    "plaintesDeposees": [],
+    "mesures": {
+      "interdictionContact": null
+    },
+    "famille": {
+      "mariage": {
+        "conjoint": "Véronique Lefevre",
+        "date": "2012-07-25"
+      },
+      "divorce": null,
+      "garde": {
+        "enfants": "Léa Lefevre (2016) – Nathan Lefevre (2017)",
+        "details": ""
+      },
+      "pension": null
+    }
+  },
+  {
+    "nom": "Eric Valmont",
+    "resume": {
+      "totalAffaires": 0,
+      "condamnations": 0,
+      "enCours": 0
+    },
+    "infractions": [],
+    "plaintesContreLui": [],
+    "plaintesDeposees": [],
+    "mesures": {
+      "interdictionContact": null
+    },
+    "famille": {
+      "mariage": {
+        "conjoint": "Marie Valmont",
+        "date": "2009-06-16"
+      },
+      "divorce": null,
+      "garde": {
+        "enfants": "Emma Valmont (2016) – Lucas Valmont (2018)",
+        "details": ""
+      },
+      "pension": null
+    }
+  },
+  {
+    "nom": "Rebecca Lopez",
+    "resume": {
+      "totalAffaires": 3,
+      "condamnations": 1,
+      "enCours": 1
+    },
+    "infractions": [
+      {
+        "date": "2026-02-10",
+        "qualification": "Menace et harcèlement",
+        "statut": "En cours",
+        "peine": "Aucune (procédure en cours)",
+        "details": ""
+      },
+      {
+        "date": "2025-11-16",
+        "qualification": "Menace et harcèlement",
+        "statut": "Condamné",
+        "peine": "Mesure d'éloignement + amende de 4500€",
+        "details": ""
+      }
+    ],
+    "plaintesContreLui": [
+      {
+        "motif": "Menace et harcèlement",
+        "plaignant": "Alexandro Da Silva",
+        "date": "2025-06-09",
+        "statut": "Non précisé"
+      }
+    ],
+    "plaintesDeposees": [],
+    "mesures": {
+      "interdictionContact": {
+        "active": true,
+        "personne": "Alexandro Da Silva",
+        "dateDebut": "2025-11-16",
+        "dateFin": null
+      }
+    },
+    "famille": {
+      "mariage": {
+        "conjoint": "Alexandro Da Silva",
+        "date": "2024-05-01"
+      },
+      "divorce": {
+        "date": "2025-05-03"
+      },
+      "garde": null,
+      "pension": null
+    }
+  },
+  {
+    "nom": "Jerome Touquet",
+    "resume": {
+      "totalAffaires": 2,
+      "condamnations": 1,
+      "enCours": 1
+    },
+    "infractions": [
+      {
+        "date": "2025-12-12",
+        "qualification": "Vols mineurs à répétition",
+        "statut": "En cours",
+        "peine": "Aucune (procédure en cours)",
+        "details": ""
+      },
+      {
+        "date": "2024-08-26",
+        "qualification": "Vente de drogue",
+        "statut": "Condamné",
+        "peine": "1 mois avec sursis",
+        "details": ""
+      }
+    ],
+    "plaintesContreLui": [],
+    "plaintesDeposees": [],
+    "mesures": {
+      "interdictionContact": null
+    },
+    "famille": {
+      "mariage": null,
+      "divorce": null,
+      "garde": null,
+      "pension": null
+    }
   }
 ]
-
