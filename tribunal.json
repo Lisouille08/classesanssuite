@@ -90,19 +90,29 @@
     "plaintesContreLui": [],
     "plaintesDeposees": [],
     "mesures": {
-      "interdictionContact": null,
-      "interdictionLieu": {
+      "interdictionContact": {
         "active": true,
-        "lieu": "Bar XXX",
-        "dateDebut": null,
-        "dateFin": null
+        "personne": "Bar XXX",
+        "dateDebut": "",
+        "dateFin": ""
       }
     },
     "famille": {
-      "mariage": null,
-      "divorce": null,
-      "garde": null,
-      "pension": null
+      "mariage": {
+        "conjoint": "",
+        "date": ""
+      },
+      "divorce": {
+        "date": ""
+      },
+      "garde": {
+        "enfants": "",
+        "details": ""
+      },
+      "pension": {
+        "montant": 0,
+        "statut": ""
+      }
     }
   },
   {
@@ -124,19 +134,29 @@
     "plaintesContreLui": [],
     "plaintesDeposees": [],
     "mesures": {
-      "interdictionContact": null
+      "interdictionContact": {
+        "active": false,
+        "personne": "",
+        "dateDebut": "",
+        "dateFin": ""
+      }
     },
     "famille": {
       "mariage": {
         "conjoint": "Véronique Lefevre",
         "date": "2012-07-25"
       },
-      "divorce": null,
+      "divorce": {
+        "date": ""
+      },
       "garde": {
         "enfants": "Léa Lefevre (2016) – Nathan Lefevre (2017)",
         "details": ""
       },
-      "pension": null
+      "pension": {
+        "montant": 0,
+        "statut": ""
+      }
     }
   },
   {
@@ -150,19 +170,29 @@
     "plaintesContreLui": [],
     "plaintesDeposees": [],
     "mesures": {
-      "interdictionContact": null
+      "interdictionContact": {
+        "active": false,
+        "personne": "",
+        "dateDebut": "",
+        "dateFin": ""
+      }
     },
     "famille": {
       "mariage": {
         "conjoint": "Marie Valmont",
         "date": "2009-06-16"
       },
-      "divorce": null,
+      "divorce": {
+        "date": ""
+      },
       "garde": {
         "enfants": "Emma Valmont (2016) – Lucas Valmont (2018)",
         "details": ""
       },
-      "pension": null
+      "pension": {
+        "montant": 0,
+        "statut": ""
+      }
     }
   },
   {
@@ -202,7 +232,7 @@
         "active": true,
         "personne": "Alexandro Da Silva",
         "dateDebut": "2025-11-16",
-        "dateFin": null
+        "dateFin": ""
       }
     },
     "famille": {
@@ -213,8 +243,14 @@
       "divorce": {
         "date": "2025-05-03"
       },
-      "garde": null,
-      "pension": null
+      "garde": {
+        "enfants": "",
+        "details": ""
+      },
+      "pension": {
+        "montant": 0,
+        "statut": ""
+      }
     }
   },
   {
@@ -243,13 +279,29 @@
     "plaintesContreLui": [],
     "plaintesDeposees": [],
     "mesures": {
-      "interdictionContact": null
+      "interdictionContact": {
+        "active": false,
+        "personne": "",
+        "dateDebut": "",
+        "dateFin": ""
+      }
     },
     "famille": {
-      "mariage": null,
-      "divorce": null,
-      "garde": null,
-      "pension": null
+      "mariage": {
+        "conjoint": "",
+        "date": ""
+      },
+      "divorce": {
+        "date": ""
+      },
+      "garde": {
+        "enfants": "",
+        "details": ""
+      },
+      "pension": {
+        "montant": 0,
+        "statut": ""
+      }
     }
   }
 ]
