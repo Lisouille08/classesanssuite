@@ -1,0 +1,84 @@
+{
+  "slug": "jugemoi",
+  "title": "Juge Moi",
+  "culprit": "HENRI LEFEVRE",
+
+  "apps": [
+    { "id": "identite", "label": "Identité" },
+    { "id": "permis", "label": "Permis" },
+    { "id": "camera", "label": "Caméra" },
+    { "id": "historique", "label": "Historique" },
+    { "id": "photos", "label": "Photos" },
+    { "id": "calendrier", "label": "Calendrier" },
+    { "id": "messages", "label": "Messages" },
+    { "id": "carte", "label": "Carte" },
+    { "id": "notes", "label": "Notes" },
+    { "id": "tribunal", "label": "Tribunal" },
+    { "id": "sante", "label": "Santé" },
+    { "id": "documents", "label": "Documents" },
+    { "id": "news", "label": "News" },
+    { "id": "audition", "label": "Audition" }
+  ],
+
+  "suspects": [
+    {
+      "id": "henri_lefevre",
+      "name": "HENRI LEFEVRE",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/PPHENRI.png?v=1788976078"
+    },
+    {
+      "id": "julien_roseau",
+      "name": "JULIEN ROSEAU",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/PPJULIEN.png?v=1788976078"
+    },
+    {
+      "id": "rebecca_lopez",
+      "name": "REBECCA LOPEZ",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/PPREBECCA.png?v=1788976078"
+    },
+    {
+      "id": "jerome_touquet",
+      "name": "JÉRÔME TOUQUET",
+      "img": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/PPJEROME.png?v=1788976077"
+    }
+  ],
+
+  "documents": [
+    {
+      "id": "brief",
+      "title": "Brief de l'enquête",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/BRIEF.png?v=1788974892"
+    },
+    {
+      "id": "constat_initial",
+      "title": "Rapport de constatations initiales",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/RAPPORT_DE_CONSTATATIONS_Juge_moi.png?v=1788974892"
+    },
+    {
+      "id": "rapport_expertise",
+      "title": "Rapport d'expertise automobile",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/RAPPORT_D_EXPERTISE_AUTOMOBILE_Juge_moi.png?v=1788974893"
+    },
+    {
+      "id": "rapport_medico_legal",
+      "title": "Rapport médico-légal",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/RAPPORT_MEDICO-LEGAL_Eric_VALMONT.png?v=1788974892"
+    },
+    {
+      "id": "photo_bureau",
+      "title": "Photographie - Bureau d'Éric Valmont",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Photo_post-it_Juge_moi.png?v=1788974894"
+    },
+    {
+      "id": "rapport_instagram",
+      "title": "Rapport Instagram",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/RAPPORT_INSTAGRAM.png?v=1788976489"
+    }
+  ]
+}
