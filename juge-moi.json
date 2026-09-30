@@ -3,6 +3,38 @@
   "title": "Juge Moi",
   "culprit": "HENRI LEFEVRE",
 
+  "solution": {
+    "title": "La vérité sur l’affaire",
+    "sections": [
+      {
+        "title": "Pourquoi Henri Lefèvre est-il coupable ?",
+        "paragraphs": [
+          "Pendant son audition, Henri affirme avoir passé la soirée avec sa femme. Pourtant, ses dépenses le placent au McDo près du lieu du crime. Cet achat ne peut pas correspondre au déjeuner : il était alors au travail et sa voiture n’a pas quitté le parking d’AEC Conseils. Son alibi ne tient donc pas.",
+          "Reste à comprendre comment Henri connaissait le lieu et l’heure du rendez-vous d’Éric Valmont. Dans les messages et sur Instagram, un nom relie les deux hommes : Louis Berger. Ancien collègue d’Henri, dont il est resté proche, Louis travaille désormais avec Éric. Un post-it visible dans les documents d’Éric indiquait le lieu et l’heure du rendez-vous. Henri a donc pu obtenir ces informations par son intermédiaire."
+        ]
+      },
+      {
+        "title": "Pourquoi Rebecca est-elle innocente ?",
+        "paragraphs": [
+          "Les caméras montrent que Rebecca rentre chez elle et n’en ressort pas. Elle ne se rend donc pas sur le lieu du crime."
+        ]
+      },
+      {
+        "title": "Pourquoi Julien est-il innocent ?",
+        "paragraphs": [
+          "Julien ment sur son alibi, mais les caméras et ses dépenses le placent au bar La Purge. Après la bagarre mentionnée dans l’application News, la police bloque les lieux. Lorsqu’elle repart, Julien n’a plus le temps de rejoindre le lieu du crime. Son mensonge en fait un suspect, mais la chronologie permet de l’écarter."
+        ]
+      },
+      {
+        "title": "Pourquoi Jérôme est-il innocent ?",
+        "paragraphs": [
+          "Jérôme était le suspect le plus trompeur… et ce n’est probablement pas vous qui direz le contraire ! On le voit devant chez Éric et c’est son numéro qui prévient la police après l’accident.",
+          "Mais ses difficultés financières, ses antécédents, ses messages et ses notes orientent vers un autre projet : cambrioler Éric. Il se trouvait dans les parages, sans être celui qui l’a tué."
+        ]
+      }
+    ]
+  },
+
   "apps": [
     { "id": "identite", "label": "Identité" },
     { "id": "permis", "label": "Permis" },
