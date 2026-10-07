@@ -29,6 +29,12 @@
       "name": "JEROME TOUQUET",
       "label": "Suspect",
       "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/profil_jerome.png?v=1783757317"
+    },
+    {
+  "id": "lena_morel",
+  "name": "LÉNA MOREL",
+  "label": "Sujet",
+  "avatar": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/PPLENAMOREL.png?v=1791404484"
     }
   ],
   "events": [
@@ -306,6 +312,72 @@
       "location": "Sans localisation",
       "note": "X.",
       "type": "personal"
-    }
+    }, 
+    {
+  "id": "evt_030",
+  "suspectId": "lena_morel",
+  "date": "2026-09-04",
+  "start": "08:00",
+  "end": "18:00",
+  "title": "Commander les chemins de table",
+  "location": "Sans localisation",
+  "note": "Vérifier les dimensions avant de commander.",
+  "type": "personal"
+},
+{
+  "id": "evt_031",
+  "suspectId": "lena_morel",
+  "date": "2026-09-09",
+  "start": "14:00",
+  "end": "15:00",
+  "title": "Rendez-vous fleuriste",
+  "location": "Nice",
+  "note": "Valider les fleurs et la décoration des tables.",
+  "type": "meeting"
+},
+{
+  "id": "evt_032",
+  "suspectId": "lena_morel",
+  "date": "2026-09-14",
+  "start": "08:00",
+  "end": "18:00",
+  "title": "Finaliser le plan de table",
+  "location": "Domicile",
+  "note": "Faire la version définitive.",
+  "type": "personal"
+},
+{
+  "id": "evt_033",
+  "suspectId": "lena_morel",
+  "date": "2026-09-19",
+  "start": "11:00",
+  "end": "12:00",
+  "title": "Dernier essayage robe",
+  "location": "Boutique de mariage Nice",
+  "note": "Dernières retouches avant le mariage.",
+  "type": "personal"
+},
+{
+  "id": "evt_034",
+  "suspectId": "lena_morel",
+  "date": "2026-09-24",
+  "start": "08:00",
+  "end": "18:00",
+  "title": "Confirmer le nombre d'invités au traiteur",
+  "location": "Sans localisation",
+  "note": "Envoyer le nombre définitif de personnes.",
+  "type": "personal"
+},
+{
+  "id": "evt_035",
+  "suspectId": "lena_morel",
+  "date": "2026-10-03",
+  "start": "08:00",
+  "end": "18:00",
+  "title": "Jour J",
+  "location": "Nice",
+  "note": "Mariage ❤️",
+  "type": "personal"
+}
   ]
 }
