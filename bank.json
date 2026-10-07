@@ -1095,5 +1095,209 @@
         ]
       }
     ]
-  }
+  },
+{
+  "nom": "Léna Morel",
+  "banque": "CSS Bank",
+  "iban": "FR76 3004 1026 5841 7392 6418 205",
+  "compte_courant": 1548.72,
+  "livret_a": 2850.0,
+  "credits": [],
+  "carte_cb": "4976 2841 6359 7204",
+  "operations": [
+    {
+      "mois": "Septembre 2026",
+      "depenses": [
+        {
+          "date": "01/09",
+          "libelle": "Loyer",
+          "montant": 485.0,
+          "categorie": "Logement"
+        },
+        {
+          "date": "02/09",
+          "libelle": "Carrefour Nice",
+          "montant": 48.72,
+          "categorie": "Courses"
+        },
+        {
+          "date": "03/09",
+          "libelle": "Spotify Premium",
+          "montant": 11.12,
+          "categorie": "Abonnement"
+        },
+        {
+          "date": "04/09",
+          "libelle": "Maison Options Mariage",
+          "montant": 124.9,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "05/09",
+          "libelle": "Zara Nice",
+          "montant": 46.95,
+          "categorie": "Vêtements"
+        },
+        {
+          "date": "06/09",
+          "libelle": "Interflora Nice",
+          "montant": 89.0,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "07/09",
+          "libelle": "Monoprix Nice",
+          "montant": 32.84,
+          "categorie": "Courses"
+        },
+        {
+          "date": "08/09",
+          "libelle": "Atelier Papeterie Mariage",
+          "montant": 67.5,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "09/09",
+          "libelle": "TotalEnergies Nice",
+          "montant": 54.62,
+          "categorie": "Carburant"
+        },
+        {
+          "date": "10/09",
+          "libelle": "Sephora Nice",
+          "montant": 42.9,
+          "categorie": "Beauté"
+        },
+        {
+          "date": "11/09",
+          "libelle": "Amazon",
+          "montant": 28.49,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "12/09",
+          "libelle": "Carrefour Nice",
+          "montant": 56.31,
+          "categorie": "Courses"
+        },
+        {
+          "date": "13/09",
+          "libelle": "Netflix",
+          "montant": 13.49,
+          "categorie": "Abonnement"
+        },
+        {
+          "date": "14/09",
+          "libelle": "Atelier Floral Riviera",
+          "montant": 175.0,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "15/09",
+          "libelle": "Uber",
+          "montant": 14.8,
+          "categorie": "Transport"
+        },
+        {
+          "date": "16/09",
+          "libelle": "Photographe Studio Riviera",
+          "montant": 250.0,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "17/09",
+          "libelle": "Boulangerie Paul Nice",
+          "montant": 8.6,
+          "categorie": "Alimentation"
+        },
+        {
+          "date": "18/09",
+          "libelle": "E.Leclerc Nice",
+          "montant": 43.76,
+          "categorie": "Courses"
+        },
+        {
+          "date": "19/09",
+          "libelle": "Etsy",
+          "montant": 38.4,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "20/09",
+          "libelle": "Coiffure Jean Louis David",
+          "montant": 62.0,
+          "categorie": "Beauté"
+        },
+        {
+          "date": "21/09",
+          "libelle": "Traiteur Côte d'Azur",
+          "montant": 320.0,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "22/09",
+          "libelle": "Pharmacie Nice Étoile",
+          "montant": 14.35,
+          "categorie": "Santé"
+        },
+        {
+          "date": "23/09",
+          "libelle": "Action Nice",
+          "montant": 36.72,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "24/09",
+          "libelle": "Onglerie Nice Beauty",
+          "montant": 45.0,
+          "categorie": "Beauté"
+        },
+        {
+          "date": "25/09",
+          "libelle": "Galeries Lafayette Nice",
+          "montant": 79.9,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "26/09",
+          "libelle": "Carrefour Nice",
+          "montant": 39.64,
+          "categorie": "Courses"
+        },
+        {
+          "date": "26/09",
+          "libelle": "Uber",
+          "montant": 12.7,
+          "categorie": "Transport"
+        },
+        {
+          "date": "27/09",
+          "libelle": "McDonald's Nice",
+          "montant": 9.7,
+          "categorie": "Restauration"
+        },
+        {
+          "date": "27/09",
+          "libelle": "Amazon",
+          "montant": 24.99,
+          "categorie": "Mariage"
+        },
+        {
+          "date": "28/09",
+          "libelle": "Retrait DAB Nice",
+          "montant": 600.0,
+          "categorie": "Retrait espèces"
+        }
+      ],
+      "recettes": [
+        {
+          "date": "01/09",
+          "libelle": "Salaire",
+          "montant": 1768.42,
+          "categorie": "Salaire"
+        }
+      ]
+    }
+  ]
+}
 ]
