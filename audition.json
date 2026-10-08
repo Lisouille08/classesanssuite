@@ -91,7 +91,6 @@
       }
     ]
   },
-
   {
     "nom": "Rebecca Lopez",
     "dateAudition": "2026-04-27",
@@ -126,7 +125,7 @@
         "q": "Quand l'avez-vous vu pour la dernière fois ?",
         "r": "Je ne saurais pas vous dire exactement. Mais quand je le crois c'est tout le temps sur un coup de vent. On nettoie les bureaux d'entreprises assez tard donc quand je le croisais c'est qu'il faisait des heures supp. "
       },
-       {
+      {
         "q": "Ca lui arrivait souvent d'en faire?",
         "r": "Oui mais je pense que c'est la profession qui veut ça. Ses collègues restent tard aussi."
       },
@@ -187,7 +186,8 @@
         "r": "Oui. Maintenant que j'ai répondu à vos questions, j'aimerais qu'on me laisse tranquille."
       }
     ]
-  },  {
+  },
+  {
     "nom": "Julien Roseau",
     "dateAudition": "2026-04-27",
     "lieu": "Bordeaux",
@@ -279,7 +279,6 @@
       }
     ]
   },
-
   {
     "nom": "Jerome Touquet",
     "dateAudition": "2026-04-27",
@@ -371,7 +370,8 @@
         "r": "Bonne soirée."
       }
     ]
-  },  {
+  },
+  {
     "nom": "Veronique Lefevre",
     "dateAudition": "2026-04-27",
     "lieu": "Bordeaux",
@@ -427,7 +427,6 @@
       }
     ]
   },
-
   {
     "nom": "Enzo Calpetard",
     "dateAudition": "2026-04-27",
@@ -484,7 +483,6 @@
       }
     ]
   },
-
   {
     "nom": "Mathis Dumas",
     "dateAudition": "2026-04-27",
@@ -538,6 +536,170 @@
       {
         "q": "Souhaitez-vous ajouter quelque chose ?",
         "r": "Non."
+      }
+    ]
+  },
+  {
+    "nom": "Chloé Richard",
+    "dateAudition": "2026-09-29",
+    "lieu": "Nice",
+    "agent": "",
+    "questions": [
+      {
+        "q": "Pouvez-vous nous expliquer votre relation avec Léna Morel ?",
+        "r": "C'est ma meilleure amie. On se connaît depuis des années, on se raconte à peu près tout. Enfin voilà, c'est quelqu'un de très important pour moi."
+      },
+      {
+        "q": "Quand avez-vous vu Léna pour la dernière fois ?",
+        "r": "Je sais plus exactement. Il y a quelques jours, je dirais. On s'est vues plusieurs fois en septembre avec tous les préparatifs du mariage."
+      },
+      {
+        "q": "Comment vous semblait-elle ces derniers temps ?",
+        "r": "Normale. Enfin, un peu fatiguée peut-être, mais avec son mariage qui approchait, ça me paraît pas très étonnant."
+      },
+      {
+        "q": "Vous n'avez remarqué aucun changement particulier dans son comportement ?",
+        "r": "Elle était peut-être un peu plus dans sa tête que d'habitude. Mais bon, on a tous des périodes comme ça."
+      },
+      {
+        "q": "Est-ce qu'elle vous avait confié des inquiétudes concernant son mariage ?",
+        "r": "Comme toutes les futures mariées, j'imagine. Elle se posait des questions, elle stressait pour l'organisation. Rien d'extraordinaire."
+      },
+      {
+        "q": "Et concernant Thomas, son fiancé ?",
+        "r": "Quoi, Thomas ?"
+      },
+      {
+        "q": "Est-ce qu'elle vous avait parlé de problèmes dans leur couple ?",
+        "r": "Vous savez, je connais pas beaucoup de couples qui se disputent jamais. Après, ça veut pas dire qu'ils avaient des problèmes graves."
+      },
+      {
+        "q": "Comment décririez-vous leur relation ?",
+        "r": "Bah, ils étaient ensemble depuis un moment, ils allaient se marier. Après, ce qui se passe réellement dans un couple, ça regarde les deux personnes concernées."
+      },
+      {
+        "q": "Thomas nous a expliqué qu'il était persuadé qu'il était arrivé quelque chose à Léna. Vous partagez son inquiétude ?",
+        "r": "Thomas a toujours tendance à imaginer le pire. Je comprends qu'il soit inquiet, mais ça sert à rien de partir directement sur les scénarios les plus dramatiques."
+      },
+      {
+        "q": "Votre meilleure amie est introuvable et ne donne plus de nouvelles. Vous ne trouvez pas cela inquiétant ?",
+        "r": "Si, enfin… c'est pas une situation normale, évidemment. Mais je vais pas commencer à imaginer qu'elle est morte dans un fossé juste parce qu'on arrive pas à la joindre."
+      },
+      {
+        "q": "Vous semblez particulièrement calme.",
+        "r": "Vous voulez que je fasse quoi ? Que je pleure ? Que je crie ? Je vois pas en quoi ça vous aiderait à la retrouver."
+      },
+      {
+        "q": "Vous pensez qu'elle aurait pu partir volontairement ?",
+        "r": "J'en sais rien. C'est à elle qu'il faut poser la question."
+      },
+      {
+        "q": "Vous nous avez pourtant expliqué très bien la connaître.",
+        "r": "Oui, et alors ? C'est ma meilleure amie, pas ma propriété. Elle fait ce qu'elle veut de sa vie."
+      },
+      {
+        "q": "Est-ce que Léna vous a parlé de son intention de partir ou de prendre ses distances ?",
+        "r": "Non, elle m'a pas annoncé qu'elle allait disparaître, si c'est ce que vous me demandez."
+      },
+      {
+        "q": "Avez-vous eu des nouvelles d'elle depuis sa disparition ?",
+        "r": "Non."
+      },
+      {
+        "q": "Avez-vous essayé de la contacter ?",
+        "r": "Oui, je lui ai envoyé des messages. Elle a pas répondu."
+      },
+      {
+        "q": "Et ça ne vous inquiète toujours pas ?",
+        "r": "Écoutez, je vous ai déjà répondu. Je vais pas inventer une inquiétude juste pour que mes réponses vous conviennent."
+      },
+      {
+        "q": "Vous avez quelque chose à ajouter qui pourrait nous aider à la retrouver ?",
+        "r": "Non. Rien de plus."
+      }
+    ]
+  },
+  {
+    "nom": "Thomas Dariot",
+    "dateAudition": "2026-09-29",
+    "lieu": "Nice",
+    "agent": "",
+    "questions": [
+      {
+        "q": "Monsieur Dariot, pouvez-vous nous expliquer ce qu'il s'est passé le jour de la disparition de votre fiancée ?",
+        "r": "Je suis parti travailler le matin, comme d'habitude. Léna travaillait pas ce jour-là, donc elle devait rester à la maison. Je suis rentré vers 18 heures et elle était pas là. Au début, j'ai pas spécialement fait attention. Je me suis dit qu'elle était sûrement sortie faire une course ou qu'elle était avec une copine."
+      },
+      {
+        "q": "Vous avez essayé de la contacter ?",
+        "r": "Oui, je l'ai appelée en rentrant. Elle a pas répondu, donc je lui ai envoyé un message. J'ai attendu un peu et j'ai réessayé. Mais toujours rien."
+      },
+      {
+        "q": "À quel moment avez-vous commencé à vous inquiéter ?",
+        "r": "Vers 20 heures. Ça faisait deux heures que j'étais rentré et j'avais toujours aucune nouvelle. Je commençais vraiment à paniquer. Léna, elle fait pas ça normalement. Elle me prévient toujours quand elle rentre tard, même juste avec un petit message. Là, rien du tout."
+      },
+      {
+        "q": "C'est à ce moment-là que vous avez contacté la police ?",
+        "r": "Oui. Je savais plus quoi faire. J'avais essayé de la joindre plusieurs fois, je tournais en rond dans l'appartement. Je me suis dit qu'il lui était forcément arrivé quelque chose."
+      },
+      {
+        "q": "Avez-vous remarqué quelque chose d'inhabituel dans votre domicile ?",
+        "r": "Oui, il manque des affaires à elle. Des vêtements, quelques trucs personnels... Mais je sais pas exactement tout ce qu'il manque. J'ai pas fait l'inventaire de ses placards, vous comprenez."
+      },
+      {
+        "q": "Le fait que certaines de ses affaires aient disparu pourrait laisser penser qu'elle a préparé son départ.",
+        "r": "Non. Non, je suis désolé, mais ça tient pas debout. Pourquoi elle ferait ça ? On allait se marier dans quelques jours ! On avait tout organisé, tout payé, les invités étaient prévenus... Vous pensez vraiment qu'elle aurait tout abandonné comme ça, du jour au lendemain ?"
+      },
+      {
+        "q": "Nous devons envisager toutes les hypothèses, monsieur Dariot.",
+        "r": "Oui, je comprends, mais vous connaissez pas Léna. Elle aurait jamais fait ça. Pas sans me parler, pas sans m'expliquer. C'est pas elle."
+      },
+      {
+        "q": "Comment se passait votre relation ces derniers temps ?",
+        "r": "Très bien. Vraiment. On était heureux. On avait tellement hâte de se marier... Enfin moi, j'étais plus qu'heureux. C'était la femme de ma vie. On parlait du mariage tous les jours, on avait plein de projets pour après. Je comprends pas ce qui a pu se passer."
+      },
+      {
+        "q": "Vous n'aviez pas remarqué de changement dans son comportement ?",
+        "r": "Non... Enfin, elle était un peu stressée avec le mariage, mais c'est normal, non ? Il restait plein de petites choses à régler. Elle voulait que tout soit parfait."
+      },
+      {
+        "q": "Est-ce qu'elle vous semblait heureuse à l'idée de se marier ?",
+        "r": "Oui, bien sûr. Enfin... oui. Elle s'occupait de tout, elle passait des heures à choisir les décorations, les fleurs, les détails pour la cérémonie. Pourquoi elle aurait fait tout ça si elle voulait pas se marier ?"
+      },
+      {
+        "q": "Aviez-vous eu une dispute récemment ?",
+        "r": "Non. Enfin, comme tous les couples, ça nous arrive de pas être d'accord sur des trucs, mais rien de grave. Rien qui pourrait expliquer ça."
+      },
+      {
+        "q": "Est-ce qu'elle vous avait déjà parlé de doutes concernant votre avenir ensemble ?",
+        "r": "Non, jamais. Enfin, pas à moi en tout cas. Vous savez quelque chose ? Elle a dit quelque chose à quelqu'un ?"
+      },
+      {
+        "q": "Nous cherchons simplement à comprendre son état d'esprit avant sa disparition.",
+        "r": "Mais justement, elle allait bien ! Je vous assure. Je sais que vous devez poser toutes ces questions, mais j'ai l'impression que vous cherchez à me faire dire qu'elle voulait partir. Et c'est pas le cas."
+      },
+      {
+        "q": "Savez-vous si elle avait prévu de voir quelqu'un ce jour-là ?",
+        "r": "Non, elle m'avait rien dit. Mais elle avait sa journée, elle pouvait très bien avoir prévu quelque chose sans m'en parler. Je lui demandais pas de me raconter chaque minute de sa journée."
+      },
+      {
+        "q": "Avez-vous contacté ses proches avant de nous appeler ?",
+        "r": "J'ai essayé de voir si quelqu'un avait des nouvelles, oui. Mais personne pouvait me dire où elle était. C'est là que j'ai vraiment commencé à imaginer le pire."
+      },
+      {
+        "q": "Pensez-vous que quelqu'un aurait pu vouloir lui faire du mal ?",
+        "r": "J'en sais rien... C'est ça qui me rend fou. Elle a pas d'ennemis, elle cherche jamais les problèmes. Je vois pas qui pourrait lui vouloir du mal. Mais il s'est forcément passé quelque chose."
+      },
+      {
+        "q": "Vous êtes donc certain qu'elle n'est pas partie volontairement ?",
+        "r": "Oui. Enfin... je la connais. On partage notre vie, notre appartement, on allait se dire oui dans quelques jours. Elle aurait pas disparu comme ça en me laissant sans aucune nouvelle. C'est impossible."
+      },
+      {
+        "q": "Monsieur Dariot, est-ce qu'il y a autre chose que vous souhaiteriez nous communiquer ?",
+        "r": "Non... Je veux juste que vous la retrouviez. S'il vous plaît. Je dors plus, je regarde mon téléphone toutes les cinq minutes en espérant qu'elle m'appelle. Je sais même pas où elle est, si elle va bien, si elle a besoin d'aide... Je peux pas rester là à rien faire."
+      },
+      {
+        "q": "Nous faisons le nécessaire pour comprendre ce qui lui est arrivé.",
+        "r": "Alors retrouvez-la. Je vous en supplie. Je veux juste qu'elle rentre à la maison."
       }
     ]
   }
