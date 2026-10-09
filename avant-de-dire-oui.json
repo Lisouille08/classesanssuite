@@ -1,0 +1,18 @@
+{
+  "slug": "avant-de-dire-oui",
+  "title": "Avant de dire oui",
+  "documents": [
+    {
+      "id": "brief",
+      "title": "Brief de l'enquête",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/BRIEF_AVANT_DE_DIRE_OUI.png?v=1791562938"
+    },
+    {
+      "id": "rapport_instagram",
+      "title": "Rapport Instagram",
+      "type": "image",
+      "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Rapport_insta_avant_de_dire_oui.png?v=1791405848"
+    }
+  ]
+}
