@@ -14,5 +14,22 @@
       "type": "image",
       "content": "https://cdn.shopify.com/s/files/1/0919/0355/8006/files/Rapport_insta_avant_de_dire_oui.png?v=1791405848"
     }
-  ]
+  ],
+  "solution": {
+    "title": "LA RÉPONSE",
+    "sections": [
+      {
+        "title": "La disparition de Léna Morel",
+        "paragraphs": [
+          "Tout commence dans les messages entre Léna et Chloé. Léna y exprime ses doutes et son angoisse à l'approche du mariage. Elle évoque également une autre personne.",
+          "En fouillant ses conversations, on découvre un certain « Mathis », avec qui Léna semble entretenir une relation sentimentale. Pourtant, cette personne parle au féminin : Mathis est donc vraisemblablement un faux nom utilisé pour dissimuler l'identité d'une femme.",
+          "La veille de sa disparition, Léna se rend au McDonald's. Ce rendez-vous est confirmé par ses dépenses bancaires, les caméras de surveillance et une publication Instagram. Sous cette publication, cam3729 commente : « On s'est régalés », laissant comprendre qu'elle accompagnait Léna.",
+          "En consultant ce profil, on découvre le prénom Camille. Une recherche dans l'application Identité permet alors de retrouver Camille Raymond, domiciliée au 5 rue Mozart à Cannes.",
+          "En croisant les applications Permis et Caméra, on retrouve le véhicule de Léna le soir de sa disparition, à cette même adresse, grâce à sa plaque d'immatriculation.",
+          "Enfin, deux indices confirment la piste d'un départ volontaire : Léna a retiré 600 € le jour de sa disparition, et Thomas révèle dans son audition qu'elle a emporté des affaires.",
+          "Léna Morel n'a pas été enlevée. Elle a organisé son départ pour fuir son mariage et rejoindre Camille Raymond, une femme pour qui elle éprouvait des sentiments."
+        ]
+      }
+    ]
+  }
 }
